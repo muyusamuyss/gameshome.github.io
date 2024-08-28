@@ -1,1 +1,0 @@
-{"PRODUCT_START":{"switch":"!"},"PRODUCT_BEGIN":{"switch":"!"},"GAME_HOME.HOME":{},"PRODUCT_HOME_PLAY":{"switch":"!"},"GAME_PLAY":{"states":["PLAY","OVER","SETTLE","END"]},"GAME_PLAY.PLAY":{},"GAME_PLAY.OVER":{},"GAME_PLAY.SETTLE":{},"GAME_PLAY.END":{"switch":"!"},"PRODUCT_PLAY_END":{"switch":"!"},"PRODUCT_FINISH":{"event":"event_game_count"},"GAME_END":{}}
