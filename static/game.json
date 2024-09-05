@@ -1,0 +1,1681 @@
+{
+    "Tool": "github.com/davyxu/tabtoy",
+    "Version": "2.8.11",
+    "MutiLanguageConfigs": [
+        {
+            "_id": "1",
+            "key": "丧尸围城",
+            "en_us": "Zombie Strafing",
+            "id": "Pembasmian Zombi",
+            "pt_br": "Bombardeio de Zumbis",
+            "vi": "Xác Sống Vây Thành"
+        },
+        {
+            "_id": "2",
+            "key": "猫咪美食街",
+            "en_us": "Kitty's Food Court",
+            "id": "Kedai Makanan Kucing",
+            "pt_br": "Praça de Alimentação do Gatinho",
+            "vi": "Khu Ẩm Thực Mèo Con"
+        },
+        {
+            "_id": "3",
+            "key": "找茬庭院",
+            "en_us": "Odd Courtyard",
+            "id": "Halaman Aneh",
+            "pt_br": "Khuôn Viên Lạ Kỳ",
+            "vi": "Pátio Bizarro"
+        },
+        {
+            "_id": "4",
+            "key": "块块左右消",
+            "en_us": "Drag The Block",
+            "id": "Geser Balok",
+            "pt_br": "Arraste os Blocos",
+            "vi": "Kéo Khối Qua Lại"
+        },
+        {
+            "_id": "5",
+            "key": "合成大骰子",
+            "en_us": "Dice Puzzle",
+            "id": "Puzzle Dadu",
+            "pt_br": "Quebra-Cabeça de Dados",
+            "vi": "Ghép Hình Xúc Xắc"
+        },
+        {
+            "_id": "6",
+            "key": "合成小院",
+            "en_us": "Merge for Renovation",
+            "id": "Gabungkan untuk Merenovasi",
+            "pt_br": "Combine para Reformar",
+            "vi": "Hợp Thành Tiểu Viện"
+        },
+        {
+            "_id": "7",
+            "key": "方块消除大师",
+            "en_us": "Tetromino Master",
+            "id": "Tetromino Master",
+            "pt_br": "Mestre do Tetraminó",
+            "vi": "Bậc Thầy Xếp Hình"
+        },
+        {
+            "_id": "8",
+            "key": "僵尸惊魂夜",
+            "en_us": "Fright Night",
+            "id": "Malam Mencekam",
+            "pt_br": "Noite do Terror",
+            "vi": "Đêm Kinh Hoàng"
+        },
+        {
+            "_id": "9",
+            "key": "最强躲猫猫",
+            "en_us": "Hide and Seek Now",
+            "id": "Petak Umpet Sekarang",
+            "pt_br": "Esconde-esconde Agora",
+            "vi": "Trốn Tìm"
+        },
+        {
+            "_id": "10",
+            "key": "麻将挪对对",
+            "en_us": "Mahjong Pop",
+            "id": "Mahyong Pop",
+            "pt_br": "Pop Mahjong",
+            "vi": "Ghép Mạt Chược"
+        },
+        {
+            "_id": "11",
+            "key": "疯狂披萨店",
+            "en_us": "Strange Pizza Shop",
+            "id": "Kedai Piza Aneh",
+            "pt_br": "Pizzaria Estranha",
+            "vi": "Strange Pizza Shop"
+        },
+        {
+            "_id": "12",
+            "key": "暴打僵尸",
+            "en_us": "Hit the Zombie Doll",
+            "id": "Pukul Boneka Zombie",
+            "pt_br": "Acerte a Boneca Zumbi",
+            "vi": "Đại Chiến Thây Ma"
+        },
+        {
+            "_id": "13",
+            "key": "堆叠胖小人",
+            "en_us": "Shoulder Sit Race",
+            "id": "Lomba Gendong Bahu",
+            "pt_br": "Corrida nos Ombros",
+            "vi": "Cuộc Đua Ngồi Lên Vai"
+        },
+        {
+            "_id": "14",
+            "key": "大富豪酒店",
+            "en_us": "Regal Hotel",
+            "id": "Hotel Megah",
+            "pt_br": "Hotel Real",
+            "vi": "Quán Rượu Đại Phú Hào"
+        },
+        {
+            "_id": "15",
+            "key": "疯狂鸡大逃杀",
+            "en_us": "Chicken Royale",
+            "id": "Ayam Tempur",
+            "pt_br": "Frango Royale",
+            "vi": "Chiến Trận Hùng Kê"
+        },
+        {
+            "_id": "16",
+            "key": "废土老司机",
+            "en_us": "Wasteland Off-Roading",
+            "id": "Off-Road Gurun",
+            "pt_br": "Off-Road no Deserto",
+            "vi": "Quái Xế Đất Hoang"
+        },
+        {
+            "_id": "17",
+            "key": "飞行棋终极版",
+            "en_us": "Ludo Ultimates",
+            "id": "Ludo Ultimates",
+            "pt_br": "Ludo Ultimates",
+            "vi": "Ludo Ultimates"
+        },
+        {
+            "_id": "18",
+            "key": "格斗大师",
+            "en_us": "Posture Duel",
+            "id": "Duel Postur",
+            "pt_br": "Duelo de Postura",
+            "vi": "Thư Hùng Tranh Bá"
+        },
+        {
+            "_id": "19",
+            "key": "孤岛漂流记",
+            "en_us": "Island to Myself",
+            "id": "Pulau Pribadi",
+            "pt_br": "Ilha para Mim",
+            "vi": "Độc Đảo Phiêu Lưu Ký"
+        },
+        {
+            "_id": "20",
+            "key": "功夫足球星",
+            "en_us": "Rebound Star",
+            "id": "Jago Pantul",
+            "pt_br": "Estrela do Rebote",
+            "vi": "Siêu Sao Túc Cầu"
+        },
+        {
+            "_id": "21",
+            "key": "怪兽星球",
+            "en_us": "Monster Planet",
+            "id": "Planet Monster",
+            "pt_br": "Planeta dos Monstros",
+            "vi": "Hành Tinh Quái Vật"
+        },
+        {
+            "_id": "22",
+            "key": "火柴人侠盗世界",
+            "en_us": "Stickman: Going Rogue",
+            "id": "Stickman: Menjadi Pengembara",
+            "pt_br": "Homem-palito: Indo Contra as Regras",
+            "vi": "Người Que: Ngoài Vòng Pháp Luật"
+        },
+        {
+            "_id": "23",
+            "key": "尖叫宿舍",
+            "en_us": "Screaming Dorms",
+            "id": "Asrama Hantu",
+            "pt_br": "Quartos do Grito",
+            "vi": "Ký Túc Xá Gào Thét"
+        },
+        {
+            "_id": "24",
+            "key": "懒虫大冒险",
+            "en_us": "Lazy Caterpillar",
+            "id": "Ulat Pemalas",
+            "pt_br": "Lagarta Preguiçosa",
+            "vi": "Sâu Bướm Lười Nhác"
+        },
+        {
+            "_id": "25",
+            "key": "梦幻小岛",
+            "en_us": "Into the Island",
+            "id": "Menuju Pulau",
+            "pt_br": "Dentro da Ilha",
+            "vi": "Khám phá Đảo Tiên"
+        },
+        {
+            "_id": "26",
+            "key": "坦克突袭",
+            "en_us": "War of Tanks",
+            "id": "Perang Tank",
+            "pt_br": "Guerra de Tanques",
+            "vi": "Xe Tăng Đột Kích"
+        },
+        {
+            "_id": "27",
+            "key": "突破重围",
+            "en_us": "Barrier Breach",
+            "id": "Penerobosan",
+            "pt_br": "Quebra de Barreira",
+            "vi": "Đột Phá Vòng Vây"
+        },
+        {
+            "_id": "28",
+            "key": "挖穿地球",
+            "en_us": "Dig through the Earth",
+            "id": "Tembus Bumi",
+            "pt_br": "Cave a Terra",
+            "vi": "Đào Xuyên Địa Cầu"
+        },
+        {
+            "_id": "29",
+            "key": "纸牌接龙",
+            "en_us": "Solitaire Klondike",
+            "id": "Solitaire Klondike",
+            "pt_br": "Paciência Klondike",
+            "vi": "Xếp bài Klondike"
+        },
+        {
+            "_id": "30",
+            "key": "植物对战僵尸",
+            "en_us": "Zombie Garden vs Plants Defence",
+            "id": "Kebun Zombi vs Pertahanan Tanaman",
+            "pt_br": "Vườn Thây Ma vs Cây Phòng Ngự",
+            "vi": "Jardim dos Zumbis vs Defesa das Plantas"
+        },
+        {
+            "_id": "31",
+            "key": "植物僵尸惹不起",
+            "en_us": "Stop the Zombies",
+            "id": "Stop the Zombies",
+            "pt_br": "Detenha os zumbis",
+            "vi": "Thực Vật Đấu Zombie"
+        },
+        {
+            "_id": "32",
+            "key": "玩爆僵尸",
+            "en_us": "Don't Cross The Line",
+            "id": "Jangan Lewati Garis",
+            "pt_br": "Não Cruze a Linha",
+            "vi": "Ranh Giới Sống Còn"
+        },
+        {
+            "_id": "33",
+            "key": "每日发现",
+            "en_us": "Daily Discover",
+            "id": "Penemuan Harian",
+            "pt_br": "Descoberta Diária",
+            "vi": "Khám phá hàng ngày"
+        },
+        {
+            "_id": "34",
+            "key": "精品推荐",
+            "en_us": "Featured Recommends",
+            "id": "Rekomendasi Unggulan",
+            "pt_br": "Recomendações em Destaque",
+            "vi": "Gợi ý Nổi bật"
+        },
+        {
+            "_id": "35",
+            "key": "全部游戏",
+            "en_us": "All Games",
+            "id": "Semua Permainan",
+            "pt_br": "Todos os Jogos",
+            "vi": "Tất cả trò chơi"
+        },
+        {
+            "_id": "36",
+            "key": "换一组",
+            "en_us": "Change",
+            "id": "Ganti",
+            "pt_br": "Mudar",
+            "vi": "Nhóm"
+        },
+        {
+            "_id": "37",
+            "key": "输入游戏名",
+            "en_us": "Enter Game Name",
+            "id": "Masukkan Nama Permainan",
+            "pt_br": "Digite o Nome do Jogo",
+            "vi": "Nhập tên trò chơi"
+        },
+        {
+            "_id": "38",
+            "key": "取消",
+            "en_us": "Cancel",
+            "id": "Batalkan",
+            "pt_br": "Cancelar",
+            "vi": "Hủy bỏ"
+        },
+        {
+            "_id": "39",
+            "key": "消灭丧尸吧，末日的人类急需要你来拯救！",
+            "en_us": "Human beings are in the doomsday! Go save them!",
+            "id": "Manusia dalam bahaya! Selamatkan mereka!",
+            "pt_br": "Os seres humanos estão no dia do juízo final! Salve-os!",
+            "vi": "Nhân loại ngày tàn đang cần bạn cứu mạng!"
+        },
+        {
+            "_id": "40",
+            "key": "开启猫咪美食街经营之旅!",
+            "en_us": "This is the start of your food street journey",
+            "id": "Ini adalah awal dari perjalanan kedai makananmu",
+            "pt_br": "Este é o começo da sua jornada gastronômica",
+            "vi": "Khởi đầu chuyến hành trình ẩm thực của bạn"
+        },
+        {
+            "_id": "41",
+            "key": "一款令人停不下来的找茬游戏合集",
+            "en_us": "Irresistible game collection of spot-the-tricky-stuff",
+            "id": "Kumpulan game menemukan barang unik yang tidak dapat ditolak",
+            "pt_br": "Coleção de jogos irresistíveis de encontrar coisas complicadas",
+            "vi": "Một bộ sưu tập trò chơi tìm điểm khác biệt có sức hút không thể chối từ"
+        },
+        {
+            "_id": "42",
+            "key": "左滑右滑消消乐",
+            "en_us": "Drag The Block",
+            "id": "Geser Balok",
+            "pt_br": "Arraste os Blocos",
+            "vi": "Kéo Khối Qua Lại"
+        },
+        {
+            "_id": "43",
+            "key": "骰子合成大挑战，比比谁最快",
+            "en_us": "Dice challenge! See who can merge dices faster!",
+            "id": "Tantangan dadu! Lihat siapa yang bisa menggabungkan dadu lebih cepat!",
+            "pt_br": "Desafio dos dados! Veja quem consegue mesclar os dados mais rápido!",
+            "vi": "Đại thử thách hợp thành xúc xắc, đấu xem ai nhanh nhất!"
+        },
+        {
+            "_id": "44",
+            "key": "你今天来我家吗",
+            "en_us": "Join me at my place today, will you?",
+            "id": "Bergabunglah bersamaku di rumahku hari ini, ya?",
+            "pt_br": "Junta-te a mim em casa hoje, podes?",
+            "vi": "Hãy đến nhà tôi hôm nay nhé!"
+        },
+        {
+            "_id": "45",
+            "key": "有趣且令人上瘾方块消除",
+            "en_us": "A fun and additive tetris type game",
+            "id": "Game jenis tetris yang seru dan bikin ketagihan",
+            "pt_br": "Um jogo tipo tetris divertido e viciante",
+            "vi": "Một trò chơi xếp hình thú vị và lôi cuốn"
+        },
+        {
+            "_id": "46",
+            "key": "夜幕即将落下,毛骨悚然的故事就要展开",
+            "en_us": "The night falls and the creepy story is gonna unfold!",
+            "id": "Malam menjelang dan cerita mencekam segera hadir!",
+            "pt_br": "A noite cai, e a história assustadora começa!",
+            "vi": "Màn đêm buông xuống và một câu chuyện rợn người dần được hé lộ"
+        },
+        {
+            "_id": "47",
+            "key": "躲猫猫我最强！不服来挑战",
+            "en_us": "How well can you play Hide and Seek? Get ready for the challenge!",
+            "id": "Seberapa jago kamu main Petak Umpet? Bersiaplah untuk tantangan ini!",
+            "pt_br": "O quão bom você é no Esconde-esconde? Prepare-se para o desafio!",
+            "vi": "Trốn Tìm tôi giỏi nhất! Không tin cứ tới thách đấu!"
+        },
+        {
+            "_id": "48",
+            "key": "是时候考验你的眼力和脑力啦!",
+            "en_us": "It's time to prove your eyes and brain sharp!",
+            "id": "Saatnya membuktikan ketajaman mata dan otakmu!",
+            "pt_br": "É hora de provar que seus olhos e seu cérebro estão afiados!",
+            "vi": "Đã đến lúc thể hiện sự nhạy bén trong ánh mắt và trí não của bạn!"
+        },
+        {
+            "_id": "49",
+            "key": "披萨店忙起来也是相当疯狂呢",
+            "en_us": "How crazy busy working is in this pizza shop!",
+            "id": "Luar biasa sibuk bekerja di kedai piza ini!",
+            "pt_br": "Como é uma loucura trabalhar nesta pizzaria!",
+            "vi": "Tiệm pizza bận đến độ làm điên cuồng!"
+        },
+        {
+            "_id": "50",
+            "key": "超解压暴打美女僵尸",
+            "en_us": "Beat it up with a sense of relaxed mood",
+            "id": "Pukuli dengan suasana hati santai",
+            "pt_br": "Bata numa boa",
+            "vi": "Chiến đấu chống lại thây ma với một tinh thần thoải mái"
+        },
+        {
+            "_id": "51",
+            "key": "看我爽快叠叠叠",
+            "en_us": "Special shoulder sit with more and more riders!",
+            "id": "Gendong bahu istimewa dengan makin banyak orang di bahu!",
+            "pt_br": "Transporte especial com cada vez mais pessoas nos ombros!",
+            "vi": "Xem tôi ngồi lên vai và chạy này"
+        },
+        {
+            "_id": "52",
+            "key": "让钱滚滚而来，成为酒店大亨",
+            "en_us": "Keep generating money and be a hotel tycoon",
+            "id": "Terus hasilkan uang dan jadilah raja hotel",
+            "pt_br": "Continue gerando dinheiro e seja um magnata hoteleiro",
+            "vi": "Kiếm tiền không dừng, làm trùm quán rượu"
+        },
+        {
+            "_id": "53",
+            "key": "你能成为最后那只公鸡吗",
+            "en_us": "Will you be the last surviving chicken?",
+            "id": "Apakah kau akan menjadi ayam terakhir yang bertahan?",
+            "pt_br": "Você será o último frango sobrevivente?",
+            "vi": "Bạn có khả năng trở thành chú gà sống sót cuối cùng không?"
+        },
+        {
+            "_id": "54",
+            "key": "注意安全驾驶啊",
+            "en_us": "Be Safe. Drive Smart.",
+            "id": "Jaga keselamatan. Berkendara dengan Pintar.",
+            "pt_br": "Fique seguro. Dirija com inteligência.",
+            "vi": "Chú ý lái xe an toàn"
+        },
+        {
+            "_id": "55",
+            "key": "一起体验童年的乐趣",
+            "en_us": "Experience the new style Ludo together",
+            "id": "Rasakan keseruan Ludo gaya baru bersama-sama",
+            "pt_br": "Experimentem o novo estilo de Ludo juntos",
+            "vi": "Cùng trải nghiệm Ludo phong cách mới"
+        },
+        {
+            "_id": "56",
+            "key": "看我一剑到底",
+            "en_us": "See my posture is like a pro fencer!",
+            "id": "Lihat posturku seperti pemain anggar profesional!",
+            "pt_br": "Veja, minha postura é como um esgrimista profissional!",
+            "vi": "Chiêm ngưỡng tư thế đấu kiếm chuyên nghiệp của ta đây!"
+        },
+        {
+            "_id": "57",
+            "key": "在孤岛中探索宝藏吧",
+            "en_us": "Find the treasure on the island!",
+            "id": "Temukan harta karun di pulau ini!",
+            "pt_br": "Encontre o tesouro na ilha!",
+            "vi": "Đi tìm kho tàng trên độc đảo!"
+        },
+        {
+            "_id": "58",
+            "key": "踢出你的功夫风格",
+            "en_us": "Show your kungfu soccer style now!",
+            "id": "Tunjukkan gaya sepak bola kungfu kamu sekarang!",
+            "pt_br": "Mostre seu estilo kung fu de futebol agora!",
+            "vi": "Thể hiện võ công túc cầu thượng thừa của bạn ngay!"
+        },
+        {
+            "_id": "59",
+            "key": "各式各样的怪兽，等你来领养",
+            "en_us": "Go to adopt many different kinds of monsters!",
+            "id": "Mulai adopsi berbagai jenis monster!",
+            "pt_br": "Vá adotar muitos tipos diferentes de monstros!",
+            "vi": "Hãy đến nhận nuôi hàng loạt các loài quái vật khác nhau!"
+        },
+        {
+            "_id": "60",
+            "key": "侠盗觉醒，守护城市",
+            "en_us": "The rogues awake to protect the city",
+            "id": "Para pengembara bangkit untuk melindungi kota",
+            "pt_br": "Os malandros acordam para proteger a cidade",
+            "vi": "Những kẻ ngoài vòng pháp luật trỗi dậy để bảo vệ thành phố"
+        },
+        {
+            "_id": "61",
+            "key": "设施和防线，共同抵御猛鬼吧",
+            "en_us": "Resist the grisly zombie with facilities and defense line!",
+            "id": "Halau zombi yang mengerikan dengan fasilitas dan garis pertahanan!",
+            "pt_br": "Resista ao terrível zumbi com instalações e linha de defesa!",
+            "vi": "Lấy phòng tuyến và cơ sở chống lại bọn xác sống!"
+        },
+        {
+            "_id": "62",
+            "key": "我是一条西湖吃苹果的大懒虫",
+            "en_us": "I am a lazy caterpillar who likes to eat apples!",
+            "id": "Aku adalah ulat pemalas yang suka makan apel!",
+            "pt_br": "Sou uma lagarta preguiçosa que gosta de comer maçãs!",
+            "vi": "Tôi là một chú sâu bướm lười nhác và tôi thích ăn táo!"
+        },
+        {
+            "_id": "63",
+            "key": "一起开辟未知的梦幻世界之旅",
+            "en_us": "Let's expand the unknown fantasy world together!",
+            "id": "Mari perluas dunia fantasi misterius bersama-sama!",
+            "pt_br": "Vamos expandir juntos o mundo da fantasia desconhecido!",
+            "vi": "Hãy cùng nhau khám phá thế giới huyền bí ảo mộng!"
+        },
+        {
+            "_id": "64",
+            "key": "快速穿梭战场与敌人展开殊死搏斗",
+            "en_us": "Drive across the battlefield to smash all enemies",
+            "id": "Tancap gas ke medan perang untuk menghancurkan semua musuh",
+            "pt_br": "Dirija pelo campo de batalha para esmagar todos os inimigos",
+            "vi": "Băng qua chiến trường, tiêu diệt kẻ địch"
+        },
+        {
+            "_id": "65",
+            "key": "和伙伴一起合力突破丧尸大军吧",
+            "en_us": "Break out of the zombies surround with your fellows!",
+            "id": "Terobos kepungan zombi bersama teman-temanmu!",
+            "pt_br": "Escape do cerco de zumbis com seus companheiros!",
+            "vi": "Hợp tác cùng đồng đội của bạn để vượt qua đội quân thây ma!"
+        },
+        {
+            "_id": "66",
+            "key": "是男人就挖1000层",
+            "en_us": "Dig a deepest hole to reach the end of the earth!",
+            "id": "Galilah lubang terdalam untuk mencapai dasar bumi!",
+            "pt_br": "Cave um buraco mais fundo para chegar ao fim da terra!",
+            "vi": "Là nam nhân thì đào 1000 tầng!"
+        },
+        {
+            "_id": "67",
+            "key": "风靡全球的纸牌玩法",
+            "en_us": "A popular worldwide solitaire game",
+            "id": "Game solitaire terpopuler di dunia",
+            "pt_br": "Um jogo de paciência popular em todo o mundo",
+            "vi": "Trò chơi xếp bài phổ biến trên toàn cầu"
+        },
+        {
+            "_id": "68",
+            "key": "抵御僵尸进攻，保卫花园",
+            "en_us": "Defend your garden from the zombie attack!",
+            "id": "Pertahankan kebunmu dari serangan zombi!",
+            "pt_br": "Defenda seu jardim contra o ataque dos zumbis!",
+            "vi": "Bảo vệ khu vườn khỏi các cuộc tấn công của thây ma!"
+        },
+        {
+            "_id": "69",
+            "key": "和植物一起阻止邪恶僵尸的袭击",
+            "en_us": "Cease the attack of evil zombies with your plants!",
+            "id": "Hentikan serangan zombie jahat dengan tanamanmu!",
+            "pt_br": "Cesse o ataque dos zumbis do mal com suas plantas!",
+            "vi": "Cùng thực vật chặn đứng đợt tấn công của zombie!"
+        },
+        {
+            "_id": "70",
+            "key": "打爆进击的僵尸吧",
+            "en_us": "Shoot all the incoming zombies!",
+            "id": "Tembak semua zombi yang datang!",
+            "pt_br": "Atire em todos os zumbis que chegam!",
+            "vi": "Tiêu diệt toàn bộ lũ thây ma đang kéo đến!"
+        },
+        {
+            "_id": "71",
+            "key": "详情",
+            "en_us": "Details",
+            "id": "Rincian",
+            "pt_br": "Detalhes",
+            "vi": "Chi tiết"
+        },
+        {
+            "_id": "72",
+            "key": "游戏简介",
+            "en_us": "Game Description",
+            "id": "Deskripsi Game",
+            "pt_br": "Descrição do Jogo",
+            "vi": "Mô tả trò chơi"
+        },
+        {
+            "_id": "73",
+            "key": "开始游戏",
+            "en_us": "Play Now",
+            "id": "Mulai Permainan",
+            "pt_br": "Iniciar Jogo",
+            "vi": "Bắt đầu trò chơi"
+        },
+        {
+            "_id": "74",
+            "key": "游戏加载中，请耐心等待",
+            "en_us": "Game Loading, Please Wait",
+            "id": "Game Sedang Dimuat, Mohon Tunggu",
+            "pt_br": "Carregando o Jogo, Por Favor Aguarde",
+            "vi": "Đang tải trò chơi, Vui lòng chờ đợi"
+        },
+        {
+            "_id": "75",
+            "key": "一款休闲射击游戏，玩家操控角色不停消灭入侵的丧尸，获得资源武装和升级基地，挑战巨大丧尸Boss，获得最终胜利。\n游戏场景采用轻松3d卡通风格，人物采用火柴人风格；玩家通过使用摇杆移动角色，自动射击丧尸，也可以到达武器载具上面，使用强火力武器消灭丧尸。\n游戏系统包括：宠物系统，建筑升级系统，玩家升级系统，签到系统，武器系统，挂机系统。",
+            "en_us": "A casual shooting game where players control characters to continuously eliminate invading zombies, acquire resources, arm themselves, and upgrade their base, challenging colossal zombie bosses for ultimate victory.",
+            "id": "Sebuah game menembak santai di mana pemain mengendalikan karakter untuk terus-menerus mengeliminasi zombie invasi, mengumpulkan sumber daya, bersenjata, dan meng-upgrade basis mereka, menantang bos zombie kolosal untuk kemenangan akhir.",
+            "pt_br": "Um jogo casual de tiro em que os jogadores controlam personagens para eliminar continuamente zumbis invasores, adquirir recursos, se armar e melhorar sua base, desafiando chefes de zumbis gigantes para a vitória final.",
+            "vi": "Trò chơi bắn súng giải trí nơi người chơi điều khiển nhân vật tiêu diệt liên tục zombie xâm lược, thu thập tài nguyên, trang bị và nâng cấp cơ sở của họ, thách thức boss zombie khổng lồ cho chiến thắng cuối cùng."
+        },
+        {
+            "_id": "76",
+            "key": "一款休闲治愈的模拟经营小游戏，小吃吧应有尽有，只要客人有需求，我们就可以学习制作美食！获取足够多的金币用于一步一步扩大小吃店，玩法简单，游戏画风软萌可爱，背景音乐同样治愈，舒缓~看着小店一点一点从小吃店变成商街霸主是不是也很有成就感呢？简单休闲不用花费太多时间，小猫咪会化身打工喵在你闲着的时候经营这家小吃店。被群猫围绕的感觉，想体验就快在本站进行下载吧！期待您的加入~",
+            "en_us": "A casual and soothing simulation management game where everything is available in the snack bar. As long as customers have demands, we can learn to make delicious food! Obtain enough coins to gradually expand the snack bar. The gameplay is simple, with a cute and lovely art style, and the background music is also soothing and relaxing. Watching the small shop grow from a snack bar to a street food empire is quite fulfilling, right? It's a simple and relaxing game that doesn't require too much time. The little cat will become a working cat to run this snack bar when you're idle. The feeling of being surrounded by a group of cats, would you like to experience it? Download it from this site now! Looking forward to your join!",
+            "id": "Game simulasi manajemen santai dan menyenangkan di mana segala sesuatu tersedia di bar makanan ringan. Selama pelanggan memiliki permintaan, kita bisa belajar membuat makanan lezat! Dapatkan cukup koin untuk secara bertahap memperluas bar makanan ringan. Gameplay-nya sederhana, dengan gaya seni yang lucu dan menawan, serta musik latar yang menenangkan. Melihat toko kecil tumbuh dari bar makanan ringan menjadi imperium makanan jalanan sangat memuaskan, bukan? Ini adalah permainan yang sederhana dan santai yang tidak memerlukan terlalu banyak waktu. Kucing kecil akan menjadi kucing pekerja untuk menjalankan bar makanan ringan ini saat Anda sedang tidak sibuk. Bagaimana rasanya dikelilingi oleh sekelompok kucing? Ingin mencobanya? Unduh sekarang dari situs ini! Menantikan bergabungnya Anda!",
+            "pt_br": "Um jogo de gerenciamento de simulação casual e reconfortante, onde tudo está disponível no bar de lanches. Desde que os clientes tenham demandas, podemos aprender a fazer comida deliciosa! Obtenha moedas suficientes para expandir gradualmente o bar de lanches. A jogabilidade é simples, com um estilo de arte fofo e encantador, e a música de fundo é relaxante. Ver a pequena loja crescer de um bar de lanches para um império de comida de rua é bastante gratificante, não é? É um jogo simples e relaxante que não requer muito tempo. O gatinho se transformará em um gatinho trabalhador para administrar este bar de lanches quando você estiver ocioso. A sensação de estar cercado por um grupo de gatos, você gostaria de experimentar? Baixe-o deste site agora! Aguardamos a sua participação!",
+            "vi": "Một trò chơi quản lý mô phỏng giải trí và dễ chịu, nơi mọi thứ đều có sẵn trong quầy ăn nhẹ. Miễn là khách hàng có yêu cầu, chúng ta có thể học cách làm thức ăn ngon! Thu thập đủ tiền để mở rộng từ từ quầy ăn nhẹ. Lối chơi đơn giản, với phong cách nghệ thuật dễ thương và đáng yêu, và âm nhạc nền cũng thư giãn và dễ chịu. Xem cửa hàng nhỏ phát triển từ một quầy ăn nhẹ thành một đế chế thức ăn đường phố thật thỏa mãn, phải không? Đó là một trò chơi đơn giản và thư giãn không đòi hỏi quá nhiều thời gian. Con mèo nhỏ sẽ trở thành một con mèo làm việc để điều hành quầy ăn nhẹ này khi bạn không bận rộn. Cảm giác được bao quanh bởi một nhóm mèo, bạn có muốn trải nghiệm không? Tải ngay từ trang web này! Chờ đợi sự tham gia của bạn!"
+        },
+        {
+            "_id": "77",
+            "key": "一款让你目不暇接的益智游戏！挑战你的观察力和反应能力，通过找出画面中的细微差异来获得正确的通关方式。从熟悉的场景中找出隐藏的变化，让你感受到与现实解谜亲密接触的乐趣。精心设计的多个关卡，涵盖各种经典画面，让你难以自拔。随着关卡的逐渐升级，挑战的难度也会不断增加。游戏中还内置多种不用玩法的益智小游戏，让你的智商随着游戏的深入不断提高，还能把游戏中获得的奖励，来装扮你的庭院，瞬间变成一款模拟经营游戏，简直是太棒了对不对，一起来探索吧！",
+            "en_us": "A puzzle game that keeps you engaged! Challenge your observation and reflexes by finding subtle differences in the pictures to achieve the correct pass. Find hidden changes in familiar scenes and experience the joy of close encounters with real-life puzzles. Carefully designed multiple levels cover various classic images, making it hard to put down. As levels progress, the difficulty of the challenges also increases. The game also includes various puzzle mini-games that enhance your intelligence as you progress through the game. You can use the rewards obtained in the game to decorate your courtyard, turning it into a simulation management game. It's amazing, isn't it? Let's explore together!",
+            "id": "Sebuah permainan teka-teki yang membuat Anda terlibat! Tantang pengamatan dan refleks Anda dengan menemukan perbedaan halus dalam gambar untuk mencapai pass yang benar. Temukan perubahan tersembunyi dalam scene yang familiar dan rasakan kegembiraan dari pertemuan dekat dengan teka-teki kehidupan nyata. Berbagai level yang dirancang dengan cermat mencakup berbagai gambar klasik, membuat Anda sulit berhenti. Seiring dengan kemajuan level, tingkat kesulitan tantangan juga meningkat. Permainan ini juga mencakup berbagai mini-game teka-teki yang meningkatkan kecerdasan Anda saat Anda bermain. Anda dapat menggunakan hadiah yang diperoleh dalam permainan untuk menghias halaman Anda, menjadikannya permainan simulasi manajemen. Luar biasa, bukan? Mari kita jelajahi bersama!",
+            "pt_br": "Um jogo de quebra-cabeça que mantém você envolvido! Desafie sua observação e reflexos encontrando diferenças sutis nas imagens para obter o passe correto. Encontre mudanças escondidas em cenas familiares e experimente a alegria de encontros próximos com quebra-cabeças da vida real. Múltiplos níveis cuidadosamente projetados abrangem várias imagens clássicas, tornando difícil parar de jogar. Conforme os níveis progridem, a dificuldade dos desafios também aumenta. O jogo também inclui vários mini-jogos de quebra-cabeça que aumentam sua inteligência à medida que você avança no jogo. Você pode usar as recompensas obtidas no jogo para decorar seu pátio, transformando-o em um jogo de gerenciamento de simulação. É incrível, não é? Vamos explorar juntos!",
+            "vi": "Một trò chơi câu đố giữ bạn luôn tham gia! Thách thức sự quan sát và phản xạ của bạn bằng cách tìm những sự khác biệt tinh tế trong các hình ảnh để đạt được sự thông qua chính xác. Tìm những thay đổi ẩn trong các cảnh quen thuộc và trải nghiệm niềm vui của sự gặp gỡ gần gũi với câu đố thực tế. Các cấp độ được thiết kế cẩn thận bao gồm nhiều hình ảnh cổ điển khác nhau, làm cho bạn khó có thể ngừng chơi. Khi cấp độ tiến triển, độ khó của các thách thức cũng tăng lên. Trò chơi còn bao gồm nhiều mini-game câu đố khác nhau giúp nâng cao trí tuệ của bạn khi bạn tiến bộ trong trò chơi. Bạn có thể sử dụng phần thưởng được nhận trong trò chơi để trang trí sân trong của bạn, biến nó thành một trò chơi quản lý mô phỏng. Thật tuyệt vời, phải không? Hãy cùng khám phá!"
+        },
+        {
+            "_id": "78",
+            "key": "一款休闲娱乐的消除类益智游戏，简单的规则和玩法，丰富趣味的拼图任务，精美绚丽的色彩，可爱萌动的方块造型，让你开心的动画，新类型的消消乐风格，消磨时间的必备神器。 游戏的玩法非常简单，水平移动方块来填满和消除整行，在游戏过程中积累经验。游戏还有多样化的道具给你提供帮助，完成目标就能消除方块闯关成功。",
+            "en_us": "A casual and entertaining puzzle game with simple rules and gameplay. Enjoy a variety of fun puzzle tasks, exquisite and colorful visuals, cute and animated block shapes, and cheerful animations. It's a new style of matching game that's essential for passing the time. The gameplay is very simple: horizontally move the blocks to fill and eliminate entire rows to accumulate points. The game also offers diverse power-ups to help you clear blocks and succeed in passing levels.",
+            "id": "Sebuah permainan teka-teki santai dan menghibur dengan aturan dan gameplay yang sederhana. Nikmati berbagai tugas teka-teki yang menyenangkan, visual yang eksklusif dan berwarna-warni, bentuk blok yang lucu dan beranimasi, dan animasi yang ceria. Ini adalah gaya permainan pencocokan baru yang penting untuk menghabiskan waktu. Gameplay-nya sangat sederhana: geser blok secara horizontal untuk mengisi dan menghilangkan seluruh baris guna mengumpulkan poin. Permainan ini juga menawarkan berbagai power-up yang beragam untuk membantu Anda menghapus blok dan berhasil melewati level.",
+            "pt_br": "Um jogo de quebra-cabeça casual e divertido com regras e jogabilidade simples. Aproveite uma variedade de tarefas de quebra-cabeça divertidas, visuais requintados e coloridos, formas de blocos fofas e animadas, e animações alegres. É um novo estilo de jogo de correspondência essencial para passar o tempo. A jogabilidade é muito simples: mova horizontalmente os blocos para preencher e eliminar fileiras inteiras para acumular pontos. O jogo também oferece diversos power-ups para ajudá-lo a limpar os blocos e passar de nível.",
+            "vi": "Một trò chơi câu đố giải trí và giải trí dễ chơi với các quy tắc và cách chơi đơn giản. Tận hưởng nhiều nhiệm vụ câu đố vui vẻ, hình ảnh tươi sáng và đầy màu sắc, hình dạng khối đáng yêu và hoạt họa đáng yêu, và hoạt hình vui nhộn. Đó là một kiểu trò chơi kết hợp mới mẻ cần thiết để giết thời gian. Lối chơi rất đơn giản: di chuyển ngang các khối để điền và loại bỏ hàng nguyên để tích luỹ điểm. Trò chơi cũng cung cấp nhiều phần thưởng sức mạnh đa dạng để giúp bạn xóa bỏ khối và thành công trong việc vượt qua các cấp độ."
+        },
+        {
+            "_id": "79",
+            "key": "1.只需要利用手指去点击屏幕，然后就能完成所有的操作步骤，特别的轻松。\n2.每一个骰子出现的点数都是不一样的，所以玩家一定要擦亮自己的眼睛仔细去发现。\n3.还有很多不同的道具可以使用，利用这些道具就能够产生玩家意想不到的结果。\n4.玩家一定要谨慎小心，然后才能够去掌握游戏的精髓，发现游戏中的奥秘。",
+            "en_us": "1. Simply tap the screen with your finger to complete all the actions, making it extremely easy. \n2. Each dice has a different number of dots, so players must sharpen their eyes to spot the differences. \n3. There are various items that can be used, and using these items can produce unexpected results for players. 4. Players must be cautious and attentive in order to grasp the essence of the game and uncover its mysteries.",
+            "id": "\"1. Cukup ketuk layar dengan jari Anda untuk menyelesaikan semua tindakan, membuatnya sangat mudah. 2. Setiap dadu memiliki jumlah titik yang berbeda, jadi pemain harus mempertajam mata mereka untuk melihat perbedaannya. 3. Ada berbagai item yang dapat digunakan, dan menggunakan item-item ini dapat menghasilkan hasil yang tak terduga bagi pemain. 4. Pemain harus berhati-hati dan waspada untuk dapat menguasai inti permainan dan mengungkap misterinya.\"",
+            "pt_br": "\"1. Basta tocar na tela com o dedo para completar todas as ações, tornando-o extremamente fácil. 2. Cada dado tem um número diferente de pontos, então os jogadores devem afiar os olhos para identificar as diferenças. 3. Existem vários itens que podem ser usados, e o uso desses itens pode produzir resultados inesperados para os jogadores. 4. Os jogadores devem ser cautelosos e atentos para entender a essência do jogo e desvendar seus mistérios.\"",
+            "vi": "\"1. Chỉ cần chạm vào màn hình bằng ngón tay để hoàn thành tất cả các hành động, làm cho nó rất dễ dàng. 2. Mỗi viên xúc xắc có số chấm khác nhau, vì vậy người chơi phải mài mắt để nhận biết sự khác biệt. 3. Có nhiều vật phẩm khác nhau có thể sử dụng, và việc sử dụng các vật phẩm này có thể tạo ra kết quả không mong đợi cho người chơi. 4. Người chơi phải thận trọng và tập trung để nắm bắt bản chất của trò chơi và khám phá những bí ẩn của nó.\""
+        },
+        {
+            "_id": "80",
+            "key": "1.趣味合成带来了丰富的挑战任务，你可以根据自己的喜好来挑选不同的物品进行解锁。\n2.参与到整个游戏过程当中，给小院进行不同的形象装扮等都可以自由的挑选。\n3.游戏当中自由的发挥，你可以对自己生活的每一个场景进行有趣的布置。",
+            "en_us": "1. Fun synthesis brings rich challenge tasks. You can choose different items to unlock according to your preferences. \n2. You can freely select different image decorations for the small courtyard during the entire game process. \n3. You have the freedom to express yourself in the game, and you can creatively decorate every scene in your life.\"",
+            "id": "\"1. Sinergi yang menyenangkan membawa tantangan kaya. Anda dapat memilih berbagai item untuk membuka kunci sesuai dengan preferensi Anda. 2. Anda dapat secara bebas memilih berbagai dekorasi gambar untuk halaman kecil selama seluruh proses permainan. 3. Anda memiliki kebebasan untuk berekspresi dalam permainan, dan Anda dapat menghias setiap adegan dalam hidup Anda dengan kreatif.\"",
+            "pt_br": "\"1. A síntese divertida traz desafios ricos. Você pode escolher diferentes itens para desbloquear de acordo com suas preferências. 2. Você pode selecionar livremente diferentes decorações de imagem para o pequeno pátio durante todo o processo de jogo. 3. Você tem liberdade para se expressar no jogo e pode decorar criativamente cada cena em sua vida.\"",
+            "vi": "\"1. Tổng hợp vui nhộn mang đến nhiều nhiệm vụ thách thức phong phú. Bạn có thể chọn các mặt hàng khác nhau để mở khóa theo sở thích của mình. 2. Bạn có thể tự do chọn các trang trí hình ảnh khác nhau cho sân nhỏ trong suốt quá trình chơi game. 3. Bạn có tự do biểu đạt mình trong trò chơi và có thể trang trí sáng tạo cho mỗi cảnh trong cuộc sống của bạn.\""
+        },
+        {
+            "_id": "81",
+            "key": "这个游戏玩法本质上也是俄罗斯方块，但这次不再是一如既往的从上往下掉了，组合在屏幕下方随机生成，玩家须把既定的方块组合拖到棋盘上的空白处，创造并消除完整的一行或多行的线条，并通过连击消除来获得更高的分数，当棋盘上再也无法摆下任意一个方块组合的时候，游戏就会GAME OVER。",
+            "en_us": "This game's essence is essentially Tetris, but this time, it doesn't drop from the top as usual. The pieces are randomly generated at the bottom of the screen and players must drag and place them on the board to create and eliminate complete rows or multiple lines to earn higher scores. When there's no space left on the board to place any piece, the game is over.",
+            "id": "Prinsip permainan ini pada dasarnya adalah Tetris, tetapi kali ini, tidak lagi jatuh dari atas seperti biasanya. Pecahan-potongan dihasilkan secara acak di bagian bawah layar dan pemain harus menarik dan meletakkannya di papan untuk membuat dan menghilangkan baris lengkap atau beberapa baris untuk mendapatkan skor lebih tinggi. Ketika tidak ada ruang tersisa di papan untuk menempatkan pecahan apa pun, permainan berakhir.",
+            "pt_br": "A essência deste jogo é essencialmente o Tetris, mas desta vez, as peças não caem de cima como de costume. As peças são geradas aleatoriamente na parte inferior da tela e os jogadores devem arrastá-las e colocá-las no tabuleiro para criar e eliminar linhas completas ou múltiplas linhas para obter pontuações mais altas. Quando não há espaço no tabuleiro para colocar qualquer peça, o jogo acaba.",
+            "vi": "Bản chất của trò chơi này chính là Tetris, nhưng lần này, nó không còn rơi từ trên xuống như thông thường nữa. Các khối được tạo ra ngẫu nhiên ở dưới đáy màn hình và người chơi phải kéo và đặt chúng lên bảng để tạo ra và loại bỏ các hàng hoàn chỉnh hoặc nhiều hàng để kiếm điểm cao hơn. Khi không còn chỗ trống trên bảng để đặt bất kỳ khối nào, trò chơi kết thúc."
+        },
+        {
+            "_id": "82",
+            "key": "1、游戏中玩家需躲避猛鬼的追捕，寻找适合自己的宿舍躲避，并发展经济建造炮台，抵御猛鬼。\n2、只可以在房间中的空地板上进行建造，玩家点击空地板后，出现建筑菜单。\n3、需要根据自己当前的经济选择性建造建筑，发现一条符合自己发展的道路。玩家需要将鬼击败或者抵御至天亮方可获胜，反之鬼抓到玩家则玩家失败。\n4、新增新玩法，玩家可以扮演猛鬼角色，快去抓住npc，获取胜利吧。",
+            "en_us": "1. In the game, players need to evade the pursuit of ferocious ghosts, find suitable dormitories to hide in, and develop the economy to build turrets to resist the ghosts. \n2. Building can only be done on empty floor space in the room. Players click on empty floor space to access the building menu. \n3. Players need to choose buildings to construct based on their current economy, discovering a path that suits their development. Players need to defeat or resist the ghosts until dawn to win, otherwise, if the ghosts catch the player, they lose. \n4. New gameplay added allows players to take on the role of a ghost and capture NPCs to achieve victory.",
+            "id": "\"1. Dalam permainan ini, pemain harus menghindari kejaran hantu yang ganas, mencari asrama yang sesuai untuk bersembunyi, dan mengembangkan ekonomi untuk membangun menara pertahanan melawan hantu-hantu tersebut. 2. Pembangunan hanya dapat dilakukan pada lantai kosong di dalam ruangan. Pemain klik pada lantai kosong untuk mengakses menu pembangunan. 3. Pemain perlu memilih bangunan yang akan dibangun berdasarkan ekonomi mereka saat ini, menemukan jalan yang sesuai dengan perkembangan mereka. Pemain perlu mengalahkan atau menahan hantu-hantu hingga matahari terbit untuk memenangkan permainan, jika tidak, jika hantu menangkap pemain, mereka kalah. 4. Mode permainan baru memungkinkan pemain mengambil peran sebagai hantu dan menangkap NPC untuk meraih kemenangan.\"",
+            "pt_br": "\"1. No jogo, os jogadores precisam evitar a perseguição de fantasmas ferozes, encontrar dormitórios adequados para se esconder e desenvolver a economia para construir torres de defesa contra os fantasmas. 2. A construção só pode ser feita em espaços vazios no chão do quarto. Os jogadores clicam no espaço vazio do chão para acessar o menu de construção. 3. Os jogadores precisam escolher edifícios para construir com base em sua economia atual, descobrindo um caminho que se adapte ao seu desenvolvimento. Os jogadores precisam derrotar ou resistir aos fantasmas até o amanhecer para vencer, caso contrário, se os fantasmas pegarem o jogador, eles perdem. 4. Novo modo de jogo adicionado permite que os jogadores assumam o papel de um fantasma e capturem NPCs para alcançar a vitória.\"",
+            "vi": "\"1. Trong trò chơi, người chơi cần tránh sự truy đuổi của các hồn ma hung ác, tìm kiếm phòng ở phù hợp để trốn tránh và phát triển nền kinh tế để xây tháp phòng thủ chống lại các hồn ma. 2. Xây dựng chỉ có thể được thực hiện trên không gian trống trong phòng. Người chơi nhấp vào không gian trống để truy cập menu xây dựng. 3. Người chơi cần chọn các công trình để xây dựng dựa trên nền kinh tế hiện tại của họ, khám phá một con đường phù hợp với sự phát triển của họ. Người chơi cần đánh bại hoặc chống lại các hồn ma cho đến khi bình minh để chiến thắng, nếu không, nếu hồn ma bắt người chơi, họ thua. 4. Chế độ chơi mới cho phép người chơi đảm nhận vai trò của một hồn ma và bắt NPC để đạt được chiến thắng.\""
+        },
+        {
+            "_id": "83",
+            "key": "1.玩家通过扮演捉人者或躲藏者，完成特定的任务，即可通关；\n2.玩家可以选择扮演捉人者或者躲藏者，躲藏者游戏开始后会隐身，捉人者可以通过躲藏者踩中的油漆，留下的脚印，判断其具体位置；\n3.躲藏者需要想尽办法让自己不被捉到，捉人者需要捉光所有的躲藏者才能通关；",
+            "en_us": "1. Players can complete specific tasks as either the catcher or the hider to pass each level. \n2. Players have the option to play as either the catcher or the hider. Hiders become invisible when the game starts, and catchers must use clues like footprints to locate them. \n3. Hiders need to find creative ways to avoid being caught, while catchers aim to capture all the hiders to pass the level.",
+            "id": "\"1. Pemain dapat menyelesaikan tugas-tugas tertentu sebagai penangkap atau yang bersembunyi untuk melewati setiap level. 2. Pemain memiliki pilihan untuk bermain sebagai penangkap atau yang bersembunyi. Para bersembunyi menjadi tidak terlihat saat permainan dimulai, dan para penangkap harus menggunakan petunjuk seperti jejak kaki untuk menemukan mereka. 3. Para bersembunyi perlu menemukan cara kreatif untuk menghindari tertangkap, sementara para penangkap bertujuan untuk menangkap semua para bersembunyi untuk melewati level.\"",
+            "pt_br": "\"1. Os jogadores podem completar tarefas específicas como o capturador ou o escondido para passar cada nível. 2. Os jogadores têm a opção de jogar como o capturador ou o escondido. Os escondidos se tornam invisíveis quando o jogo começa, e os capturadores devem usar pistas como pegadas para localizá-los. 3. Os escondidos precisam encontrar maneiras criativas de evitar serem pegos, enquanto os capturadores visam capturar todos os escondidos para passar de nível.\"",
+            "vi": "\"1. Người chơi có thể hoàn thành các nhiệm vụ cụ thể dưới dạng người bắt hoặc người trốn để vượt qua mỗi cấp độ. 2. Người chơi có thể chọn chơi dưới dạng người bắt hoặc người trốn. Người trốn trở nên vô hình khi trò chơi bắt đầu, và người bắt phải sử dụng gợi ý như dấu chân để xác định vị trí của họ. 3. Người trốn cần tìm cách sáng tạo để tránh bị bắt, trong khi người bắt nhắm vào việc bắt tất cả người trốn để vượt qua cấp độ.\""
+        },
+        {
+            "_id": "84",
+            "key": "1.你需要移动相同的方块并将它们移动到一起，这样它们就会消失，获得积分并进入下一关；\n2.你需要运用你的眼力和策略来完成每个关卡，因为一路上会遇到各种困难和挑战；\n3.游戏拥有丰富的游戏模式，每个关卡的难度逐渐增加，保证玩家充满挑战，越玩越有趣；",
+            "en_us": "1. You need to move identical blocks and bring them together so they disappear, earning points and progressing to the next level. \n2. You must use your visual acuity and strategy to complete each level, as you will encounter various difficulties and challenges along the way. \n3. The game offers a wide range of game modes, with the difficulty of each level gradually increasing, ensuring that players are constantly challenged and entertained.",
+            "id": "\"1. Anda perlu memindahkan blok-blok yang identik dan menyatukannya sehingga mereka menghilang, mendapatkan poin, dan melanjutkan ke level berikutnya. 2. Anda harus menggunakan ketajaman visual dan strategi untuk menyelesaikan setiap level, karena Anda akan menghadapi berbagai kesulitan dan tantangan sepanjang jalan. 3. Permainan ini menawarkan berbagai mode permainan, dengan tingkat kesulitan setiap level secara bertahap meningkat, memastikan bahwa pemain selalu dihadapkan pada tantangan dan hiburan.",
+            "pt_br": "\"1. Você precisa mover blocos idênticos e juntá-los para que desapareçam, ganhando pontos e avançando para o próximo nível. 2. Você deve usar sua acuidade visual e estratégia para completar cada nível, pois encontrará várias dificuldades e desafios ao longo do caminho. 3. O jogo oferece uma ampla variedade de modos de jogo, com a dificuldade de cada nível aumentando gradualmente, garantindo que os jogadores estejam sempre desafiados e entretidos.",
+            "vi": "\"1. Bạn cần di chuyển các khối giống nhau và đưa chúng lại gần nhau để chúng biến mất, kiếm điểm và tiến vào cấp độ tiếp theo. 2. Bạn phải sử dụng tầm nhìn sắc bén và chiến lược của mình để hoàn thành từng cấp độ, vì bạn sẽ gặp nhiều khó khăn và thách thức trên đường đi. 3. Trò chơi cung cấp nhiều chế độ chơi khác nhau, với độ khó của mỗi cấp độ tăng dần, đảm bảo người chơi luôn phải đối mặt với thách thức và giải trí."
+        },
+        {
+            "_id": "85",
+            "key": "玩家扮演老板黑娃亲自上阵运营披萨店，既作为服务人员为顾客送上食物，也需担起管理者的重任，收餐费、雇员工、升级员工效率。当然，积极拓展新的销售渠道也是玩家工作的一部分。\n游戏场景采用轻松3d卡通风格，人物采用火柴人风格；玩家通过使用摇杆移动角色。\n游戏系统包括：建筑升级系统，玩家升级系统，挂机系统。",
+            "en_us": "Players take on the role of the boss, Black Wa, personally managing a pizza shop. They serve customers as staff, handle meal payments, hire employees, and upgrade staff efficiency. Of course, actively expanding new sales channels is also part of the player's job. The game features a relaxed 3D cartoon style for its scenes and stick figure characters. Players control the character's movement using a joystick. Game systems include building upgrades, player upgrades, and an idle system.",
+            "id": "\"Pemain memerankan bos, Black Wa, yang mengelola pizzeria secara langsung. Mereka melayani pelanggan sebagai staf, menangani pembayaran makanan, mempekerjakan karyawan, dan meningkatkan efisiensi staf. Tentu saja, mengembangkan saluran penjualan baru secara aktif juga merupakan bagian dari pekerjaan pemain. Game ini memiliki gaya kartun 3D yang santai untuk latar belakang dan karakter berbentuk korek api. Pemain mengendalikan pergerakan karakter menggunakan joystick. Sistem permainan mencakup peningkatan bangunan, peningkatan pemain, dan sistem idle.\"",
+            "pt_br": "\"Os jogadores assumem o papel do chefe, Black Wa, gerenciando pessoalmente uma pizzaria. Eles atendem os clientes como funcionários, lidam com os pagamentos das refeições, contratam funcionários e melhoram a eficiência da equipe. Claro, expandir ativamente novos canais de venda também faz parte do trabalho do jogador. O jogo apresenta um estilo de desenho animado 3D descontraído para as cenas e personagens em forma de palito. Os jogadores controlam o movimento do personagem usando um joystick. Os sistemas do jogo incluem melhorias em edifícios, melhorias no jogador e um sistema ocioso.\"",
+            "vi": "\"Pemain mengambil peran sebagai pemilik, Black Wa, yang secara pribadi mengelola restoran pizza. Mereka melayani pelanggan sebagai staf, mengelola pembayaran makanan, merekrut karyawan, dan meningkatkan efisiensi karyawan. Tentu saja, aktif memperluas saluran penjualan baru juga merupakan bagian dari pekerjaan pemain. Permainan ini memiliki gaya kartun 3D yang santai untuk latar belakang dan karakter berbentuk korek api. Pemain mengendalikan pergerakan karakter menggunakan joystick. Sistem permainan mencakup peningkatan bangunan, peningkatan pemain, dan sistem idle.\""
+        },
+        {
+            "_id": "86",
+            "key": "一款指尖点击的超解压休闲小游戏，通过不停的点击屏幕，让美女僵尸收到伤害，解锁更多各式各样的超炫酷武器，还有更多的BOSS等着你去探索。",
+            "en_us": "A fingertip-tapping hyper-relaxing casual game where you continuously tap the screen to inflict damage on beautiful female zombies, unlock a variety of super cool weapons, and explore more bosses waiting for you.",
+            "id": "\"Permainan santai hiper-relaksasi dengan mengetuk ujung jari di layar untuk terus-menerus menimbulkan kerusakan pada zombie perempuan cantik, membuka berbagai senjata super keren, dan menjelajahi lebih banyak bos yang menunggu Anda.\"",
+            "pt_br": "\"Um jogo casual relaxante de hiper-toque na ponta dos dedos, onde você toca continuamente na tela para causar dano em belas zumbis femininas, desbloquear uma variedade de armas super legais e explorar mais chefes esperando por você.\"",
+            "vi": "\"Trò chơi giải trí tự do hấp dẫn bằng cách chạm vào màn hình liên tục để gây ra sát thương cho những xác chết nữ xinh đẹp, mở khóa nhiều loại vũ khí siêu chất, và khám phá thêm nhiều ông trùm đang đợi bạn.\""
+        },
+        {
+            "_id": "87",
+            "key": "1.比赛开始后，玩家需要左右滑动屏幕控制人物的移动方向，收集更多的小胖，并将这些小胖堆叠在一起。\n2.不断前进，其中虽然有很多小胖，但是还是要尽量避免障碍物哦，不要让自己损失过多的小胖即可完成挑战。\n3.面对各种 挑战任务，让你尽情的体会到独特的赛跑玩法与挑战体验，让你秀出自己的精彩操作实力与酷跑乐趣。",
+            "en_us": "1. After the match starts, players need to swipe left and right on the screen to control the character's movement direction, collect more 'Little Fatties,' and stack them together. \n2. Keep moving forward; although there are many 'Little Fatties,' try to avoid obstacles as much as possible to avoid losing too many 'Little Fatties' to complete the challenge. \n3. Face various challenge tasks, allowing you to fully experience the unique racing gameplay and challenge experience, showcasing your excellent operation skills and the fun of cool running.",
+            "id": "\"1. Setelah pertandingan dimulai, pemain perlu menggeser kiri dan kanan di layar untuk mengendalikan arah pergerakan karakter, mengumpulkan lebih banyak 'Little Fatties,' dan menumpuknya bersama. 2. Terus maju; meskipun ada banyak 'Little Fatties,' cobalah untuk menghindari rintangan sebanyak mungkin agar tidak kehilangan terlalu banyak 'Little Fatties' untuk menyelesaikan tantangan. 3. Hadapi berbagai tugas tantangan, memungkinkan Anda untuk sepenuhnya mengalami gameplay balap yang unik dan pengalaman tantangan, memamerkan keterampilan operasi yang sangat baik dan kesenangan berlari keren.\"",
+            "pt_br": "\"1. Após o início da partida, os jogadores precisam deslizar para a esquerda e para a direita na tela para controlar a direção do movimento do personagem, coletar mais 'Little Fatties' e empilhá-los juntos. 2. Continue avançando; embora haja muitos 'Little Fatties', tente evitar obstáculos o máximo possível para não perder muitos 'Little Fatties' e completar o desafio. 3. Enfrente várias tarefas de desafio, permitindo que você experimente completamente a jogabilidade de corrida única e a experiência de desafio, mostrando suas excelentes habilidades de operação e a diversão de correr com estilo.\"",
+            "vi": "\"1. Sau khi trận đấu bắt đầu, người chơi cần vuốt sang trái và phải trên màn hình để điều khiển hướng di chuyển của nhân vật, thu thập nhiều 'Little Fatties' hơn và xếp chúng lại cùng nhau. 2. Tiếp tục tiến lên; mặc dù có nhiều 'Little Fatties', hãy cố gắng tránh trở ngại càng nhiều càng tốt để tránh mất quá nhiều 'Little Fatties' để hoàn thành thách thức. 3. Đối mặt với các nhiệm vụ thách thức khác nhau, cho phép bạn trải nghiệm hoàn toàn lối chơi đua xe độc đáo và trải nghiệm thách thức, thể hiện kỹ năng vận hành xuất sắc và niềm vui của việc chạy phong cách.\""
+        },
+        {
+            "_id": "88",
+            "key": "一款模拟经营各种主题酒店的游戏，你需要从零开始建造酒店，通过各种精致的装饰和扩展使酒店变得更大、更华丽！建设各种酒店的相关设施以及服务也极其重要，让你的顾客宾至如归。雇佣员工，学会带领你的团队，从繁琐的杂物中脱离出来，享受酒店的建设过程。记得升级房间和给你的员工升级培训，让你的每个房间都物尽其用。 一个完美的酒店，当然还需要各种方便的生活设施，在你的酒店里增加售货机、餐车、停车场和游泳池，更快实现财富自由！机遇时常发生，贵宾光临商城，及时抓住富商的投资，获取丰厚资助。随着住客增加，你的住房供不应求，快去建起新的酒店大楼，开辟专属酒店帝国！",
+            "en_us": "A simulation game that manages various themed hotels. You need to build a hotel from scratch, making it larger and more luxurious through various exquisite decorations and expansions. Building various hotel facilities and services is also crucial to making your guests feel at home. Hire employees, learn to lead your team, break free from the mundane clutter, and enjoy the hotel construction process. Remember to upgrade rooms and provide training for your employees to make the most of each room. A perfect hotel also requires various convenient amenities; add vending machines, food trucks, parking lots, and swimming pools to your hotel for quicker wealth accumulation. Opportunities arise frequently; when VIPs visit the mall, seize timely investments from wealthy patrons and obtain generous funding. As the number of guests increases, your housing will be in high demand, so hurry up and build new hotel buildings to create your exclusive hotel empire!",
+            "id": "\"Sebuah permainan simulasi yang mengelola berbagai jenis hotel ber tema. Anda perlu membangun hotel dari nol, membuatnya lebih besar dan lebih mewah melalui berbagai dekorasi dan perluasan yang eksklusif. Membangun berbagai fasilitas dan layanan hotel juga sangat penting untuk membuat tamu Anda merasa seperti di rumah. Menyewa karyawan, belajar memimpin tim Anda, keluar dari kekacauan sehari-hari, dan menikmati proses pembangunan hotel. Jangan lupa untuk meningkatkan kamar dan memberikan pelatihan bagi karyawan Anda agar setiap kamar dimanfaatkan sepenuhnya. Sebuah hotel yang sempurna juga memerlukan berbagai fasilitas yang nyaman; tambahkan mesin penjual otomatis, truk makanan, tempat parkir, dan kolam renang ke hotel Anda untuk mengumpulkan kekayaan dengan cepat. Kesempatan muncul dengan frekuensi yang sering; ketika VIP mengunjungi mal, manfaatkan investasi yang tepat waktu dari pelanggan kaya dan dapatkan pendanaan yang murah hati. Seiring dengan peningkatan jumlah tamu, perumahan Anda akan sangat diminati, jadi buruan bangun bangunan hotel baru untuk menciptakan kerajaan hotel eksklusif Anda sendiri!\"",
+            "pt_br": "\"Um jogo de simulação que gerencia vários hotéis temáticos. Você precisa construir um hotel do zero, tornando-o maior e mais luxuoso por meio de várias decorações e expansões requintadas. Construir várias instalações e serviços de hotel também é crucial para fazer com que seus hóspedes se sintam em casa. Contrate funcionários, aprenda a liderar sua equipe, se livre da bagunça do dia a dia e aproveite o processo de construção do hotel. Lembre-se de atualizar os quartos e fornecer treinamento para seus funcionários para aproveitar ao máximo cada quarto. Um hotel perfeito também requer várias comodidades convenientes; adicione máquinas de venda automática, food trucks, estacionamentos e piscinas ao seu hotel para acumular riqueza mais rapidamente. As oportunidades surgem frequentemente; quando VIPs visitam o shopping, aproveite os investimentos oportunos de patronos ricos e obtenha financiamento generoso. À medida que o número de hóspedes aumenta, sua hospedagem estará em alta demanda, então vá logo construir novos prédios de hotel para criar seu próprio império de hotel exclusivo!\"",
+            "vi": "\"Một trò chơi mô phỏng quản lý các khách sạn với nhiều chủ đề khác nhau. Bạn cần xây dựng một khách sạn từ đầu, làm cho nó lớn hơn và sang trọng hơn thông qua các trang trí tinh tế và mở rộng đa dạng. Xây dựng các tiện ích và dịch vụ khách sạn khác nhau cũng quan trọng để khách của bạn cảm thấy như ở nhà. Thuê nhân viên, học cách lãnh đạo đội ngũ của bạn, thoát khỏi sự rối rắm hàng ngày và tận hưởng quá trình xây dựng khách sạn. Đừng quên nâng cấp phòng và cung cấp đào tạo cho nhân viên của bạn để tận dụng tối đa từng phòng. Một khách sạn hoàn hảo cũng đòi hỏi các tiện ích thuận tiện khác nhau; thêm máy bán hàng tự động, xe đẩy thực phẩm, bãi đỗ xe và bể bơi vào khách sạn của bạn để tích luỹ tài sản nhanh chóng. Cơ hội xuất hiện thường xuyên; khi VIP thăm quán mua sắm, tận dụng đầu tư đúng thời điểm từ các nhà tài trợ giàu có và nhận được tài trợ hậu hĩnh. Khi số lượng khách tăng lên, chỗ ở của bạn sẽ được nhiều người săn đón, vì vậy hãy nhanh chóng xây dựng các tòa nhà khách sạn mới để tạo ra đế chế khách sạn riêng của bạn!\""
+        },
+        {
+            "_id": "89",
+            "key": "一款非常治愈的冒险题材游戏，在这款游戏当中玩家们要控制自己的小鸡进行各种的闯关战斗，游戏拥有非常丰富的角色，每个角色都拥有自己不同类型的技能，玩法多样，玩家们在这里需要打怪升级，点满技能树，非常好玩。",
+            "en_us": "A very soothing adventure-themed game where players control their own little chicken for various challenging battles. The game features a rich cast of characters, each with their own unique skills, and diverse gameplay. Players need to defeat monsters, level up, and fill their skill tree in this enjoyable experience.",
+            "id": "\"Permainan berjudul petualangan yang sangat menenangkan, di mana pemain mengendalikan ayam kecil mereka sendiri untuk berbagai pertempuran yang menantang. Permainan ini menampilkan sejumlah karakter yang kaya, masing-masing dengan keterampilan unik mereka sendiri, dan gameplay yang beragam. Pemain perlu mengalahkan monster, naik level, dan mengisi pohon keterampilan mereka dalam pengalaman yang menyenangkan ini.\"",
+            "pt_br": "\"Um jogo com tema de aventura muito relaxante, onde os jogadores controlam seu próprio pintinho para várias batalhas desafiadoras. O jogo apresenta um elenco rico de personagens, cada um com suas próprias habilidades únicas, e uma jogabilidade diversificada. Os jogadores precisam derrotar monstros, subir de nível e preencher sua árvore de habilidades nesta experiência divertida.\"",
+            "vi": "\"Một trò chơi với chủ đề phiêu lưu rất thú vị, trong đó người chơi điều khiển chú gà con của họ tham gia vào các trận đấu khó khăn. Trò chơi có một dàn nhân vật đa dạng, mỗi nhân vật đều có các kỹ năng độc đáo riêng, và lối chơi đa dạng. Người chơi cần phải đánh bại quái vật, lên cấp và điền đầy cây kỹ năng trong trải nghiệm thú vị này.\""
+        },
+        {
+            "_id": "90",
+            "key": "玩家将驾驶改装车消灭前方的敌人，躲避后方boss车辆的攻击，需要注意的是，要灵活的使用左右控制按钮和前进加速按钮，否则容易翻车哦！收集材料将自己的改装车升级，游戏将会给你带来更大的乐趣。",
+            "en_us": "Players will drive modified cars to eliminate enemies in front and avoid attacks from boss vehicles behind. It's important to use the left and right control buttons and the forward acceleration button flexibly; otherwise, you might overturn! Collect materials to upgrade your modified car and the game will bring you even more enjoyment.",
+            "id": "\"Pemain akan mengendarai mobil yang telah dimodifikasi untuk mengeliminasi musuh di depan dan menghindari serangan dari kendaraan bos di belakang. Penting untuk menggunakan tombol kontrol kiri dan kanan serta tombol akselerasi ke depan dengan fleksibel; jika tidak, Anda mungkin akan terbalik! Kumpulkan bahan untuk meningkatkan mobil yang telah dimodifikasi Anda dan permainan ini akan memberi Anda lebih banyak kesenangan.\"",
+            "pt_br": "\"Os jogadores vão dirigir carros modificados para eliminar inimigos à frente e evitar ataques dos veículos chefes atrás. É importante usar os botões de controle esquerdo e direito e o botão de aceleração para a frente com flexibilidade; caso contrário, você pode capotar! Colete materiais para melhorar seu carro modificado e o jogo lhe trará ainda mais diversão.\"",
+            "vi": "\"Người chơi sẽ lái xe ô tô đã được cải tiến để tiêu diệt kẻ thù phía trước và tránh né những cuộc tấn công từ các xe boss phía sau. Việc linh hoạt sử dụng các nút điều khiển trái, phải và nút tăng tốc phía trước rất quan trọng; nếu không, bạn có thể lật xe! Hãy thu thập nguyên liệu để nâng cấp xe ô tô đã cải tiến của bạn và trò chơi sẽ mang lại cho bạn nhiều niềm vui hơn.\""
+        },
+        {
+            "_id": "91",
+            "key": "玩法和传统的飞行棋一致！但是增加了各种华丽的技能，炫酷的特效，大大增加了游戏的趣味性。\n它是以模拟飞机飞航为主题，可以四个人各拿一种颜色一起玩，飞行棋里有一个骰子，你只要转动骰子，骰子停下来的时候正面是几，你就走几步。\n但是刚开始时只有投到起飞号码，你的飞机才能从机场起飞，并且投到六你还有机会再投一次，当一方所有飞机先到达目的地者为胜。",
+            "en_us": "The gameplay is consistent with traditional flying chess but adds various gorgeous skills and cool special effects, greatly increasing the game's fun. It is themed around simulating airplane flight. Four players can each choose a different color to play together. In the flying chess, there is a die, and you just need to roll the die. When the die stops with a certain number face up, you move that many steps. However, at the beginning, you can only take off when you roll the takeoff number, and if you roll a six, you get another chance to roll. The winner is the first side to have all its planes reach the destination.",
+            "id": "\"Permainannya konsisten dengan catur terbang tradisional tetapi menambahkan berbagai keterampilan yang sangat indah dan efek khusus yang keren, yang sangat meningkatkan kesenangan bermainnya. Temanya adalah simulasi penerbangan pesawat. Empat pemain dapat memilih masing-masing warna yang berbeda untuk bermain bersama. Dalam catur terbang, ada sebuah dadu, dan Anda hanya perlu mengocok dadu. Ketika dadu berhenti dengan salah satu angka menghadap ke atas, Anda maju sejauh itu. Namun, pada awalnya, Anda hanya bisa lepas landas saat dadu menunjukkan angka lepas landas, dan jika Anda mendapatkan angka enam, Anda mendapatkan kesempatan lain untuk mengocok dadu. Pihak pertama yang semua pesawatnya mencapai tujuan adalah pemenangnya.\"",
+            "pt_br": "\"A jogabilidade é consistente com o xadrez voador tradicional, mas adiciona várias habilidades magníficas e efeitos especiais legais, aumentando bastante a diversão do jogo. É temático em torno da simulação de voo de avião. Quatro jogadores podem escolher cores diferentes para jogar juntos. No xadrez voador, há um dado, e você só precisa rolar o dado. Quando o dado para com um certo número virado para cima, você move esse número de passos. No entanto, no início, você só pode decolar quando rolar o número de decolagem e, se rolar um seis, terá outra chance de rolar. O vencedor é o primeiro lado a fazer com que todos os seus aviões alcancem o destino.\"",
+            "vi": "\"Lối chơi tương tự với cờ bay truyền thống nhưng bổ sung thêm nhiều kỹ năng đẹp mắt và hiệu ứng đặc biệt ấn tượng, làm tăng sự thú vị của trò chơi. Trò chơi có chủ đề mô phỏng chuyến bay của máy bay. Bốn người chơi có thể chọn mỗi một màu sắc khác nhau để chơi cùng nhau. Trong cờ bay, có một con xúc xắc, và bạn chỉ cần tung xúc xắc. Khi xúc xắc dừng lại với một số cụ thể, bạn di chuyển số bước đó. Tuy nhiên, ở đầu, bạn chỉ có thể cất cánh khi tung xúc xắc với số cất cánh và nếu bạn tung một con số sáu, bạn có thêm một cơ hội để tung xúc xắc. Người chiến thắng là bên đầu tiên khi tất cả máy bay của họ đạt đến đích.\""
+        },
+        {
+            "_id": "92",
+            "key": "武器已经准备好了，现在就出发吧，多个角色可以使用;\n就是这个格斗姿势，轮到你登场，加入战斗并战胜敌人了，\n拿好手中的剑，和武器，并摆出你最炫的战斗姿态。\n瞄准正确，你就能赢得战斗的胜利并打败敌人;",
+            "en_us": "The weapons are ready, so let's go now! Multiple characters are available for use; it's this combat stance, and it's your turn to enter the stage, join the battle, and defeat the enemies. Hold your sword and weapon in your hand and strike your coolest combat pose. Aim correctly, and you can win the victory in the battle and defeat the enemies.",
+            "id": "\"Senjata sudah siap, jadi ayo pergi sekarang! Beberapa karakter tersedia untuk digunakan; ini adalah posisi pertempuran ini, dan saatnya bagi Anda untuk masuk ke panggung, bergabung dalam pertempuran, dan mengalahkan musuh. Pegang pedang dan senjata Anda di tangan dan tunjukkan pose pertempuran paling keren Anda. Bidik dengan benar, dan Anda dapat meraih kemenangan dalam pertempuran dan mengalahkan musuh.\"",
+            "pt_br": "\"As armas estão prontas, então vamos lá agora! Múltiplos personagens estão disponíveis para uso; é esta postura de combate, e é a sua vez de entrar no palco, se juntar à batalha e derrotar os inimigos. Segure sua espada e arma na mão e faça sua pose de combate mais legal. Mire corretamente e você pode vencer a batalha e derrotar os inimigos.\"",
+            "vi": "\"Vũ khí đã sẵn sàng, vậy thì cùng đi nào! Có nhiều nhân vật khác nhau để sử dụng; đó là tư thế chiến đấu này, và tới lượt bạn xuất hiện trên sân khấu, tham gia vào trận đấu và đánh bại kẻ thù. Nắm chặt thanh kiếm và vũ khí trong tay và thể hiện tư thế chiến đấu bá đạo nhất của bạn. Nhắm mục tiêu đúng cách và bạn có thể giành chiến thắng trong trận đánh và đánh bại kẻ thù.\""
+        },
+        {
+            "_id": "93",
+            "key": "一款模拟海岛经营的游戏，你需要从零开始建造你的海岛，通过各种华丽的船只出海去掠夺各种资源！建设各种海岛的相关设施以及服务也极其重要，让你的岛屿越来越豪华。",
+            "en_us": "A simulation game of managing an island, you need to build your island from scratch and plunder various resources by going out to sea with various exquisite ships! Building various island facilities and services is also crucial to make your island more luxurious.",
+            "id": "\"Sebuah permainan simulasi mengelola pulau, Anda perlu membangun pulau Anda dari nol dan merampok berbagai sumber daya dengan pergi ke laut dengan berbagai kapal yang sangat indah! Membangun berbagai fasilitas pulau dan layanan juga sangat penting untuk membuat pulau Anda lebih mewah.\"",
+            "pt_br": "\"Um jogo de simulação de gerenciamento de uma ilha, você precisa construir sua ilha do zero e saquear vários recursos indo para o mar com vários navios requintados! Construir várias instalações e serviços na ilha também é crucial para tornar sua ilha mais luxuosa.\"",
+            "vi": "\"Một trò chơi mô phỏng quản lý một hòn đảo, bạn cần xây dựng hòn đảo của mình từ đầu và cướp bóc nhiều nguồn tài nguyên khác nhau bằng cách ra khơi với các con tàu tinh xảo khác nhau! Xây dựng các cơ sở và dịch vụ trên đảo cũng rất quan trọng để làm cho đảo của bạn trở nên sang trọng hơn.\""
+        },
+        {
+            "_id": "94",
+            "key": "一款足球射门游戏，游戏中还拥有数十款酷炫的足球皮肤，在游戏中，玩家将通过判断角色的相隔距离，阻挡的地形，调整自己的瞄准角度与力度，通过将脚下的足球射向攻击目标，利用场景的物品的交互，胜利通关。",
+            "en_us": "A soccer shooting game with dozens of cool soccer skins. In the game, players will pass levels by judging the distance between characters, the terrain obstacles, adjusting their aiming angle and strength, and shooting the soccer ball at the target using interactive items in the scene.",
+            "id": "\"Sebuah permainan tendangan sepak bola dengan puluhan kulit sepak bola keren. Dalam permainan ini, pemain akan melewati level dengan menghitung jarak antara karakter, rintangan alam, menyesuaikan sudut dan kekuatan bidik mereka, dan menendang bola sepak ke target menggunakan item interaktif di dalam scene.\"",
+            "pt_br": "\"Um jogo de chute de futebol com dezenas de skins de futebol legais. No jogo, os jogadores passarão de nível julgando a distância entre os personagens, os obstáculos do terreno, ajustando o ângulo de mira e a força e chutando a bola de futebol no alvo usando itens interativos na cena.\"",
+            "vi": "\"Một trò chơi sút bóng đá với hàng chục lớp da bóng đá thú vị. Trong trò chơi, người chơi sẽ vượt qua các cấp độ bằng cách đánh giá khoảng cách giữa các nhân vật, các rào cản trong địa hình, điều chỉnh góc nhắm và sức mạnh và sút bóng đá vào mục tiêu bằng cách sử dụng các mục tương tác trong cảnh.\""
+        },
+        {
+            "_id": "95",
+            "key": "1.有很多怪兽可以选择战斗。每个角色都有自己的招募能力，并且在战斗中会慢慢成长。\n2.很多有趣的经历会慢慢地回忆起来，地球上会出现许多汹涌的风暴，力量只会越来越大。\n3.勇敢的竞争行为的画面非常凶猛，到处都是破坏地球的暴徒，维护正义的使命就在身上。",
+            "en_us": "1.There are many monsters to choose from in battle. Each character has their own unique abilities and gradually grows stronger during combat.\n2.Many interesting experiences will gradually be remembered, and there will be many raging storms on Earth, with power only growing stronger.\n3.The fierce visuals of brave competitive actions are filled with hooligans wreaking havoc on Earth, and the mission to uphold justice is upon you.",
+            "id": "1.Banyak monster yang bisa dipilih untuk bertarung. Setiap karakter memiliki kemampuan unik mereka sendiri dan tumbuh lebih kuat selama pertempuran.2.Banyak pengalaman menarik akan perlahan-lahan teringat, dan akan ada banyak badai ganas di Bumi, dengan kekuatan yang hanya semakin bertambah.3.Visual aksi kompetitif yang berani sangat ganas, penuh dengan pengacau yang merusak Bumi, dan misi untuk menegakkan keadilan ada pada Anda.",
+            "pt_br": "1.Há muitos monstros para escolher na batalha. Cada personagem tem suas próprias habilidades únicas e gradualmente fica mais forte durante o combate.2.Muitas experiências interessantes serão lembradas aos poucos, e haverá muitas tempestades furiosas na Terra, com o poder apenas crescendo cada vez mais.3.A visualização intensa das ações competitivas corajosas está repleta de arruaceiros causando estragos na Terra, e a missão de defender a justiça está sobre você.",
+            "vi": "1.Có nhiều quái vật để lựa chọn trong trận chiến. Mỗi nhân vật có khả năng đặc biệt riêng và dần trở nên mạnh mẽ hơn trong khi chiến đấu.2.Nhiều trải nghiệm thú vị sẽ dần được nhớ lại, và trên Trái Đất sẽ xuất hiện nhiều cơn bão dữ dội, với sức mạnh chỉ càng ngày càng mạnh mẽ.3.Hình ảnh đầy quyết tâm của các hành động cạnh tranh dũng cảm đang chứa đựng những tên quậy phá gây hại trên Trái Đất, và sứ mệnh bảo vệ công lý đang đặt lên vai bạn."
+        },
+        {
+            "_id": "96",
+            "key": "虽然是火柴人类型的，但是场景做得非常的细腻，各种各样的建筑物都可以进行掩护，内容也极其丰富，每一关都有着任务目标，只有完成任务才可以解锁新的关卡，火柴人不仅可以控制上下左右的方向，还能切换不同武器进行射击，还有不同载具可供玩家驾驶。",
+            "en_us": "Although it's in the style of stick figures, the scenes are finely crafted, with various buildings available for cover. The content is extremely rich, with mission objectives in each level. Only by completing the tasks can you unlock new levels. Stick figures can not only control movement in all directions but also switch between different weapons for shooting, and there are various vehicles for players to drive.",
+            "id": "Meskipun dalam gaya gambar stik, latar belakangnya dirancang dengan sangat baik, dengan berbagai bangunan yang dapat digunakan sebagai perlindungan. Kontennya sangat kaya, dengan tujuan misi di setiap level. Hanya dengan menyelesaikan tugas-tugas tersebut Anda dapat membuka level baru. Gambar stik tidak hanya dapat mengendalikan gerakan ke semua arah tetapi juga beralih antara senjata berbeda untuk menembak, dan ada berbagai kendaraan yang dapat dimainkan oleh pemain.",
+            "pt_br": "Embora esteja no estilo de bonecos de palito, as cenas são cuidadosamente elaboradas, com vários edifícios disponíveis para se proteger. O conteúdo é extremamente rico, com objetivos de missão em cada nível. Apenas completando as tarefas você pode desbloquear novos níveis. Os bonecos de palito não apenas podem controlar o movimento em todas as direções, mas também alternar entre diferentes armas para atirar, e há vários veículos para os jogadores dirigirem.",
+            "vi": "Mặc dù trong phong cách hình người que, nhưng các cảnh được thiết kế tỉ mỉ, với nhiều tòa nhà khác nhau có sẵn để che chắn. Nội dung rất phong phú, với mục tiêu nhiệm vụ trong mỗi cấp độ. Chỉ bằng cách hoàn thành các nhiệm vụ bạn mới có thể mở khóa các cấp độ mới. Hình người que không chỉ có thể kiểm soát chuyển động theo mọi hướng mà còn chuyển đổi giữa các loại vũ khí khác nhau để bắn, và có nhiều phương tiện khác nhau cho người chơi lái."
+        },
+        {
+            "_id": "97",
+            "key": "要熄灯了~要熄灯了~ 猛鬼闯进了宿舍楼!\n“砰砰砰……砰砰砰……”——猛鬼狂躁地攻击着宿舍门。\n快快躲进床铺，建立你的设施和防线，共同抵御猛鬼吧！",
+            "en_us": "Lights out~ Lights out~ A fierce ghost has broken into the dormitory! 'Bang bang bang... bang bang bang...' - The ferocious ghost is attacking the dormitory door frenziedly. Hurry, hide in your beds, establish your facilities and defenses, and together, defend against the ghosts!",
+            "id": "\"Lampu padam~ Lampu padam~ Hantu ganas telah masuk ke asrama! 'Dor dor dor... dor dor dor...' - Hantu ganas menyerang pintu asrama dengan ganas. Cepat, sembunyi di tempat tidurmu, bangun fasilitas dan pertahananmu, dan bersama-sama, lawan hantu-hantu!\"",
+            "pt_br": "\"Luzes apagadas~ Luzes apagadas~ Um fantasma feroz invadiu o dormitório! 'Bang bang bang... bang bang bang...' - O fantasma feroz está atacando freneticamente a porta do dormitório. Rápido, se esconda em suas camas, estabeleça suas instalações e defesas e, juntos, defendam-se dos fantasmas!\"",
+            "vi": "\"Tắt đèn đi~ Tắt đèn đi~ Một con ma hung hăng đã xâm nhập vào ký túc xá! 'Bùm bùm bùm... bùm bùm bùm...' - Con ma hung hăng đang tấn công cửa ký túc xá một cách điên cuồng. Nhanh lên, trốn vào giường của bạn, thiết lập cơ sở và phòng thủ của bạn và cùng nhau, chống lại những con ma!\""
+        },
+        {
+            "_id": "98",
+            "key": "1.上、下、左、右键控制贪吃的蛇成功吃苹果，通过关卡。\n2.迅速找到吃苹果和钻黑洞的方法，成功的进入下一关。\n3.控制方向键移动你的小蛇，吃地图上的苹果，小蛇会变长",
+            "en_us": "1.Use the arrow keys (up, down, left, right) to successfully guide the greedy snake to eat apples and progress through the levels.\n2.Quickly find the way to eat apples and enter black holes to successfully advance to the next level.\n3.Control the direction keys to move your small snake, eat the apples on the map, and the snake will grow longer.",
+            "id": "1.Gunakan tombol panah (atas, bawah, kiri, kanan) untuk membimbing ular rakus makan apel dengan sukses dan melanjutkan ke level berikutnya.2.Cepat temukan cara untuk makan apel dan masuk ke lubang hitam untuk berhasil maju ke level berikutnya.3.Kendalikan tombol arah untuk menggerakkan ular kecil Anda, makan apel di peta, dan ular akan tumbuh lebih panjang.",
+            "pt_br": "1.Use as teclas de seta (cima, baixo, esquerda, direita) para guiar com sucesso a cobra gulosa a comer maçãs e progredir nos níveis.2.Encontre rapidamente o caminho para comer maçãs e entrar em buracos negros para avançar com sucesso para o próximo nível.3.Controle as teclas de direção para mover sua pequena cobra, coma as maçãs no mapa, e a cobra crescerá mais longa.",
+            "vi": "1.Sử dụng các phím mũi tên (lên, xuống, trái, phải) để hướng dẫn con rắn tham lam ăn táo thành công và tiến bộ qua các cấp độ.2.Nhanh chóng tìm cách ăn táo và đi vào lỗ đen để tiến thêm vào cấp độ tiếp theo một cách thành công.3.Sử dụng các phím mũi tên để di chuyển con rắn nhỏ của bạn, ăn táo trên bản đồ và con rắn sẽ trở nên dài hơn."
+        },
+        {
+            "_id": "99",
+            "key": "托尔有他的锤子，海王星有他的三叉戟，在这个游戏中，你有一把强大的镐头，它既擅长击退怪物，也擅长打破岩石、挖掘矿物和开采黄金。通过不同的关卡升级它，以提高你的神圣生产力，并收获更多的资源来继续建造。",
+            "en_us": "Thor has his hammer, Neptune has his trident, and in this game, you have a powerful pickaxe. It excels at repelling monsters, breaking rocks, excavating minerals, and mining gold. Upgrade it through various levels to boost your divine productivity and gather more resources for further construction.",
+            "id": "Thor memiliki palu, Neptunus memiliki trisula, dan dalam permainan ini, Anda memiliki beliung yang kuat. Ini sangat baik dalam menolak monster, memecahkan batu, menggali mineral, dan menambang emas. Tingkatkan melalui berbagai level untuk meningkatkan produktivitas ilahi Anda dan mengumpulkan lebih banyak sumber daya untuk konstruksi lebih lanjut.",
+            "pt_br": "Thor tem seu martelo, Netuno tem seu tridente, e neste jogo, você tem uma picareta poderosa. Ela se destaca em repelir monstros, quebrar rochas, escavar minerais e minerar ouro. Atualize-a através de vários níveis para aumentar sua produtividade divina e coletar mais recursos para construções adicionais.",
+            "vi": "Thor có cái búa của mình, Sao Hải Vương có cái đinh ba của mình, và trong trò chơi này, bạn có một cái cuốc mạnh mẽ. Nó xuất sắc trong việc đẩy lùi quái vật, đập vỡ đá, đào khoáng sản và khai thác vàng. Nâng cấp nó qua các cấp độ khác nhau để tăng năng suất thần thánh của bạn và thu thập nhiều tài nguyên hơn để xây dựng thêm."
+        },
+        {
+            "_id": "100",
+            "key": "一款非常可爱的3D坦克大战游戏，无论是游戏画面还是游戏的玩法，都非常不错。游戏中你不停的移动坦克，然后对准敌人发射炮弹你会感觉像在飘移一样，非常爽，各种酷炫坦克等你挑选。但是关卡越到最后越不是那么容易的哦，你除了要控制好坦克的移动方向，还必须得注意敌人炮弹的攻击，你还可以升级购买自己的专属无人机，无人机会给你带来意想不到的游戏体验。",
+            "en_us": "A very cute 3D tank battle game, both the game graphics and gameplay are excellent. In the game, you keep moving the tank, then aim and shoot at the enemies with the cannon. It feels like drifting, very exciting, and there are various cool tanks waiting for you to choose. However, as you progress through the levels, it becomes increasingly challenging. Besides controlling the tank's movement direction, you must also pay attention to enemy missile attacks. You can also upgrade and purchase your own exclusive drones, which will bring you unexpected gaming experiences.",
+            "id": "Sebuah permainan pertempuran tank 3D yang sangat lucu, baik grafis permainan maupun gameplay-nya sangat bagus. Dalam permainan ini, Anda terus menggerakkan tank, kemudian mengarahkan dan menembak musuh dengan meriam. Rasanya seperti drif, sangat mengasyikkan, dan ada berbagai tank keren yang menunggu Anda pilih. Namun, seiring berjalannya level, semakin sulit. Selain mengendalikan arah pergerakan tank, Anda juga harus memperhatikan serangan misil musuh. Anda juga dapat meng-upgrade dan membeli drone eksklusif Anda sendiri, yang akan memberi Anda pengalaman bermain game yang tak terduga.",
+            "pt_br": "Um jogo de batalha de tanques 3D muito fofo, tanto os gráficos do jogo quanto a jogabilidade são excelentes. No jogo, você continua movendo o tanque, depois mira e atira nos inimigos com o canhão. Parece uma derrapagem, muito emocionante, e há vários tanques legais esperando por você escolher. No entanto, à medida que avança nos níveis, fica cada vez mais desafiador. Além de controlar a direção de movimento do tanque, você também deve prestar atenção aos ataques de mísseis inimigos. Você também pode atualizar e comprar seus próprios drones exclusivos, que lhe proporcionarão experiências de jogo inesperadas.",
+            "vi": "Một trò chơi chiến đấu xe tăng 3D rất dễ thương, cả đồ họa và cách chơi đều tuyệt vời. Trong trò chơi, bạn liên tục di chuyển xe tăng, sau đó nhắm và bắn vào kẻ thù với pháo. Cảm giác giống như trôi, rất thú vị, và có nhiều loại xe tăng thú vị đang chờ bạn lựa chọn. Tuy nhiên, khi bạn tiến qua các cấp độ, nó trở nên ngày càng khó khăn. Ngoài việc kiểm soát hướng di chuyển của xe tăng, bạn cũng phải chú ý đến cuộc tấn công bằng tên lửa của kẻ thù. Bạn cũng có thể nâng cấp và mua drone riêng của bạn, đó sẽ mang đến cho bạn những trải nghiệm chơi game bất ngờ."
+        },
+        {
+            "_id": "101",
+            "key": "一款末日丧尸题材的小游戏，玩家有帅气的载具，沿途拯救幸存者并且加入自己的队伍，消灭挡路的丧尸。游戏有丰富的武器系统，一起来解锁更多的快乐吧！",
+            "en_us": "A post-apocalyptic zombie-themed game where players have stylish vehicles, rescue survivors along the way, and join their own teams to eliminate the zombies blocking the path. The game features a rich weapon system, so let's unlock more fun together!",
+            "id": "Sebuah permainan bertema zombie pasca-apokaliptik di mana pemain memiliki kendaraan bergaya, menyelamatkan penyintas sepanjang jalan, dan bergabung dengan tim mereka sendiri untuk mengeliminasi zombie yang menghalangi jalannya. Permainan ini memiliki sistem senjata yang kaya, jadi mari kita bersama-sama membuka lebih banyak kesenangan!",
+            "pt_br": "Um jogo pós-apocalíptico com temática de zumbis, onde os jogadores têm veículos estilosos, resgatam sobreviventes pelo caminho e se juntam a suas próprias equipes para eliminar os zumbis que bloqueiam o caminho. O jogo apresenta um rico sistema de armas, então vamos desbloquear mais diversão juntos!",
+            "vi": "Một trò chơi về chủ đề zombie hậu tận thế nơi người chơi có các phương tiện thời trang, cứu sống những người sống sót dọc theo đường và tham gia vào các đội của họ để tiêu diệt những zombie cản trở đường đi. Trò chơi có một hệ thống vũ khí phong phú, vậy hãy cùng mở khóa thêm niềm vui!"
+        },
+        {
+            "_id": "102",
+            "key": "1.拿起铲子开始工作吧！\n2.用铲子在草坪上挖这个深洞直到地心，找到并收集有价值的硬币，这样你就可以买工人为你挖。\n3.每升一个级别速度都会不同程度地加快，游戏会变得越来越复杂，但也越来越好玩。\n4.每个级别都会有不同的挑战：到达某个深度、收集一定数量的黄金、找到外星生物并将它毁灭或使用道具来充当推进器。",
+            "en_us": "1.Pick up the shovel and start working!\n2.Use the shovel to dig deep into the lawn until the core of the Earth, find and collect valuable coins, so you can hire workers to dig for you.\n3.The speed will increase to a different degree with each level up, the game will become more complex, but also more fun.\n4.Each level will have different challenges: reaching a certain depth, collecting a certain amount of gold, finding and destroying alien creatures, or using items as thrusters.",
+            "id": "1.Ambil sekop dan mulai bekerja!2.Gunakan sekop untuk menggali ke dalam rumput hingga inti Bumi, temukan dan kumpulkan koin berharga, sehingga Anda dapat mempekerjakan pekerja untuk menggali untuk Anda.3.Kecepatan akan meningkat dengan tingkat yang berbeda setiap naik level, permainan akan menjadi lebih kompleks, tetapi juga lebih menyenangkan.4.Setiap level akan memiliki tantangan yang berbeda: mencapai kedalaman tertentu, mengumpulkan sejumlah emas tertentu, menemukan dan menghancurkan makhluk asing, atau menggunakan item sebagai pendorong.",
+            "pt_br": "1.Pegue a pá e comece a trabalhar!2.Use a pá para cavar fundo na grama até o núcleo da Terra, encontre e colete moedas valiosas, para que você possa contratar trabalhadores para cavar para você.3.A velocidade aumentará em graus diferentes a cada nível, o jogo se tornará mais complexo, mas também mais divertido.4.Cada nível terá desafios diferentes: alcançar uma determinada profundidade, coletar uma certa quantidade de ouro, encontrar e destruir criaturas alienígenas ou usar itens como propulsores.",
+            "vi": "1.Lấy cái xẻng lên và bắt đầu làm việc!2.Sử dụng cái xẻng để đào sâu vào bãi cỏ cho đến lõi Trái Đất, tìm và thu thập những đồng xu có giá trị, để bạn có thể thuê công nhân đào cho bạn.3.Tốc độ sẽ tăng lên ở mỗi cấp độ khác nhau, trò chơi sẽ trở nên phức tạp hơn, nhưng cũng vui hơn.4.Mỗi cấp độ sẽ có những thách thức khác nhau: đạt độ sâu nhất định, thu thập một lượng vàng nhất định, tìm và tiêu diệt sinh vật ngoài hành tinh hoặc sử dụng các vật phẩm như động cơ đẩy."
+        },
+        {
+            "_id": "103",
+            "key": "游戏的目标是以最少的移动次数将牌面中的6叠牌整理移除。当所有牌被移除整理到界面的上方，游戏获胜。\n游戏玩法，下方有三个空位，每个可以临时存放一张纸牌，此游戏中它们被称为中转单元。上方的四个空位是回收单元，中转单元可以随时移到任何一个空位中，其它牌必须按照从小到大的顺序移到相同花色的回收单元中。所有纸牌都移入回收单元后，本局结束，你就胜利了。",
+            "en_us": "The gameplay includes three slots at the bottom where each can temporarily hold a card, referred to as the transfer units in this game. There are four slots at the top called recycling units, and the transfer units can be moved to any of them at any time. Other cards must be moved to the recycling units in ascending order of the same suit. Once all cards are in the recycling units, the game ends, and you win.The game ends and you win when all cards are moved into the recycling units.",
+            "id": "Cara bermain melibatkan tiga slot di bagian bawah di mana masing-masing dapat sementara menahan kartu, disebut sebagai unit transfer dalam permainan ini. Ada empat slot di bagian atas yang disebut sebagai unit daur ulang, dan unit transfer dapat dipindahkan ke salah satu dari mereka kapan saja. Kartu-kartu lain harus dipindahkan ke unit daur ulang dalam urutan naik dari jenis yang sama. Begitu semua kartu berada di unit daur ulang, permainan berakhir, dan Anda menang.Permainan berakhir dan Anda menang saat semua kartu dipindahkan ke unit daur ulang.",
+            "pt_br": "A jogabilidade inclui três slots na parte inferior, onde cada um pode temporariamente segurar um cartão, chamados de unidades de transferência neste jogo. Existem quatro slots na parte superior chamados unidades de reciclagem, e as unidades de transferência podem ser movidas para qualquer uma delas a qualquer momento. Outros cartões devem ser movidos para as unidades de reciclagem em ordem crescente do mesmo naipe. Uma vez que todos os cartões estejam nas unidades de reciclagem, o jogo termina, e você vence.O jogo termina e você vence quando todas as cartas são movidas para as unidades de reciclagem.",
+            "vi": "Luật chơi bao gồm ba khe ở phía dưới, mỗi khe có thể tạm thời giữ một lá bài, được gọi là các đơn vị chuyển đổi trong trò chơi này. Có bốn khe ở phía trên được gọi là các đơn vị tái chế, và các đơn vị chuyển đổi có thể di chuyển đến bất kỳ khe nào trong chúng bất kỳ lúc nào. Các lá bài khác phải được di chuyển đến các đơn vị tái chế theo thứ tự tăng dần của cùng một màu. Khi tất cả lá bài đều nằm trong các đơn vị tái chế, trò chơi kết thúc và bạn thắng.Trò chơi kết thúc và bạn thắng khi tất cả các lá bài được di chuyển vào các đơn vị tái chế."
+        },
+        {
+            "_id": "104",
+            "key": "1、一款经典的躺平发育玩法游戏，玩家扮演农民，种植各种植物来抵御僵尸的进攻。\n2、在游戏中玩家需要合理的分配金钱，选择升级设施或者种植更多的植物，不同的植物能产生不同的防御效果。\n3、在游戏中玩家还能更换自己的皮肤，丰富的玩法等你来探索。",
+            "en_us": "1.A classic laid-back growth gameplay game where players play as farmers, plant various plants to fend off zombie attacks.\n2.In the game, players need to allocate money wisely, choose to upgrade facilities, or plant more plants, and different plants can produce different defensive effects.\n3.In the game, players can also change their skins, and rich gameplay awaits your exploration.",
+            "id": "1.Permainan gameplay pertumbuhan santai klasik di mana pemain berperan sebagai petani, menanam berbagai tanaman untuk melawan serangan zombie.\n2.Dalam permainan, pemain perlu mengalokasikan uang dengan bijak, memilih untuk meng-upgrade fasilitas, atau menanam lebih banyak tanaman, dan berbagai tanaman dapat menghasilkan efek pertahanan yang berbeda.\n3.Dalam permainan, pemain juga dapat mengganti kulit mereka, dan gameplay yang kaya menunggu eksplorasi Anda.",
+            "pt_br": "1.Um jogo de gameplay de crescimento descontraído clássico onde os jogadores atuam como fazendeiros, plantam várias plantas para repelir os ataques zumbis.\n2.No jogo, os jogadores precisam alocar dinheiro sabiamente, escolher atualizar as instalações ou plantar mais plantas, e diferentes plantas podem produzir efeitos defensivos diferentes.\n3.No jogo, os jogadores também podem mudar suas skins, e um rico gameplay aguarda sua exploração.",
+            "vi": "1.Một trò chơi gameplay phát triển thư giãn cổ điển, người chơi đóng vai người nông dân, trồng các loại cây để chống lại sự tấn công của zombie.\n2.Trong trò chơi, người chơi cần phân chia tiền một cách khôn ngoan, chọn nâng cấp cơ sở hoặc trồng thêm cây, và các loại cây khác nhau có thể tạo ra hiệu ứng phòng thủ khác nhau.\n3.Trong trò chơi, người chơi cũng có thể thay đổi skin của họ, và gameplay đa dạng đang chờ đợi sự khám phá của bạn."
+        },
+        {
+            "_id": "105",
+            "key": "1.植物僵尸惹不起是一款经典玩法的塔防游戏，玩家经过收集不同的种子种植不同的植物，来抵御僵尸的进攻。\n2.在你的花园里种花，并合成它们来解锁全新的花，在这个游戏中可以获得很多种不同的花，不断合成吧。 \n3.使用道具和技能将会获得意想不到的效果。\n4.有时会有一个空投植物。点击会有更多的惊喜在等着你，快来玩吧。",
+            "en_us": "1.\"Plants vs. Zombies Can't Mess With It\" is a classic tower defense game where players collect different seeds to plant different plants to fend off zombie attacks.\n2.Plant flowers in your garden and combine them to unlock brand new flowers. In this game, you can obtain many different types of flowers, so keep combining!\n3.Using items and skills will yield unexpected results.4.Sometimes there will be an airdrop plant. Clicking it will bring you more surprises, so come and play!",
+            "id": "1.\"Plants vs. Zombies Tidak Bisa Mengganggunya\" adalah permainan pertahanan menara klasik di mana pemain mengumpulkan berbagai benih untuk menanam berbagai tanaman untuk melawan serangan zombie.2.Tanam bunga di kebunmu dan gabungkan mereka untuk membuka kunci bunga-bunga baru. Dalam permainan ini, Anda dapat memperoleh banyak jenis bunga yang berbeda, jadi teruslah menggabungkannya!3.Menggunakan item dan keterampilan akan menghasilkan hasil yang tidak terduga.4.Terkadang akan ada tanaman airdrop. Mengkliknya akan memberi Anda lebih banyak kejutan, jadi datang dan bermain!",
+            "pt_br": "1.\"Plants vs. Zombies Não Pode Mexer Com Isso\" é um jogo de defesa de torre clássico onde os jogadores coletam diferentes sementes para plantar diferentes plantas e repelir os ataques zumbis.2.Plante flores em seu jardim e combine-as para desbloquear flores completamente novas. Neste jogo, você pode obter muitos tipos diferentes de flores, então continue combinando!3.Usar itens e habilidades resultará em resultados inesperados.4.Às vezes, haverá uma planta de lançamento aéreo. Clicar nela trará mais surpresas para você, então venha e jogue!",
+            "vi": "1.\"Plants vs. Zombies Không Thể Làm Phiền Nó\" là một trò chơi phòng thủ tháp cổ điển, trong đó người chơi thu thập các loại hạt để trồng các loại cây khác nhau để chống lại sự tấn công của zombie.2.Trồng hoa trong vườn của bạn và kết hợp chúng để mở khóa hoa hoàn toàn mới. Trong trò chơi này, bạn có thể thu thập nhiều loại hoa khác nhau, vì vậy hãy tiếp tục kết hợp!3.Sử dụng vật phẩm và kỹ năng sẽ mang lại kết quả không ngờ.4.Đôi khi sẽ có một cây thả dù. Nhấp vào nó sẽ mang lại nhiều bất ngờ hơn cho bạn, vì vậy hãy đến và chơi!"
+        },
+        {
+            "_id": "106",
+            "key": "1、首先在游戏中玩家们要注意正确的去将那些金币全部都收集起来，并且在那些僵尸出现了之后我们要注意正确的去将那些敌人消灭掉，并且获得更多的金币来升级我们的角色获得更强的攻击力。\n2、在游戏中玩家们在消灭掉那些敌人之后可以获得很多的金币，这些金币玩家们可以用来升级已有的角色和解锁一些新的角色，越是到后期我们需要的金币就会越多。\n3、在游戏中玩家们还要注意去使用角色们的技能，角色会有着不同的技能，在前进的时候玩家们注意在敌人出现很多的时候我们就可以使用角色技能来帮助我们很好地过关了。",
+            "en_us": "1.First, in the game, players should pay attention to collecting all the coins correctly. After the zombies appear, we need to focus on eliminating the enemies correctly and gaining more coins to upgrade our characters for stronger attacks.In the game, players can earn a lot of coins after eliminating the enemies. These coins can be used to upgrade existing characters and unlock some new characters. The further we progress, the more coins we will need.\n3.In the game, players should also pay attention to using the skills of their characters. Characters have different skills, and players should use character skills to help clear levels effectively when many enemies appear during the progress.",
+            "id": "1.Pertama, dalam permainan, pemain harus memperhatikan untuk mengumpulkan semua koin dengan benar. Setelah zombie muncul, kita perlu fokus untuk menghilangkan musuh dengan benar dan mendapatkan lebih banyak koin untuk meningkatkan karakter kita agar serangan lebih kuat.2.Dalam permainan, pemain dapat menghasilkan banyak koin setelah mengeliminasi musuh. Koin-koin ini dapat digunakan untuk meningkatkan karakter yang ada dan membuka kunci beberapa karakter baru. Semakin jauh kita bergerak, semakin banyak koin yang dibutuhkan.3.Dalam permainan, pemain juga harus memperhatikan penggunaan keterampilan karakter mereka. Karakter memiliki berbagai keterampilan, dan pemain harus menggunakan keterampilan karakter untuk membantu membersihkan level dengan efektif ketika banyak musuh muncul selama kemajuan.",
+            "pt_br": "1.Primeiro, no jogo, os jogadores devem prestar atenção em coletar todas as moedas corretamente. Após o aparecimento dos zumbis, precisamos nos concentrar em eliminar os inimigos corretamente e ganhar mais moedas para melhorar nossos personagens para ataques mais fortes.2.No jogo, os jogadores podem ganhar muitas moedas após eliminar os inimigos. Essas moedas podem ser usadas para melhorar personagens existentes e desbloquear alguns novos personagens. Quanto mais avançamos, mais moedas precisaremos.3.No jogo, os jogadores também devem prestar atenção em usar as habilidades de seus personagens. Os personagens têm habilidades diferentes, e os jogadores devem usar as habilidades dos personagens para ajudar a limpar os níveis de forma eficaz quando muitos inimigos aparecem durante o progresso.",
+            "vi": "1.Trước hết, trong trò chơi, người chơi nên chú ý thu thập tất cả các đồng xu một cách đúng đắn. Sau khi zombie xuất hiện, chúng ta cần tập trung vào loại bỏ đối thủ một cách chính xác và kiếm thêm đồng xu để nâng cấp nhân vật để tấn công mạnh hơn.2.Trong trò chơi, người chơi có thể kiếm được rất nhiều đồng xu sau khi loại bỏ kẻ thù. Những đồng xu này có thể được sử dụng để nâng cấp các nhân vật hiện có và mở khóa một số nhân vật mới. Càng tiến xa, chúng ta càng cần nhiều đồng xu hơn.3.Trong trò chơi, người chơi cũng cần chú ý sử dụng kỹ năng của nhân vật của họ. Nhân vật có các kỹ năng khác nhau, và người chơi nên sử dụng kỹ năng của nhân vật để giúp vượt qua các cấp độ một cách hiệu quả khi có nhiều kẻ thù xuất hiện trong quá trình tiến bộ."
+        },
+        {
+            "_id": "107",
+            "key": "我是大老板",
+            "en_us": "Man of Wealth",
+            "id": "Hartawan",
+            "pt_br": "Homem Rico",
+            "vi": "Tôi Là Ông Chủ"
+        },
+        {
+            "_id": "108",
+            "key": "打造一个独特的商业帝国",
+            "en_us": "Build your own unique business empire!",
+            "id": "Bangun kerajaan bisnis unikmu!",
+            "pt_br": "Construa seu próprio reino de negócios único!",
+            "vi": "Xây dựng đế quốc kinh doanh độc đáo"
+        },
+        {
+            "_id": "109",
+            "key": "1 永远不要让你的员工懈怠\n2 雇佣更多的员工壮大你的团队\n3 不停发展自己的工厂规模",
+            "en_us": "1 Never let your employees slack off\n2 Hire more employees to strengthen your team\n3 Continuously expand the size of your factory",
+            "id": "1 Jangan biarkan karyawan Anda malas\n2 Gaji lebih banyak karyawan untuk memperkuat tim Anda\n3 Terus berkembang ukuran pabrik Anda",
+            "pt_br": "1 Nunca deixe seus funcionários relaxarem\n2 Contrate mais funcionários para fortalecer sua equipe\n3 Expanda continuamente o tamanho de sua fábrica",
+            "vi": "1 Đừng bao giờ để nhân viên của bạn lơ là\n2 Thuê nhiều nhân viên hơn để củng cố đội của bạn\n3 Mở rộng liên tục quy mô nhà máy của bạn"
+        },
+        {
+            "_id": "110",
+            "key": "挪车大师",
+            "en_us": "Car Parking Jam",
+            "id": "Parkir Mobil Macet",
+            "pt_br": "Engarrafamento no Estacionamento",
+            "vi": "Bãi Đậu Xe Náo Nhiệt"
+        },
+        {
+            "_id": "111",
+            "key": "把所有车都挪出去",
+            "en_us": "Drive out and free all the cars!",
+            "id": "Keluar dari macet dan bebaskan semua mobil!",
+            "pt_br": "Dirija e libere todos os carros!",
+            "vi": "Giải phóng tất cả những chiếc xe!"
+        },
+        {
+            "_id": "112",
+            "key": "一款休闲益智解谜类游戏，游戏的玩法很简单，只需要将所有的车挪动到空位置，让小车子顺利离开停车场即可胜利，车子移动过程中不能撞到行人，游戏中有海量关卡等你来挑战，每个关卡都有独特的设计，给你最精彩又烧脑的解谜游戏体验。",
+            "en_us": "A casual and puzzle-solving game, the gameplay is simple: just move all the cars to empty spaces to let the little car leave the parking lot successfully for victory. Cars must not collide with pedestrians during movement. The game offers a massive number of levels for you to challenge, each with unique designs, providing you with the most exciting and brain-burning puzzle-solving game experience.",
+            "id": "Sebuah permainan santai dan teka-teki, gameplay-nya sederhana: hanya perlu memindahkan semua mobil ke ruang kosong untuk membiarkan mobil kecil meninggalkan tempat parkir dengan sukses untuk kemenangan. Mobil tidak boleh bertabrakan dengan pejalan kaki selama pergerakan. Permainan ini menawarkan banyak level yang menantang, masing-masing dengan desain yang unik, memberikan pengalaman permainan teka-teki yang paling seru dan memeras otak.",
+            "pt_br": "Um jogo casual de resolução de quebra-cabeças, a jogabilidade é simples: basta mover todos os carros para os espaços vazios para permitir que o carro pequeno saia do estacionamento com sucesso para a vitória. Os carros não podem colidir com pedestres durante o movimento. O jogo oferece uma enorme quantidade de níveis para você desafiar, cada um com designs únicos, proporcionando a você a experiência de jogo de resolução de quebra-cabeças mais emocionante e desafiadora.",
+            "vi": "Một trò chơi giải đố thư giãn và giải đố, gameplay đơn giản: chỉ cần di chuyển tất cả các xe đến các vị trí trống để cho phép xe nhỏ rời khỏi bãi đỗ xe một cách thành công để chiến thắng. Xe không được va chạm với người đi bộ trong quá trình di chuyển. Trò chơi cung cấp một số lượng lớn các cấp độ cho bạn thách thức, mỗi cấp độ đều có thiết kế độc đáo, mang lại cho bạn trải nghiệm trò chơi giải đố thư giãn và đầy thách thức nhất."
+        },
+        {
+            "_id": "113",
+            "key": "猎龙传说",
+            "en_us": "legend_of_dragon_hunt",
+            "id":  "Legenda Pemburu Naga",
+            "pt_br":"Lenda do Caçador de Dragões",
+            "vi": "Huyền Thoại Săn Rồng"
+        },
+        {
+            "_id": "114",
+            "key": "猎龙传说是一款充满冒险和策略的角色扮演游戏，玩家将探索奇幻世界，追逐强大的龙。",
+            "en_us": "Legend of Dragon Hunt is an adventure-packed role-playing game where players explore a fantasy world in pursuit of powerful dragons.",
+            "id":  "Legenda Pemburu Naga adalah permainan peran yang penuh petualangan dan strategi, di mana pemain akan menjelajahi dunia fantasi dan mengejar naga yang kuat.",
+            "pt_br":" Lenda do Caçador de Dragões é um jogo de RPG repleto de aventura e estratégia, onde os jogadores explorarão um mundo fantástico e perseguirão dragões poderosos.",
+            "vi": "Huyền Thoại Săn Rồng là một trò chơi nhập vai đầy phiêu lưu và chiến lược, nơi người chơi sẽ khám phá thế giới kỳ diệu và truy đuổi những con rồng mạnh mẽ."
+        },
+        {
+            "_id": "115",
+            "key": "玩家将扮演勇敢的猎手，踏上征程，捕捉并驯服各类龙。游戏结合了丰富的故事情节、强大的角色发展系统和紧张的战斗机制，让每一次战斗都充满挑战。通过合作与竞争，玩家可以与好友一起探索这个广阔的奇幻世界，体验令人兴奋的冒险。",
+            "en_us": "players assume the role of brave hunters on a quest to capture and tame various dragons. The game features rich storytelling, a robust character development system, and intense combat mechanics that make every battle a challenge. Through cooperation and competition, players can explore this vast fantasy world with friends and experience thrilling adventures.",
+            "id":  "Pemain akan berperan sebagai pemburu yang berani, memulai perjalanan untuk menangkap dan menjinakkan berbagai jenis naga. Permainan ini menggabungkan alur cerita yang kaya, sistem pengembangan karakter yang kuat, dan mekanisme pertarungan yang menegangkan, menjadikan setiap pertarungan penuh tantangan. Melalui kerja sama dan kompetisi, pemain dapat menjelajahi dunia fantasi yang luas ini bersama teman-teman, merasakan petualangan yang mendebarkan.",
+            "pt_br":"Os jogadores assumirão o papel de corajosos caçadores, embarcando em uma jornada para capturar e domar diversos tipos de dragões. O jogo combina uma rica narrativa, um poderoso sistema de desenvolvimento de personagens e mecânicas de combate intensas, tornando cada batalha um desafio. Através da cooperação e competição, os jogadores podem explorar este vasto mundo fantástico com amigos, vivenciando aventuras emocionantes.",
+            "vi": "Người chơi sẽ vào vai những thợ săn dũng cảm, bắt đầu hành trình để bắt và thuần hóa nhiều loại rồng khác nhau. Trò chơi kết hợp cốt truyện phong phú, hệ thống phát triển nhân vật mạnh mẽ và cơ chế chiến đấu căng thẳng, khiến mỗi trận chiến đều đầy thử thách. Thông qua hợp tác và cạnh tranh, người chơi có thể cùng bạn bè khám phá thế giới kỳ diệu rộng lớn này, trải nghiệm những cuộc phiêu lưu thú vị."
+        },
+        {
+            "_id": "116",
+            "key": "恐龙猎手",
+            "en_us": "Dinosaur_Hunter",
+            "id":  "Pemburu_Dinosaurus",
+            "pt_br":"Caçador_de_Dinossauros",
+            "vi": "Thợ_săn_Khủng_long"
+        },
+        {
+            "_id": "117",
+            "key": "一款激动人心的动作游戏，玩家将操控变形金刚与恐龙展开激烈战斗。",
+            "en_us": "Transformers vs Dinosaurs is an exciting action game where players control Transformers to engage in fierce battles against dinosaurs.",
+            "id":  "Transformers melawan Dinosaurus adalah permainan aksi yang mendebarkan di mana pemain mengendalikan Transformers untuk terlibat dalam pertempuran sengit melawan dinosaurus.",
+            "pt_br":"Transformers vs Dinossauros é um emocionante jogo de ação onde os jogadores controlam Transformers para se envolver em batalhas ferozes contra dinossauros.",
+            "vi": "Biến hình chống lại Khủng long là một trò chơi hành động đầy hồi hộp, nơi người chơi điều khiển các biến hình để tham gia vào những trận chiến ác liệt với khủng long."
+        },
+        {
+            "_id": "118",
+            "key": "玩家将体验到变形金刚与恐龙之间的史诗对决。游戏结合了快速的战斗机制和丰富的角色选择，让每场战斗都充满乐趣和挑战。通过完成任务和挑战，玩家可以解锁新的变形金刚和恐龙，提升游戏体验。",
+            "en_us": "In Transformers vs Dinosaurs, players will experience an epic showdown between Transformers and dinosaurs. The game combines fast-paced combat mechanics with a rich selection of characters, making each battle fun and challenging. By completing missions and challenges, players can unlock new Transformers and dinosaurs, enhancing their gaming experience.",
+            "id":  "Dalam Transformers melawan Dinosaurus, pemain akan merasakan pertarungan epik antara Transformers dan dinosaurus. Permainan ini menggabungkan mekanika pertarungan yang cepat dengan pilihan karakter yang kaya, menjadikan setiap pertempuran menyenangkan dan menantang. Dengan menyelesaikan misi dan tantangan, pemain dapat membuka kunci Transformers dan dinosaurus baru, meningkatkan pengalaman bermain mereka.",
+            "pt_br":"Em Transformers vs Dinossauros, os jogadores experimentarão um confronto épico entre Transformers e dinossauros. O jogo combina mecânicas de combate rápidas com uma rica seleção de personagens, tornando cada batalha divertida e desafiadora. Ao completar missões e desafios, os jogadores podem desbloquear novos Transformers e dinossauros, aprimorando sua experiência de jogo.",
+            "vi": "Trong Biến hình chống lại Khủng long, người chơi sẽ trải nghiệm cuộc đối đầu sử thi giữa các biến hình và khủng long. Trò chơi kết hợp cơ chế chiến đấu nhanh chóng với sự lựa chọn nhân vật phong phú, khiến mỗi trận chiến trở nên thú vị và đầy thách thức. Bằng cách hoàn thành nhiệm vụ và thử thách, người chơi có thể mở khóa các biến hình và khủng long mới, nâng cao trải nghiệm chơi game của họ."
+        },
+        {
+            "_id": "119",
+            "key": "皮纳塔射手",
+            "en_us": "Pinata_Shooter",
+            "id":  "Penembak_Pinata",
+            "pt_br":"Atirador_de_Pinata",
+            "vi": "Người_bắn_Pinata"
+        },
+        {
+            "_id": "120",
+            "key": "一款有趣的射击游戏，玩家需要击打彩色皮纳塔以获得奖励。",
+            "en_us": "Transformers vs Dinosaurs is an exciting action game where players control Transformers to engage in fierce battles against dinosaurs.",
+            "id":  "Transformers melawan Dinosaurus adalah permainan aksi yang mendebarkan di mana pemain mengendalikan Transformers untuk terlibat dalam pertempuran sengit melawan dinosaurus.",
+            "pt_br":"Transformers vs Dinossauros é um emocionante jogo de ação onde os jogadores controlam Transformers para se envolver em batalhas ferozes contra dinossauros.",
+            "vi": "Biến hình chống lại Khủng long là một trò chơi hành động đầy hồi hộp, nơi người chơi điều khiển các biến hình để tham gia vào những trận chiến ác liệt với khủng long."
+        },
+        {
+            "_id": "121",
+            "key": "玩家将体验到充满乐趣和挑战的射击玩法。游戏中有多种不同的皮纳塔，每种都有独特的奖励和难度。通过精准的射击和快速的反应，玩家可以解锁新关卡和道具，提升游戏体验。",
+            "en_us": "In Transformers vs Dinosaurs, players will experience an epic showdown between Transformers and dinosaurs. The game combines fast-paced combat mechanics with a rich selection of characters, making each battle fun and challenging. By completing missions and challenges, players can unlock new Transformers and dinosaurs, enhancing their gaming experience.",
+            "id":  "Dalam Transformers melawan Dinosaurus, pemain akan merasakan pertarungan epik antara Transformers dan dinosaurus. Permainan ini menggabungkan mekanika pertarungan yang cepat dengan pilihan karakter yang kaya, menjadikan setiap pertempuran menyenangkan dan menantang. Dengan menyelesaikan misi dan tantangan, pemain dapat membuka kunci Transformers dan dinosaurus baru, meningkatkan pengalaman bermain mereka.",
+            "pt_br":"Em Transformers vs Dinossauros, os jogadores experimentarão um confronto épico entre Transformers e dinossauros. O jogo combina mecânicas de combate rápidas com uma rica seleção de personagens, tornando cada batalha divertida e desafiadora. Ao completar missões e desafios, os jogadores podem desbloquear novos Transformers e dinossauros, aprimorando sua experiência de jogo.",
+            "vi": "Trong Biến hình chống lại Khủng long, người chơi sẽ trải nghiệm cuộc đối đầu sử thi giữa các biến hình và khủng long. Trò chơi kết hợp cơ chế chiến đấu nhanh chóng với sự lựa chọn nhân vật phong phú, khiến mỗi trận chiến trở nên thú vị và đầy thách thức. Bằng cách hoàn thành nhiệm vụ và thử thách, người chơi có thể mở khóa các biến hình và khủng long mới, nâng cao trải nghiệm chơi game của họ."
+        }
+    ],
+    "GameConfigs": [
+        {
+            "_id": "1",
+            "name": "丧尸围城",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/sswc/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/sswc/index.html",
+            "icon": "resources/images/gameIcons/icon_sswc.png",
+            "icon1": "resources/images/gameIcons/icon_sswc1.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/sswc/1.jpg",
+                "resources/images/screenShoot/sswc/2.jpg",
+                "resources/images/screenShoot/sswc/3.jpg"
+            ],
+            "banner": "resources/images/banners/banner_sswc.png",
+            "subTitle": "消灭丧尸吧，末日的人类急需要你来拯救！",
+            "desc": "一款休闲射击游戏，玩家操控角色不停消灭入侵的丧尸，获得资源武装和升级基地，挑战巨大丧尸Boss，获得最终胜利。\n游戏场景采用轻松3d卡通风格，人物采用火柴人风格；玩家通过使用摇杆移动角色，自动射击丧尸，也可以到达武器载具上面，使用强火力武器消灭丧尸。\n游戏系统包括：宠物系统，建筑升级系统，玩家升级系统，签到系统，武器系统，挂机系统。"
+        },
+        {
+            "_id": "4",
+            "name": "块块左右消",
+            "sort": 9,
+            "type": "消除",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/kkzyx/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/kkzyx/index.html",
+            "icon": "resources/images/gameIcons/icon_kkzyx.png",
+            "screenShoots": [
+                "resources/images/screenShoot/kkzyx/1.jpg",
+                "resources/images/screenShoot/kkzyx/2.jpg",
+                "resources/images/screenShoot/kkzyx/3.jpg",
+                "resources/images/screenShoot/kkzyx/4.jpg",
+                "resources/images/screenShoot/kkzyx/5.jpg"
+            ],
+            "subTitle": "左滑右滑消消乐",
+            "desc": "一款休闲娱乐的消除类益智游戏，简单的规则和玩法，丰富趣味的拼图任务，精美绚丽的色彩，可爱萌动的方块造型，让你开心的动画，新类型的消消乐风格，消磨时间的必备神器。 游戏的玩法非常简单，水平移动方块来填满和消除整行，在游戏过程中积累经验。游戏还有多样化的道具给你提供帮助，完成目标就能消除方块闯关成功。"
+        },
+        {
+            "_id": "5",
+            "name": "合成大骰子",
+            "sort": 8,
+            "type": "消除",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/hcdtz/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/hcdtz/index.html",
+            "icon": "resources/images/gameIcons/icon_hcdtz.png",
+            "screenShoots": [
+                "resources/images/screenShoot/hcdtz/1.jpg",
+                "resources/images/screenShoot/hcdtz/2.jpg",
+                "resources/images/screenShoot/hcdtz/3.jpg"
+            ],
+            "banner": "resources/images/banners/banner_hcdtz.png",
+            "subTitle": "骰子合成大挑战，比比谁最快",
+            "desc": "1.只需要利用手指去点击屏幕，然后就能完成所有的操作步骤，特别的轻松。\n2.每一个骰子出现的点数都是不一样的，所以玩家一定要擦亮自己的眼睛仔细去发现。\n3.还有很多不同的道具可以使用，利用这些道具就能够产生玩家意想不到的结果。\n4.玩家一定要谨慎小心，然后才能够去掌握游戏的精髓，发现游戏中的奥秘。"
+        },
+        {
+            "_id": "6",
+            "name": "合成小院",
+            "sort": 3,
+            "type": "二合消除",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/hcxy/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/hcxy/index.html",
+            "icon": "resources/images/gameIcons/icon_hcxy.png",
+            "screenShoots": [
+                "resources/images/screenShoot/hcxy/1.jpg",
+                "resources/images/screenShoot/hcxy/2.jpg",
+                "resources/images/screenShoot/hcxy/3.jpg"
+            ],
+            "subTitle": "你今天来我家吗",
+            "desc": "1.趣味合成带来了丰富的挑战任务，你可以根据自己的喜好来挑选不同的物品进行解锁。\n2.参与到整个游戏过程当中，给小院进行不同的形象装扮等都可以自由的挑选。\n3.游戏当中自由的发挥，你可以对自己生活的每一个场景进行有趣的布置。"
+        },
+        {
+            "_id": "7",
+            "name": "方块消除大师",
+            "sort": 9,
+            "type": "消除",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/fkxcds/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/fkxcds/index.html",
+            "icon": "resources/images/gameIcons/icon_fkxcds.png",
+            "screenShoots": [
+                "resources/images/screenShoot/fkxcds/1.jpg",
+                "resources/images/screenShoot/fkxcds/2.jpg",
+                "resources/images/screenShoot/fkxcds/3.jpg",
+                "resources/images/screenShoot/fkxcds/4.jpg"
+            ],
+            "subTitle": "有趣且令人上瘾方块消除",
+            "desc": "这个游戏玩法本质上也是俄罗斯方块，但这次不再是一如既往的从上往下掉了，组合在屏幕下方随机生成，玩家须把既定的方块组合拖到棋盘上的空白处，创造并消除完整的一行或多行的线条，并通过连击消除来获得更高的分数，当棋盘上再也无法摆下任意一个方块组合的时候，游戏就会GAME OVER。"
+        },
+        {
+            "_id": "9",
+            "name": "最强躲猫猫",
+            "sort": 4,
+            "type": "动作",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/zqdmm/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/zqdmm/index.html",
+            "icon": "resources/images/gameIcons/icon_zqdmm.png",
+            "screenShoots": [
+                "resources/images/screenShoot/zqdmm/1.jpg",
+                "resources/images/screenShoot/zqdmm/2.jpg",
+                "resources/images/screenShoot/zqdmm/3.jpg",
+                "resources/images/screenShoot/zqdmm/4.jpg",
+                "resources/images/screenShoot/zqdmm/5.jpg"
+            ],
+            "subTitle": "躲猫猫我最强！不服来挑战",
+            "desc": "1.玩家通过扮演捉人者或躲藏者，完成特定的任务，即可通关；\n2.玩家可以选择扮演捉人者或者躲藏者，躲藏者游戏开始后会隐身，捉人者可以通过躲藏者踩中的油漆，留下的脚印，判断其具体位置；\n3.躲藏者需要想尽办法让自己不被捉到，捉人者需要捉光所有的躲藏者才能通关；"
+        },
+        {
+            "_id": "10",
+            "name": "麻将挪对对",
+            "sort": 5,
+            "type": "消除",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/mjndd/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/mjndd/index.html",
+            "icon": "resources/images/gameIcons/icon mjndd.png",
+            "screenShoots": [
+                "resources/images/screenShoot/mjndd/1.jpg",
+                "resources/images/screenShoot/mjndd/2.jpg",
+                "resources/images/screenShoot/mjndd/3.jpg"
+            ],
+            "banner": "resources/images/banners/banner_mjndd.png",
+            "subTitle": "是时候考验你的眼力和脑力啦!",
+            "desc": "1.你需要移动相同的方块并将它们移动到一起，这样它们就会消失，获得积分并进入下一关；\n2.你需要运用你的眼力和策略来完成每个关卡，因为一路上会遇到各种困难和挑战；\n3.游戏拥有丰富的游戏模式，每个关卡的难度逐渐增加，保证玩家充满挑战，越玩越有趣；"
+        },
+        {
+            "_id": "11",
+            "name": "疯狂披萨店",
+            "sort": 19,
+            "type": "动作",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/fkpsd/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/fkpsd/index.html",
+            "icon": "resources/images/gameIcons/icon_fkpsd.png",
+            "screenShoots": [
+                "resources/images/screenShoot/fkpsd/1.jpg",
+                "resources/images/screenShoot/fkpsd/2.jpg",
+                "resources/images/screenShoot/fkpsd/3.jpg",
+                "resources/images/screenShoot/fkpsd/4.jpg",
+                "resources/images/screenShoot/fkpsd/5.jpg"
+            ],
+            "subTitle": "披萨店忙起来也是相当疯狂呢",
+            "desc": "玩家扮演老板黑娃亲自上阵运营披萨店，既作为服务人员为顾客送上食物，也需担起管理者的重任，收餐费、雇员工、升级员工效率。当然，积极拓展新的销售渠道也是玩家工作的一部分。\n游戏场景采用轻松3d卡通风格，人物采用火柴人风格；玩家通过使用摇杆移动角色。\n游戏系统包括：建筑升级系统，玩家升级系统，挂机系统。"
+        },
+        {
+            "_id": "12",
+            "name": "暴打僵尸",
+            "sort": 21,
+            "type": "手速",
+            "screenMode": 1,
+            "gameUrl_cn": "https://app.yomitoo.com/games/bdjs/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/bdjs/index.html",
+            "icon": "resources/images/gameIcons/icon_bdjs.png",
+            "screenShoots": [
+                "resources/images/screenShoot/bdjs/1.jpg",
+                "resources/images/screenShoot/bdjs/2.jpg",
+                "resources/images/screenShoot/bdjs/3.jpg",
+                "resources/images/screenShoot/bdjs/4.jpg",
+                "resources/images/screenShoot/bdjs/5.jpg"
+            ],
+            "subTitle": "超解压暴打美女僵尸",
+            "desc": "一款指尖点击的超解压休闲小游戏，通过不停的点击屏幕，让美女僵尸收到伤害，解锁更多各式各样的超炫酷武器，还有更多的BOSS等着你去探索。"
+        },
+        {
+            "_id": "13",
+            "name": "堆叠胖小人",
+            "sort": 22,
+            "type": "跑酷",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/ddpxr/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/ddpxr/index.html",
+            "icon": "resources/images/gameIcons/icon_ddpxr.png",
+            "screenShoots": [
+                "resources/images/screenShoot/ddpxr/1.jpg",
+                "resources/images/screenShoot/ddpxr/2.jpg",
+                "resources/images/screenShoot/ddpxr/3.jpg",
+                "resources/images/screenShoot/ddpxr/4.jpg"
+            ],
+            "subTitle": "看我爽快叠叠叠",
+            "desc": "1.比赛开始后，玩家需要左右滑动屏幕控制人物的移动方向，收集更多的小胖，并将这些小胖堆叠在一起。\n2.不断前进，其中虽然有很多小胖，但是还是要尽量避免障碍物哦，不要让自己损失过多的小胖即可完成挑战。\n3.面对各种 挑战任务，让你尽情的体会到独特的赛跑玩法与挑战体验，让你秀出自己的精彩操作实力与酷跑乐趣。"
+        },
+        {
+            "_id": "14",
+            "name": "大富豪酒店",
+            "sort": 18,
+            "type": "动作",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/dfhjd/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/dfhjd/index.html",
+            "icon": "resources/images/gameIcons/icon_dfhjd.png",
+            "screenShoots": [
+                "resources/images/screenShoot/dfhjd/1.jpg",
+                "resources/images/screenShoot/dfhjd/2.jpg",
+                "resources/images/screenShoot/dfhjd/3.jpg",
+                "resources/images/screenShoot/dfhjd/4.jpg",
+                "resources/images/screenShoot/dfhjd/5.jpg"
+            ],
+            "subTitle": "让钱滚滚而来，成为酒店大亨",
+            "desc": "一款模拟经营各种主题酒店的游戏，你需要从零开始建造酒店，通过各种精致的装饰和扩展使酒店变得更大、更华丽！建设各种酒店的相关设施以及服务也极其重要，让你的顾客宾至如归。雇佣员工，学会带领你的团队，从繁琐的杂物中脱离出来，享受酒店的建设过程。记得升级房间和给你的员工升级培训，让你的每个房间都物尽其用。 一个完美的酒店，当然还需要各种方便的生活设施，在你的酒店里增加售货机、餐车、停车场和游泳池，更快实现财富自由！机遇时常发生，贵宾光临商城，及时抓住富商的投资，获取丰厚资助。随着住客增加，你的住房供不应求，快去建起新的酒店大楼，开辟专属酒店帝国！"
+        },
+        {
+            "_id": "15",
+            "name": "疯狂鸡大逃杀",
+            "sort": 32,
+            "type": "放置",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/fkjdts/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/fkjdts/index.html",
+            "icon": "resources/images/gameIcons/icon_fkjdts.png",
+            "screenShoots": [
+                "resources/images/screenShoot/fkjdts/1.jpg",
+                "resources/images/screenShoot/fkjdts/2.jpg",
+                "resources/images/screenShoot/fkjdts/3.jpg",
+                "resources/images/screenShoot/fkjdts/4.jpg"
+            ],
+            "subTitle": "你能成为最后那只公鸡吗",
+            "desc": "一款非常治愈的冒险题材游戏，在这款游戏当中玩家们要控制自己的小鸡进行各种的闯关战斗，游戏拥有非常丰富的角色，每个角色都拥有自己不同类型的技能，玩法多样，玩家们在这里需要打怪升级，点满技能树，非常好玩。"
+        },
+        {
+            "_id": "16",
+            "name": "废土老司机",
+            "sort": 33,
+            "type": "赛车",
+            "screenMode": 1,
+            "gameUrl_cn": "https://app.yomitoo.com/games/ftlsj/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/ftlsj/index.html",
+            "icon": "resources/images/gameIcons/icon_ftlsj.png",
+            "screenShoots": [
+                "resources/images/screenShoot/ftlsj/1.jpg",
+                "resources/images/screenShoot/ftlsj/2.jpg",
+                "resources/images/screenShoot/ftlsj/3.jpg",
+                "resources/images/screenShoot/ftlsj/4.jpg",
+                "resources/images/screenShoot/ftlsj/5.jpg"
+            ],
+            "subTitle": "注意安全驾驶啊",
+            "desc": "玩家将驾驶改装车消灭前方的敌人，躲避后方boss车辆的攻击，需要注意的是，要灵活的使用左右控制按钮和前进加速按钮，否则容易翻车哦！收集材料将自己的改装车升级，游戏将会给你带来更大的乐趣。"
+        },
+        {
+            "_id": "17",
+            "name": "飞行棋终极版",
+            "sort": 34,
+            "type": "桌面",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/fxqzjb/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/fxqzjb/index.html",
+            "icon": "resources/images/gameIcons/icon_fxqzjb.png",
+            "screenShoots": [
+                "resources/images/screenShoot/fxqzjb/1.jpg",
+                "resources/images/screenShoot/fxqzjb/2.jpg",
+                "resources/images/screenShoot/fxqzjb/3.jpg",
+                "resources/images/screenShoot/fxqzjb/4.jpg",
+                "resources/images/screenShoot/fxqzjb/5.jpg"
+            ],
+            "subTitle": "一起体验童年的乐趣",
+            "desc": "玩法和传统的飞行棋一致！但是增加了各种华丽的技能，炫酷的特效，大大增加了游戏的趣味性。\n它是以模拟飞机飞航为主题，可以四个人各拿一种颜色一起玩，飞行棋里有一个骰子，你只要转动骰子，骰子停下来的时候正面是几，你就走几步。\n但是刚开始时只有投到起飞号码，你的飞机才能从机场起飞，并且投到六你还有机会再投一次，当一方所有飞机先到达目的地者为胜。"
+        },
+        {
+            "_id": "18",
+            "name": "格斗大师",
+            "sort": 23,
+            "type": "益智",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/gdds/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/gdds/index.html",
+            "icon": "resources/images/gameIcons/icon_gdds.png",
+            "screenShoots": [
+                "resources/images/screenShoot/gdds/1.jpg",
+                "resources/images/screenShoot/gdds/2.jpg",
+                "resources/images/screenShoot/gdds/3.jpg",
+                "resources/images/screenShoot/gdds/4.jpg"
+            ],
+            "subTitle": "看我一剑到底",
+            "desc": "武器已经准备好了，现在就出发吧，多个角色可以使用;\n就是这个格斗姿势，轮到你登场，加入战斗并战胜敌人了，\n拿好手中的剑，和武器，并摆出你最炫的战斗姿态。\n瞄准正确，你就能赢得战斗的胜利并打败敌人;"
+        },
+        {
+            "_id": "19",
+            "name": "孤岛漂流记",
+            "sort": 12,
+            "type": "动作",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/gdplj/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/gdplj/index.html",
+            "icon": "resources/images/gameIcons/icon_gdplj.png",
+            "screenShoots": [
+                "resources/images/screenShoot/gdplj/1.jpg",
+                "resources/images/screenShoot/gdplj/2.jpg",
+                "resources/images/screenShoot/gdplj/3.jpg",
+                "resources/images/screenShoot/gdplj/4.jpg"
+            ],
+            "subTitle": "在孤岛中探索宝藏吧",
+            "desc": "一款模拟海岛经营的游戏，你需要从零开始建造你的海岛，通过各种华丽的船只出海去掠夺各种资源！建设各种海岛的相关设施以及服务也极其重要，让你的岛屿越来越豪华。"
+        },
+        {
+            "_id": "20",
+            "name": "功夫足球星",
+            "sort": 31,
+            "type": "益智",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/gfzqx/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/gfzqx/index.html",
+            "icon": "resources/images/gameIcons/icon_gfzqx.png",
+            "screenShoots": [
+                "resources/images/screenShoot/gfzqx/1.jpg",
+                "resources/images/screenShoot/gfzqx/2.jpg",
+                "resources/images/screenShoot/gfzqx/3.jpg",
+                "resources/images/screenShoot/gfzqx/4.jpg",
+                "resources/images/screenShoot/gfzqx/5.jpg"
+            ],
+            "subTitle": "踢出你的功夫风格",
+            "desc": "一款足球射门游戏，游戏中还拥有数十款酷炫的足球皮肤，在游戏中，玩家将通过判断角色的相隔距离，阻挡的地形，调整自己的瞄准角度与力度，通过将脚下的足球射向攻击目标，利用场景的物品的交互，胜利通关。"
+        },
+        {
+            "_id": "21",
+            "name": "怪兽星球",
+            "sort": 17,
+            "type": "动作",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/gsxq/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/gsxq/index.html",
+            "icon": "resources/images/gameIcons/icon_gsxq.png",
+            "screenShoots": [
+                "resources/images/screenShoot/gsxq/1.jpg",
+                "resources/images/screenShoot/gsxq/2.jpg",
+                "resources/images/screenShoot/gsxq/3.jpg",
+                "resources/images/screenShoot/gsxq/4.jpg",
+                "resources/images/screenShoot/gsxq/5.jpg"
+            ],
+            "subTitle": "各式各样的怪兽，等你来领养",
+            "desc": "1.有很多怪兽可以选择战斗。每个角色都有自己的招募能力，并且在战斗中会慢慢成长。\n2.很多有趣的经历会慢慢地回忆起来，地球上会出现许多汹涌的风暴，力量只会越来越大。\n3.勇敢的竞争行为的画面非常凶猛，到处都是破坏地球的暴徒，维护正义的使命就在身上。"
+        },
+        {
+            "_id": "22",
+            "name": "火柴人侠盗世界",
+            "sort": 13,
+            "type": "动作",
+            "screenMode": 1,
+            "gameUrl_cn": "https://app.yomitoo.com/games/hcrxdsj/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/hcrxdsj/index.html",
+            "icon": "resources/images/gameIcons/icon_hcrxdsj.png",
+            "screenShoots": [
+                "resources/images/screenShoot/hcrxdsj/1.jpg",
+                "resources/images/screenShoot/hcrxdsj/2.jpg",
+                "resources/images/screenShoot/hcrxdsj/3.jpg",
+                "resources/images/screenShoot/hcrxdsj/4.jpg",
+                "resources/images/screenShoot/hcrxdsj/5.jpg"
+            ],
+            "subTitle": "侠盗觉醒，守护城市",
+            "desc": "虽然是火柴人类型的，但是场景做得非常的细腻，各种各样的建筑物都可以进行掩护，内容也极其丰富，每一关都有着任务目标，只有完成任务才可以解锁新的关卡，火柴人不仅可以控制上下左右的方向，还能切换不同武器进行射击，还有不同载具可供玩家驾驶。"
+        },
+        {
+            "_id": "24",
+            "name": "懒虫大冒险",
+            "sort": 29,
+            "type": "益智",
+            "screenMode": 1,
+            "gameUrl_cn": "https://app.yomitoo.com/games/lcdmx/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/lcdmx/index.html",
+            "icon": "resources/images/gameIcons/icon_lcdzz.png",
+            "screenShoots": [
+                "resources/images/screenShoot/lcdmx/1.jpg",
+                "resources/images/screenShoot/lcdmx/2.jpg",
+                "resources/images/screenShoot/lcdmx/3.jpg",
+                "resources/images/screenShoot/lcdmx/4.jpg",
+                "resources/images/screenShoot/lcdmx/5.jpg"
+            ],
+            "subTitle": "我是一条西湖吃苹果的大懒虫",
+            "desc": "1.上、下、左、右键控制贪吃的蛇成功吃苹果，通过关卡。\n2.迅速找到吃苹果和钻黑洞的方法，成功的进入下一关。\n3.控制方向键移动你的小蛇，吃地图上的苹果，小蛇会变长"
+        },
+        {
+            "_id": "25",
+            "name": "梦幻小岛",
+            "sort": 26,
+            "type": "动作",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/mhxd/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/mhxd/index.html",
+            "icon": "resources/images/gameIcons/icon_mhxd.png",
+            "screenShoots": [
+                "resources/images/screenShoot/mhxd/1.jpg",
+                "resources/images/screenShoot/mhxd/2.jpg",
+                "resources/images/screenShoot/mhxd/3.jpg",
+                "resources/images/screenShoot/mhxd/4.jpg",
+                "resources/images/screenShoot/mhxd/5.jpg"
+            ],
+            "subTitle": "一起开辟未知的梦幻世界之旅",
+            "desc": "托尔有他的锤子，海王星有他的三叉戟，在这个游戏中，你有一把强大的镐头，它既擅长击退怪物，也擅长打破岩石、挖掘矿物和开采黄金。通过不同的关卡升级它，以提高你的神圣生产力，并收获更多的资源来继续建造。"
+        },
+        {
+            "_id": "26",
+            "name": "坦克突袭",
+            "sort": 25,
+            "type": "动作",
+            "screenMode": 1,
+            "gameUrl_cn": "https://app.yomitoo.com/games/tktx/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/tktx/index.html",
+            "icon": "resources/images/gameIcons/icon_tktx.png",
+            "screenShoots": [
+                "resources/images/screenShoot/tktx/1.jpg",
+                "resources/images/screenShoot/tktx/2.jpg",
+                "resources/images/screenShoot/tktx/3.jpg",
+                "resources/images/screenShoot/tktx/4.jpg",
+                "resources/images/screenShoot/tktx/5.jpg"
+            ],
+            "subTitle": "快速穿梭战场与敌人展开殊死搏斗",
+            "desc": "一款非常可爱的3D坦克大战游戏，无论是游戏画面还是游戏的玩法，都非常不错。游戏中你不停的移动坦克，然后对准敌人发射炮弹你会感觉像在飘移一样，非常爽，各种酷炫坦克等你挑选。但是关卡越到最后越不是那么容易的哦，你除了要控制好坦克的移动方向，还必须得注意敌人炮弹的攻击，你还可以升级购买自己的专属无人机，无人机会给你带来意想不到的游戏体验。"
+        },
+        {
+            "_id": "28",
+            "name": "挖穿地球",
+            "sort": 15,
+            "type": "动作",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/wcdq/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/wcdq/index.html",
+            "icon": "resources/images/gameIcons/icon_wcdq.png",
+            "screenShoots": [
+                "resources/images/screenShoot/wcdq/1.jpg",
+                "resources/images/screenShoot/wcdq/2.jpg",
+                "resources/images/screenShoot/wcdq/3.jpg",
+                "resources/images/screenShoot/wcdq/4.jpg",
+                "resources/images/screenShoot/wcdq/5.jpg"
+            ],
+            "subTitle": "是男人就挖1000层",
+            "desc": "1.拿起铲子开始工作吧！\n2.用铲子在草坪上挖这个深洞直到地心，找到并收集有价值的硬币，这样你就可以买工人为你挖。\n3.每升一个级别速度都会不同程度地加快，游戏会变得越来越复杂，但也越来越好玩。\n4.每个级别都会有不同的挑战：到达某个深度、收集一定数量的黄金、找到外星生物并将它毁灭或使用道具来充当推进器。"
+        },
+        {
+            "_id": "30",
+            "name": "植物对战僵尸",
+            "sort": 6,
+            "type": "塔防",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/zwdzjs/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/zwdzjs/index.html",
+            "icon": "resources/images/gameIcons/icon_zwdzjs.png",
+            "screenShoots": [
+                "resources/images/screenShoot/zwdzjs/1.jpg",
+                "resources/images/screenShoot/zwdzjs/2.jpg",
+                "resources/images/screenShoot/zwdzjs/3.jpg",
+                "resources/images/screenShoot/zwdzjs/4.jpg"
+            ],
+            "banner": "resources/images/banners/banner_zwdzjs.png",
+            "subTitle": "抵御僵尸进攻，保卫花园",
+            "desc": "1、一款经典的躺平发育玩法游戏，玩家扮演农民，种植各种植物来抵御僵尸的进攻。\n2、在游戏中玩家需要合理的分配金钱，选择升级设施或者种植更多的植物，不同的植物能产生不同的防御效果。\n3、在游戏中玩家还能更换自己的皮肤，丰富的玩法等你来探索。"
+        },
+        {
+            "_id": "31",
+            "name": "植物僵尸惹不起",
+            "sort": 28,
+            "type": "塔防",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/zwjsrbq/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/zwjsrbq/index.html",
+            "icon": "resources/images/gameIcons/icon_zwjsrbq.png",
+            "screenShoots": [
+                "resources/images/screenShoot/zwjsrbq/1.jpg",
+                "resources/images/screenShoot/zwjsrbq/2.jpg",
+                "resources/images/screenShoot/zwjsrbq/3.jpg",
+                "resources/images/screenShoot/zwjsrbq/4.jpg"
+            ],
+            "subTitle": "和植物一起阻止邪恶僵尸的袭击",
+            "desc": "1.植物僵尸惹不起是一款经典玩法的塔防游戏，玩家经过收集不同的种子种植不同的植物，来抵御僵尸的进攻。\n2.在你的花园里种花，并合成它们来解锁全新的花，在这个游戏中可以获得很多种不同的花，不断合成吧。 \n3.使用道具和技能将会获得意想不到的效果。\n4.有时会有一个空投植物。点击会有更多的惊喜在等着你，快来玩吧。"
+        },
+        {
+            "_id": "32",
+            "name": "玩爆僵尸",
+            "sort": 27,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/wbjs/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/wbjs/index.html",
+            "icon": "resources/images/gameIcons/icon_wbjs.png",
+            "screenShoots": [
+                "resources/images/screenShoot/wbjs/1.jpg",
+                "resources/images/screenShoot/wbjs/2.jpg",
+                "resources/images/screenShoot/wbjs/3.jpg",
+                "resources/images/screenShoot/wbjs/4.jpg"
+            ],
+            "subTitle": "打爆进击的僵尸吧",
+            "desc": "1、首先在游戏中玩家们要注意正确的去将那些金币全部都收集起来，并且在那些僵尸出现了之后我们要注意正确的去将那些敌人消灭掉，并且获得更多的金币来升级我们的角色获得更强的攻击力。\n2、在游戏中玩家们在消灭掉那些敌人之后可以获得很多的金币，这些金币玩家们可以用来升级已有的角色和解锁一些新的角色，越是到后期我们需要的金币就会越多。\n3、在游戏中玩家们还要注意去使用角色们的技能，角色会有着不同的技能，在前进的时候玩家们注意在敌人出现很多的时候我们就可以使用角色技能来帮助我们很好地过关了。"
+        },
+        {
+            "_id": "33",
+            "name": "挪车大师",
+            "sort": 7,
+            "type": "益智",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/ncds/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/ncds/index.html",
+            "icon": "resources/images/gameIcons/icon_ncds.png",
+            "screenShoots": [
+                "resources/images/screenShoot/ncds/1.jpg",
+                "resources/images/screenShoot/ncds/2.jpg",
+                "resources/images/screenShoot/ncds/3.jpg",
+                "resources/images/screenShoot/ncds/4.jpg",
+                "resources/images/screenShoot/ncds/5.jpg"
+            ],
+            "banner": "resources/images/banners/banner_ncds.png",
+            "subTitle": "把所有车都挪出去",
+            "desc": "一款休闲益智解谜类游戏，游戏的玩法很简单，只需要将所有的车挪动到空位置，让小车子顺利离开停车场即可胜利，车子移动过程中不能撞到行人，游戏中有海量关卡等你来挑战，每个关卡都有独特的设计，给你最精彩又烧脑的解谜游戏体验。"
+        },
+        {
+            "_id": "34",
+            "name": "我是大老板",
+            "sort": 30,
+            "type": "动作",
+            "screenMode": 0,
+            "gameUrl_cn": "https://app.yomitoo.com/games/wsdlb/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/wsdlb/index.html",
+            "icon": "resources/images/gameIcons/icon_wsdlb2.png",
+            "screenShoots": [
+                "resources/images/screenShoot/wsdlb/1.jpg",
+                "resources/images/screenShoot/wsdlb/2.jpg",
+                "resources/images/screenShoot/wsdlb/3.jpg",
+                "resources/images/screenShoot/wsdlb/4.jpg"
+            ],
+            "subTitle": "打造一个独特的商业帝国",
+            "desc": "1 永远不要让你的员工懈怠\n2 雇佣更多的员工壮大你的团队\n3 不停发展自己的工厂规模"
+        },
+        {
+            "_id": "35",
+            "name": "猎龙传说",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://storage.y8.com/y8-studio/html5/toni/legend_of_dragon_hunt_v4/index.html?key=y8&value=default",
+            "gameUrl": "https://storage.y8.com/y8-studio/html5/toni/legend_of_dragon_hunt_v4/index.html?key=y8&value=default",
+            "icon": "resources/images/gameIcons/icon_lodh.png",
+            "screenShoots": [
+                "resources/images/screenShoot/lodh/1.jpg",
+                "resources/images/screenShoot/lodh/2.png",
+                "resources/images/screenShoot/lodh/3.png"
+            ],
+            "top": "resources/images/top/top_lodh.jpg",
+            "subTitle": "猎龙传说是一款充满冒险和策略的角色扮演游戏，玩家将探索奇幻世界，追逐强大的龙。",
+            "desc": "玩家将扮演勇敢的猎手，踏上征程，捕捉并驯服各类龙。游戏结合了丰富的故事情节、强大的角色发展系统和紧张的战斗机制，让每一次战斗都充满挑战。通过合作与竞争，玩家可以与好友一起探索这个广阔的奇幻世界，体验令人兴奋的冒险。"
+        },
+        {
+            "_id": "36",
+            "name": "恐龙猎手",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://test1.tongyigs.com/game/banner1/web/index.html",
+            "gameUrl": "https://test1.tongyigs.com/game/banner1/web/index.html",
+            "icon": "resources/images/gameIcons/icon_dsht.png",
+            "screenShoots": [
+                "resources/images/screenShoot/dsht/1.jpg",
+                "resources/images/screenShoot/dsht/2.jpg",
+                "resources/images/screenShoot/dsht/3.jpg",
+                "resources/images/screenShoot/dsht/4.jpg"
+            ],
+            "top": "resources/images/top/top_dsht.jpg",
+            "subTitle": "一款激动人心的动作游戏，玩家将操控变形金刚与恐龙展开激烈战斗。",
+            "desc": "玩家将体验到变形金刚与恐龙之间的史诗对决。游戏结合了快速的战斗机制和丰富的角色选择，让每场战斗都充满乐趣和挑战。通过完成任务和挑战，玩家可以解锁新的变形金刚和恐龙，提升游戏体验。"
+        },
+        {
+            "_id": "37",
+            "name": "皮纳塔射手",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://www.uraygame.com/Pinata_Shooter/index.html",
+            "gameUrl": "https://www.uraygame.com/Pinata_Shooter/index.html",
+            "icon": "resources/images/gameIcons/icon_pinata.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/pinata/1.jpg",
+                "resources/images/screenShoot/pinata/2.jpg",
+                "resources/images/screenShoot/pinata/3.jpg",
+                "resources/images/screenShoot/pinata/4.jpg"
+            ],
+            "top": "resources/images/top/top_pinata.jpg",
+            "subTitle": "一款有趣的射击游戏，玩家需要击打彩色皮纳塔以获得奖励。",
+            "desc": "玩家将体验到充满乐趣和挑战的射击玩法。游戏中有多种不同的皮纳塔，每种都有独特的奖励和难度。通过精准的射击和快速的反应，玩家可以解锁新关卡和道具，提升游戏体验。"
+        }
+    ],
+    "HotGameConfigs": [
+        {
+            "_id": "1",
+            "name": "丧尸围城",
+            "gameId": "1",
+            "sort": 3
+        },
+        {
+            "_id": "2",
+            "name": "块块左右消",
+            "gameId": "4",
+            "sort": 4
+        },
+        {
+            "_id": "3",
+            "name": "合成大骰子",
+            "gameId": "5",
+            "sort": 5
+        },
+        {
+            "_id": "4",
+            "name": "合成小院",
+            "gameId": "6",
+            "sort": 6
+        },
+        {
+            "_id": "5",
+            "name": "方块消除大师",
+            "gameId": "7",
+            "sort": 7
+        },
+        {
+            "_id": "6",
+            "name": "植物对战僵尸",
+            "gameId": "30",
+            "sort": 8
+        },
+        {
+            "_id": "7",
+            "name": "最强躲猫猫",
+            "gameId": "9",
+            "sort": 9
+        },
+        {
+            "_id": "8",
+            "name": "麻将挪对对",
+            "gameId": "10",
+            "sort": 10
+        },
+        {
+            "_id": "9",
+            "name": "疯狂披萨店",
+            "gameId": "11",
+            "sort": 11
+        },
+        {
+            "_id": "10",
+            "name": "疯狂鸡大逃杀",
+            "gameId": "15",
+            "sort": 12
+        },
+        {
+            "_id": "11",
+            "name": "挪车大师",
+            "gameId": "33",
+            "sort": 3
+        },
+        {
+            "_id": "12",
+            "name": "坦克突袭",
+            "gameId": "26",
+            "sort": 3
+        }
+    ],
+    "TopGameConfigs": [
+        {
+            "_id": "36",
+            "name": "恐龙猎手",
+            "gameId": "1",
+            "sort": 3
+        },
+        {
+            "_id": "35",
+            "name": "猎龙传说",
+            "gameId": "1",
+            "sort": 3
+        },
+        {
+            "_id": "37",
+            "name": "皮纳塔射手",
+            "gameId": "1",
+            "sort": 3
+        }
+
+
+    ],
+    "BannerShowGameConfigs": [
+        {
+            "_id": "1",
+            "name": "丧尸围城",
+            "gameId": "1",
+            "sort": 1
+        },
+        {
+            "_id": "2",
+            "name": "麻将挪对对",
+            "gameId": "10",
+            "sort": 2
+        },
+        {
+            "_id": "3",
+            "name": "挪车大师",
+            "gameId": "33",
+            "sort": 3
+        },
+        {
+            "_id": "4",
+            "name": "植物对战僵尸",
+            "gameId": "30",
+            "sort": 4
+        },
+        {
+            "_id": "5",
+            "name": "合成大骰子",
+            "gameId": "5",
+            "sort": 5
+        }
+    ]
+}
