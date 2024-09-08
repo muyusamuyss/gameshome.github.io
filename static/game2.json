@@ -1,0 +1,1403 @@
+{
+    "Tool": "github.com/davyxu/tabtoy",
+    "Version": "2.8.11",
+    "MutiLanguageConfigs": [
+        {
+            "_id": "1",
+            "key": "堆叠弹跳",
+            "en_us": "Stack Bounce",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        },
+        {
+            "_id": "2",
+            "key": "在《堆叠弹跳》中，玩家需要控制一个弹跳的球，将方块尽可能高地堆叠起来。",
+            "en_us": "In \"Stack Bounce,\" players need to control a bouncing ball to stack blocks as high as possible.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        },
+        {
+            "_id": "3",
+            "key": "在《堆叠弹跳》中，玩家通过控制弹跳的球来叠加方块，目标是尽量堆得更高。随着游戏的进行，方块的掉落速度会逐渐加快，增加了游戏的挑战性。玩家需要灵活运用反应能力和策略，以在不断增加的难度中获得高分。",
+            "en_us": "In \"Stack Bounce,\" players stack blocks by controlling a bouncing ball, aiming to reach the highest possible height. As the game progresses, the speed of block drops gradually increases, adding to the challenge. Players need to skillfully use their reaction abilities and strategies to achieve high scores amidst the rising difficulty.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "4",
+            "key": "合并数字",
+            "en_us": "Merge the Numbers",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "5",
+            "key": "在《合并数字》中，玩家通过合并相同的数字来创建更大的数字。",
+            "en_us": "In \"Merge the Numbers,\" players create larger numbers by merging identical numbers.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "6",
+            "key": "在《合并数字》中，玩家需要策略性地合并相同的数字，以形成更高的数字组合。游戏的目标是尽可能地合并数字，挑战自己的思维能力和规划能力。随着游戏的进行，难度逐渐增加，玩家需要不断调整策略以应对新的挑战。",
+            "en_us": "In \"Merge the Numbers,\" players strategically merge identical numbers to form higher number combinations. The goal of the game is to merge numbers as much as possible, challenging one's thinking and planning skills. As the game progresses, the difficulty gradually increases, requiring players to continuously adjust their strategies to face new challenges.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "7",
+            "key": "埃及拼图",
+            "en_us": "Tiles of Egypt",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "8",
+            "key": "在《埃及拼图》中，玩家通过匹配相同的图块来完成拼图，探索古埃及的神秘。",
+            "en_us": "In \"Tiles of Egypt,\" players complete puzzles by matching identical tiles while exploring the mysteries of ancient Egypt.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "9",
+            "key": "在《埃及拼图》中，玩家需要通过匹配相同的图块来解锁新的关卡和挑战。游戏结合了策略和观察力，玩家必须仔细思考每一步，以便顺利完成拼图。随着关卡的推进，难度逐渐增加，带来更多的乐趣和挑战。",
+            "en_us": "In \"Tiles of Egypt,\" players unlock new levels and challenges by matching identical tiles. The game combines strategy and observation, requiring players to think carefully about each move to successfully complete the puzzles. As the levels progress, the difficulty gradually increases, providing more fun and challenges.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "10",
+            "key": "果冻弹跳3D",
+            "en_us": "Jelly Bounce 3D",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "11",
+            "key": "在《果冻弹跳3D》中，玩家控制一个弹跳的果冻角色，穿越各种充满挑战的关卡。",
+            "en_us": "In \"Jelly Bounce 3D,\" players control a bouncing jelly character as they navigate through various challenging levels.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "12",
+            "key": "在《果冻弹跳3D》中，玩家需要巧妙地控制果冻移动和弹跳，以避开障碍物和收集奖励。游戏设计了多样化的关卡，每个关卡都充满了独特的挑战和视觉效果。随着游戏的进行，玩家将体验到越来越复杂的环境，考验他们的反应力和策略。",
+            "en_us": "In \"Jelly Bounce 3D,\" players must skillfully control the jelly character's movements and jumps to avoid obstacles and collect rewards. The game features a variety of levels, each filled with unique challenges and visual effects. As the game progresses, players will encounter increasingly complex environments that test their reflexes and strategies.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "13",
+            "key": "挖挖挖",
+            "en_us": "Jelly Bounce 3D",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "14",
+            "key": "在《挖挖挖》中，玩家通过挖掘地下资源来完成任务和挑战。",
+            "en_us": "In \"Dig Dig Dig,\" players complete tasks and challenges by digging for underground resources.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "15",
+            "key": "在《挖挖挖》中，玩家需要使用各种工具和策略来挖掘地下的宝藏和资源。游戏中有多种任务，玩家必须在有限的时间内完成，以获得奖励和升级。随着游戏的深入，挖掘的难度和复杂性逐渐增加，带来更多的乐趣和挑战。",
+            "en_us": "In \"Dig Dig Dig,\" players use various tools and strategies to excavate treasures and resources underground. The game features multiple tasks that players must complete within a limited time to earn rewards and upgrades. As the game progresses, the difficulty and complexity of digging gradually increase, providing more fun and challenges.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "16",
+            "key": "篮球大师2",
+            "en_us": "Basketball Master 2",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "17",
+            "key": "在《篮球大师2》中，玩家可以通过精准投篮和技巧挑战自己，成为篮球高手。",
+            "en_us": "In \"Basketball Master 2,\" players can challenge themselves to become basketball masters through precise shooting and skills.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "18",
+            "key": "在《篮球大师2》中，玩家需要通过不同的投篮模式和挑战来提升自己的篮球技巧。游戏提供多种模式，包括单人挑战和多人对战，让玩家体验不同的乐趣。随着游戏的进行，玩家可以解锁新的球场和装备，进一步提升游戏体验。",
+            "en_us": "In \"Basketball Master 2,\" players enhance their basketball skills through various shooting modes and challenges. The game offers multiple modes, including solo challenges and multiplayer matches, allowing players to experience different types of fun. As the game progresses, players can unlock new courts and equipment, further enhancing their gaming experience.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "19",
+            "key": "珠宝魔法圣诞",
+            "en_us": "Jewel Magic Xmas",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "20",
+            "key": "在《珠宝魔法圣诞》中，玩家通过匹配宝石来完成各种节日主题的关卡。",
+            "en_us": "In \"Jewel Magic Xmas,\" players complete various holiday-themed levels by matching jewels.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "21",
+            "key": "在《珠宝魔法圣诞》中，玩家需要通过匹配相同的宝石来解锁新的关卡和挑战。游戏充满了节日气氛，精美的图形和音效让玩家沉浸在欢乐的圣诞氛围中。随着关卡的推进，难度逐渐增加，玩家需要运用策略和技巧来完成每个挑战。",
+            "en_us": "In \"Jewel Magic Xmas,\" players unlock new levels and challenges by matching identical jewels. The game is filled with a festive atmosphere, and its beautiful graphics and sound effects immerse players in the joyful spirit of Christmas. As the levels progress, the difficulty gradually increases, requiring players to use strategy and skills to complete each challenge.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "22",
+            "key": "木材小子",
+            "en_us": "Timber Guy",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "23",
+            "key": "作为一个伐木工人的冒险等待着你，砍伐木材并清理道路以建立你的王国。",
+            "en_us": "A lumberjack's adventure awaits as you chop wood and clear paths to build your empire.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "24",
+            "key": "在《木材人》中，你将扮演一个在艰难地形中穿行的伐木工。你必须砍伐树木并收集资源来建立自己的村庄。展示你的技能和策略，扩展你的王国！",
+            "en_us": "In Timber Guy, you take on the role of a lumberjack navigating through challenging terrains. You must cut down trees and gather resources to build your own village. Show your skills and strategy to expand your empire!",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "25",
+            "key": "摩托车竞速3",
+            "en_us": "Bike Racing 3",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "26",
+            "key": "在刺激的摩托车比赛中，与其他玩家竞争，快速穿越刺激的赛道。",
+            "en_us": "Speed through exhilarating tracks while competing against other players in thrilling motorcycle races.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "27",
+            "key": "摩托车竞速3》带来肾上腺素激增的乐趣，与来自全球的玩家竞争。选择你的摩托车，升级它，并掌握在各种环境中竞速的技术。你能否登上排行榜的巅峰？",
+            "en_us": "Bike Racing 3 brings adrenaline-pumping excitement as you race against players worldwide. Choose your bike, upgrade it, and master the art of racing through various environments. Will you claim the top spot on the leaderboard?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "28",
+            "key": "3D停车拼图",
+            "en_us": "Puzzle Parking 3D",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "29",
+            "key": "在这款吸引人又富有挑战性的驾驶模拟游戏中，解决让人费脑的停车拼图。",
+            "en_us": "Solve brain-teasing parking puzzles in this engaging and challenging driving simulator.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "30",
+            "key": "在《3D停车拼图》中，玩家必须驾车穿越复杂的停车场景以完成每个关卡。在享受真实驾驶物理和精致环境的同时提升你的解决问题的能力。你能在最狭窄的地方停车而不留下刮痕吗？",
+            "en_us": "In Puzzle Parking 3D, players must navigate complex parking scenarios to complete each level. Enhance your problem-solving skills while enjoying realistic driving physics and detailed environments. Can you park in the tightest spots without a scratch?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "31",
+            "key": "战舰",
+            "en_us": "Battleship ",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "32",
+            "key": "在这款经典游戏中，通过安置舰船和猜测敌人位置来进行战略海战。",
+            "en_us": "Engage in strategic naval warfare by placing ships and guessing enemy locations in this classic game.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "33",
+            "key": "《战舰》让玩家在尝试击沉对手舰队的过程中进行战略思考。每轮，玩家会获得命中或未命中的结果，考验他们的推理能力。你能否比对手更聪明，首先击沉他们的整个舰队？",
+            "en_us": "Battleship challenges players to think strategically as they attempt to sink their opponent's fleet. With each turn, players score hits or misses, testing their deduction skills. Can you outsmart your opponent and sink their entire fleet first?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "34",
+            "key": "宝石宠物配对",
+            "en_us": "Jewel Pets Match",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "35",
+            "key": "在这款有趣而生动的三消游戏中，配对彩色宝石并解锁可爱的宠物。",
+            "en_us": "Match colorful jewels and unlock adorable pets in this fun and vibrant match-3 game.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "36",
+            "key": "《宝石宠物配对》邀请玩家潜入一个丰富多彩的世界，通过配对宝石来解锁可爱的宠物。每次配对，你都会在充满挑战和惊喜的关卡中进步。你能否收集所有宠物，成为终极的宠物看护者？",
+            "en_us": "Jewel Pets Match invites players to dive into a colorful world where matching jewels reveals delightful pets. With each match, you progress through levels filled with challenges and surprises. Will you collect them all and become the ultimate pet caretaker?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "37",
+            "key": "在线冲突加入3D",
+            "en_us": "Join Clash 3D Online",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "38",
+            "key": "组建你的团队，在动态的3D环境中与其他玩家展开史诗般的战斗。",
+            "en_us": "Form your team and clash in epic battles against other players in a dynamic 3D environment.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "39",
+            "key": "《在线冲突加入3D》提供了激动人心的多人体验，玩家可以组建团队与竞争者对抗。自定义你的角色并制定战略，克服你道路上的障碍。你准备好领导你的军队走向胜利了吗？",
+            "en_us": "Join Clash 3D Online offers an exciting multiplayer experience where you gather teams to face off against competitors. Customize your characters and strategize to overcome obstacles in your path. Are you ready to lead your army to victory?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "40",
+            "key": "球体爆破",
+            "en_us": "Ball Blast",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "41",
+            "key": "在这款快节奏的街机游戏中，射击球体以击破它们并获得积分。",
+            "en_us": "Shoot the balls to break them and earn points in this fast-paced arcade game.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "42",
+            "key": "在《球体爆破》中，玩家在射击和炸毁彩色球体以获取高分时体验到肾上腺素的迅猛提升。你击碎越多，每个关卡中等待的挑战就越多。你能接受挑战并创下新纪录吗？",
+            "en_us": " In Ball Blast, players experience an adrenaline rush as they shoot and blast colorful balls to earn high scores. The more you break, the more challenges await in each level. Can you rise to the challenge and set a new record?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "43",
+            "key": "多米诺大战",
+            "en_us": "Domino Battle",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "44",
+            "key": "在激动人心的多米诺比赛中竞争，展示你的战略游戏技巧。",
+            "en_us": "Compete in exciting domino matches and showcase your skills in strategic gameplay.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "45",
+            "key": "《多米诺大战》将经典游戏提升到新的高度，玩家在激动人心的比赛中相互挑战。战略和技能至关重要，因为你要摆放自己的牌以击败对手。你能否主宰棋盘，成为冠军？",
+            "en_us": "Domino Battle takes the classic game to new heights as players challenge each other in exhilarating matches. Strategy and skill are essential as you place your tiles to outsmart your opponent. Will you dominate the board and emerge as the champion?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "46",
+            "key": "海盗爆破",
+            "en_us": "Pirate Pop",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "47",
+            "key": "在一个海盗主题的冒险中，爆破气泡，匹配颜色并拯救被困的海盗。",
+            "en_us": "Burst bubbles in a pirate-themed adventure, matching colors and rescuing trapped pirates.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "48",
+            "key": "《海盗爆破》将爆破五彩气泡的乐趣与海盗主题结合在一起，玩家在各种关卡中探险。匹配颜色以清除道路，拯救你被困的海盗朋友。你能否成为海上的英雄？",
+            "en_us": "Pirate Pop combines colorful bubble-popping fun with a swashbuckling theme as you navigate through various levels. Match colors to clear the way and rescue your pirate friends from danger. Will you become the hero of the high seas?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "49",
+            "key": "砖块破坏",
+            "en_us": "Brick Out",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "50",
+            "key": "这是一款令人兴奋的砖块破坏游戏，你需要通过反弹球来击碎砖块并清理关卡。",
+            "en_us": "An exciting brick-breaking game where you bounce a ball to crush bricks and clear levels.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "51",
+            "key": "《砖块破坏》是一款经典的街机风格游戏，玩家通过反弹球来击碎砖块，逐步挑战越来越困难的关卡。收集增益道具，制定策略以最大化你的得分。你能清除所有砖块，成为终极冠军吗？",
+            "en_us": "Brick Out is a classic arcade-style game where players bounce a ball to break bricks and advance through increasingly challenging levels. Collect power-ups and strategize to maximize your score. Can you clear all the bricks and become the ultimate champion?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "52",
+            "key": "宝石圣诞故事",
+            "en_us": "Jewel Christmas Story",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "53",
+            "key": "在一个节日色彩斑斓的圣诞环境中，通过匹配宝石来庆祝节日季节。",
+            "en_us": "Celebrate the holiday season by matching jewels in a festive and colorful Christmas setting",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "54",
+            "key": "《宝石圣诞故事》邀请玩家通过在令人愉快的节日主题拼图中匹配五彩宝石，享受圣诞的魔力。每个关卡都充满节日的欢乐和具有挑战性的游戏玩法。你能否传播节日的快乐，揭开圣诞的宝藏？",
+            "en_us": "Jewel Christmas Story invites players to enjoy the magic of Christmas by matching colorful gems in delightful holiday-themed puzzles. Each level is filled with festive joy and challenging gameplay. Can you spread holiday cheer and uncover the Christmas treasures?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "55",
+            "key": "秘密特工",
+            "en_us": "Secret Agent",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "56",
+            "key": "作为一名秘密特工，踏上激动人心的间谍任务，运用隐秘和策略获得成功。",
+            "en_us": "Embark on thrilling espionage missions as a secret agent, using stealth and strategy to succeed.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "57",
+            "key": "在《秘密特工》中，玩家将扮演一名隐秘的间谍，穿越危险的任务。运用狡诈的战术和高超的动作来击败敌人，实现目标。你准备好接受间谍的挑战吗？",
+            "en_us": "In Secret Agent, players step into the shoes of a covert spy navigating through dangerous missions. Use cunning tactics and skillful maneuvers to outsmart enemies and achieve your objectives. Are you up for the challenge of espionage?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "58",
+            "key": "甜蜜饼干",
+            "en_us": "Sweet Cookie ",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "59",
+            "key": "通过匹配美味的饼干和制作可口的款待来满足你的甜食欲望。",
+            "en_us": "Satisfy your sweet tooth by matching delicious cookies and creating delectable treats.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "60",
+            "key": "《甜蜜饼干》提供了一种令人愉快的三消体验，专注于诱人的饼干创作。匹配相同颜色的饼干，逐步通过充满甜蜜挑战的关卡。你能否在这个甜美的世界中成为大师级烘焙师？",
+            "en_us": "Sweet Cookie offers a delightful match-3 experience with a focus on mouthwatering cookie creations. Match cookies of the same color to progress through levels filled with sugary challenges. Can you become the master baker in this sweet world?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "61",
+            "key": "方块大师",
+            "en_us": "Cube Master",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "62",
+            "key": "解决方块拼图以完成关卡，成为终极方块大师。",
+            "en_us": "Solve cube puzzles to complete levels and become the ultimate cube master.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "63",
+            "key": "方块大师挑战玩家解决各种引人入胜的方块拼图，这些拼图需要逻辑和创造力。随着你逐步通过关卡，难度增加，推动你的解决问题的能力到极限。你准备好成为终极方块大师吗？",
+            "en_us": "Cube Master challenges players with a variety of engaging cube puzzles that require logic and creativity. As you progress through levels, the difficulty increases, pushing your problem-solving skills to the limit. Are you ready to become the ultimate Cube Master?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "64",
+            "key": "跳跃女孩",
+            "en_us": "Jumping Girl ",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "64",
+            "key": "帮助女孩跳过障碍，达到新高度，在这款有趣的平台游戏中。",
+            "en_us": "Help the girl jump through obstacles and reach new heights in this fun platformer.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "65",
+            "key": "跳跃女孩邀请玩家引导一个充满活力的女孩穿越一系列充满障碍的挑战关卡。时机和精准是你穿越每个阶段的关键。你能帮助她实现梦想，征服每一次跳跃吗？",
+            "en_us": "Jumping Girl invites players to guide a spirited girl through a series of challenging levels filled with obstacles. Timing and precision are key as you navigate through each stage. Can you help her achieve her dreams and conquer every jump?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "66",
+            "key": "塔防X",
+            "en_us": "Tower DefenseX",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "67",
+            "key": "战略性地放置防御设施，以保护你的领土免受一波波敌人的侵袭。",
+            "en_us": "Strategically place defenses to protect your territory from waves of enemies.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "68",
+            "key": "塔防X挑战玩家建立和升级防御设施，以抵御无情的敌人波。每个关卡都有各种塔和策略可供选择，呈现独特的挑战。你能否保护你的领土并获得胜利？",
+            "en_us": "Tower DefenseX challenges players to build and upgrade defenses against relentless waves of enemies. With various towers and strategies to choose from, each level presents a unique challenge. Can you defend your territory and emerge victorious?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "69",
+            "key": "熊猫比萨店",
+            "en_us": "Panda Pizza Parlor",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "70",
+            "key": "管理你自己的比萨店，为饥饿的顾客提供美味的比萨。",
+            "en_us": "Manage your own pizza parlor and serve delicious pizzas to hungry customers",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "71",
+            "key": "熊猫比萨店邀请玩家经营一家繁忙的比萨店，在这里他们可以制作和提供美味的比萨。管理订单，自定义配料，并让顾客满意，以发展你的业务。你能否成为城里最好的比萨厨师？",
+            "en_us": "Panda Pizza Parlor invites players to run a bustling pizza shop where they create and serve delicious pizzas. Manage orders, customize toppings, and keep customers happy to grow your business. Can you become the best pizza chef in town?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "72",
+            "key": "蜜蜂连接",
+            "en_us": "Bee Connect",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "73",
+            "key": "在这款有趣而色彩丰富的拼图游戏中，连接匹配的蜜蜂。",
+            "en_us": "Bee Connect",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "74",
+            "key": "蜜蜂连接挑战玩家在穿越各种障碍的关卡中连接匹配的蜜蜂。运用策略和快速思考来完成每个拼图并前进。你能否连接所有蜜蜂并获得高分？",
+            "en_us": "Bee Connect challenges players to connect matching bees while navigating through various levels filled with obstacles. Use strategy and quick thinking to complete each puzzle and advance. Can you connect all the bees and achieve a high score?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "75",
+            "key": "扫雷狂热",
+            "en_us": "Minesweeper Mania",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "76",
+            "key": "在这款经典的扫雷游戏中测试你的逻辑技能，带有新意。",
+            "en_us": "Test your logic skills in this classic minesweeper game with a twist.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "77",
+            "key": "扫雷狂热为经典游戏提供了新颖的视角，挑战玩家在使用逻辑和推理的同时揭开隐藏的地雷。凭借各种难度级别，它非常适合初学者和专家。你能否在不触发任何地雷的情况下清除棋盘？",
+            "en_us": "Minesweeper Mania offers a fresh take on the classic game, challenging players to uncover hidden mines while using logic and deduction. With various levels of difficulty, it’s perfect for both beginners and experts. Can you clear the board without triggering any mines?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "78",
+            "key": "健身堆叠",
+            "en_us": "Gym Stack",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "79",
+            "key": "堆叠健身器材，在这款有趣的游戏中建立终极健身塔。",
+            "en_us": "Stack gym equipment to build the ultimate fitness tower in this fun game.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "80",
+            "key": "健身堆叠邀请玩家堆叠各种健身器材，以创建尽可能高的健身塔。平衡和精准是你在不同挑战中必不可少的。你能否建立终极健身堆叠并给朋友们留下深刻印象？",
+            "en_us": "Gym Stack",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "81",
+            "key": "征服城市",
+            "en_us": "Conquer The City",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "82",
+            "key": "在这款激动人心的策略游戏中，战略性地征服领土并建立你的帝国。",
+            "en_us": "Strategically conquer territories and build your empire in this exciting strategy game.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "83",
+            "key": "征服城市挑战玩家扩展他们的领土并建立一个强大的帝国。运用策略和资源管理来智胜对手，主宰城市。你能否崛起并成为终极统治者？",
+            "en_us": "Conquer The City challenges players to expand their territory and build a powerful empire. Use strategy and resource management to outsmart opponents and dominate the city. Can you rise to power and become the ultimate ruler?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "84",
+            "key": "搞笑球",
+            "en_us": "Funny Ball",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "85",
+            "key": "在这款有趣的冒险游戏中，控制一个搞笑的球穿越各种障碍。",
+            "en_us": "Control a funny ball through various obstacles in this entertaining adventure game.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "86",
+            "key": "搞笑球邀请玩家引导一个异想天开的球穿越一系列充满障碍和惊喜的挑战关卡。时机和技巧在你穿越每个阶段时至关重要。你能帮助搞笑球到达目的地吗？",
+            "en_us": "Funny Ball invites players to guide a whimsical ball through a series of challenging levels filled with obstacles and surprises. Timing and skill are crucial as you navigate through each stage. Can you help the funny ball reach its destination?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "87",
+            "key": "超级坦克",
+            "en_us": "Super Tankers",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "88",
+            "key": "指挥你的坦克，在这款充满动作的游戏中穿越具有挑战性的水域。",
+            "en_us": "Command your tankers and navigate through challenging waters in this action-packed game.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "89",
+            "key": "超级坦克让玩家控制强大的坦克，在充满障碍的危险水域中航行。运用策略和技巧克服挑战并完成任务。你能否成为终极坦克指挥官？",
+            "en_us": "Super Tankers puts players in control of powerful tankers as they navigate through treacherous waters filled with obstacles. Use strategy and skill to overcome challenges and complete missions. Can you become the ultimate tanker commander?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "90",
+            "key": "宝石拼图",
+            "en_us": "Jewel Puzzle",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "91",
+            "key": "匹配五彩宝石以解决拼图并在这款上瘾的游戏中逐步前进。",
+            "en_us": "Match colorful jewels to solve puzzles and progress through levels in this addictive game.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "92",
+            "key": "宝石拼图邀请玩家沉浸在五彩宝石和挑战拼图的世界中。匹配相同颜色的宝石以清除关卡并获得奖励。你能否解决所有拼图，成为宝石大师？。",
+            "en_us": "Jewel Puzzle invites players to immerse themselves in a world of colorful jewels and challenging puzzles. Match jewels of the same color to clear levels and earn rewards. Can you solve all the puzzles and become a jewel master?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "93",
+            "key": "迷你高尔夫大师",
+            "en_us": "Mini Golf Master",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "94",
+            "key": "在创意迷你高尔夫球场中打球，成为草坪大师。",
+            "en_us": "Play through creative mini-golf courses and become the master of the greens.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "95",
+            "key": "迷你高尔夫大师邀请玩家在充满障碍和挑战的创意迷你高尔夫球场中穿行。运用技巧和精准尽可能少的击球将球打入洞中。你能否征服所有球场，成为迷你高尔夫冠军？",
+            "en_us": "Mini Golf Master invites players to navigate through imaginative mini-golf courses filled with obstacles and challenges. Use skill and precision to sink the ball in as few strokes as possible. Can you conquer all the courses and become the mini-golf champion?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "96",
+            "key": "幻想独角兽创造者",
+            "en_us": "Fantasy Unicorn Creator",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "96",
+            "key": "在这款有趣的游戏中，创造你自己的独特特征和颜色的魔法独角兽。",
+            "en_us": " Create your own magical unicorns with unique features and colors in this fun game.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "97",
+            "key": "幻想独角兽创造者让玩家通过设计具有各种特征和颜色的魔法独角兽来释放他们的创造力。自定义你的独角兽外观并与朋友分享。你能否在幻想世界中创造出最迷人的独角兽？",
+            "en_us": "Fantasy Unicorn Creator allows players to unleash their creativity by designing magical unicorns with various features and colors. Customize your unicorn’s appearance and share it with friends. Can you create the most enchanting unicorn in the fantasy world?",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }
+    ],
+    "GameConfigs": [
+        {
+            "_id": "1",
+            "name": "堆叠弹跳",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://pixelblitz.store/cdn/L-h5games/H5_games/StackBounce/index.html",
+            "gameUrl": "https://pixelblitz.store/cdn/L-h5games/H5_games/StackBounce/index.html",
+            "icon": "resources/images/gameIcons/icon_stack-bounce.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/stackbounce/1.jpg",
+                "resources/images/screenShoot/stackbounce/2.jpg",
+                "resources/images/screenShoot/stackbounce/3.jpg"
+            ],
+            "top": "resources/images/gameIcons/icon_stack-bounce.jpg",
+            "subTitle": "在《堆叠弹跳》中，玩家需要控制一个弹跳的球，将方块尽可能高地堆叠起来。",
+            "desc": "在《堆叠弹跳》中，玩家通过控制弹跳的球来叠加方块，目标是尽量堆得更高。随着游戏的进行，方块的掉落速度会逐渐加快，增加了游戏的挑战性。玩家需要灵活运用反应能力和策略，以在不断增加的难度中获得高分。"
+        },
+        {
+            "_id": "2",
+            "name": "合并数字",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://pixelblitz.store/cdn/L-h5games/H5_games/MergetheNumbers/index.html",
+            "gameUrl": "https://pixelblitz.store/cdn/L-h5games/H5_games/MergetheNumbers/index.html",
+            "icon": "resources/images/gameIcons/icon-merge-the-numbers-457.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/merge-the-numbers/1.jpg",
+                "resources/images/screenShoot/merge-the-numbers/2.jpg",
+                "resources/images/screenShoot/merge-the-numbers/3.jpg"
+            ],
+            "subTitle": "在《合并数字》中，玩家通过合并相同的数字来创建更大的数字。",
+            "desc": "在《合并数字》中，玩家需要策略性地合并相同的数字，以形成更高的数字组合。游戏的目标是尽可能地合并数字，挑战自己的思维能力和规划能力。随着游戏的进行，难度逐渐增加，玩家需要不断调整策略以应对新的挑战。"
+        },
+        {
+            "_id": "3",
+            "name": "埃及拼图",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://pixelblitz.store/cdn/L-h5games/H5_games/TilesofEgypt/index.html",
+            "gameUrl": "https://pixelblitz.store/cdn/L-h5games/H5_games/TilesofEgypt/index.html",
+            "icon": "resources/images/gameIcons/icon-tiles-of-egypt-458.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/tiles-of-egypt/1.jpg",
+                "resources/images/screenShoot/tiles-of-egypt/2.jpg",
+                "resources/images/screenShoot/tiles-of-egypt/3.jpg",
+                "resources/images/screenShoot/tiles-of-egypt/4.jpg"
+            ],
+            "subTitle": "在《埃及拼图》中，玩家通过匹配相同的图块来完成拼图，探索古埃及的神秘。",
+            "desc": "在《埃及拼图》中，玩家需要通过匹配相同的图块来解锁新的关卡和挑战。游戏结合了策略和观察力，玩家必须仔细思考每一步，以便顺利完成拼图。随着关卡的推进，难度逐渐增加，带来更多的乐趣和挑战。"
+        },
+        {
+            "_id": "4",
+            "name": "果冻弹跳3D",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://pixelblitz.store/cdn/L-h5games/H5_games/JellyBounce3D/index.html",
+            "gameUrl": "https://pixelblitz.store/cdn/L-h5games/H5_games/JellyBounce3D/index.html",
+            "icon": "resources/images/gameIcons/icon-jelly-bounce-3d-461.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/jelly-bounce/1.jpg",
+                "resources/images/screenShoot/jelly-bounce/2.jpg",
+                "resources/images/screenShoot/jelly-bounce/3.jpg",
+                "resources/images/screenShoot/jelly-bounce/4.jpg"
+            ],
+            "subTitle": "在《果冻弹跳3D》中，玩家控制一个弹跳的果冻角色，穿越各种充满挑战的关卡。",
+            "desc": "在《果冻弹跳3D》中，玩家需要巧妙地控制果冻移动和弹跳，以避开障碍物和收集奖励。游戏设计了多样化的关卡，每个关卡都充满了独特的挑战和视觉效果。随着游戏的进行，玩家将体验到越来越复杂的环境，考验他们的反应力和策略。"
+        },
+        {
+            "_id": "5",
+            "name": "挖挖挖",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://pixelblitz.store/cdn/L-h5games/H5_games/DigDigDig/index.html",
+            "gameUrl": "https://pixelblitz.store/cdn/L-h5games/H5_games/DigDigDig/index.html",
+            "icon": "resources/images/gameIcons/icon-dig-dig-dig-462.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/dig-dig-dig/1.jpg",
+                "resources/images/screenShoot/dig-dig-dig/2.jpg",
+                "resources/images/screenShoot/dig-dig-dig/3.jpg"
+            ],
+            "subTitle": "在《挖挖挖》中，玩家通过挖掘地下资源来完成任务和挑战。",
+            "desc": "在《挖挖挖》中，玩家需要使用各种工具和策略来挖掘地下的宝藏和资源。游戏中有多种任务，玩家必须在有限的时间内完成，以获得奖励和升级。随着游戏的深入，挖掘的难度和复杂性逐渐增加，带来更多的乐趣和挑战。"
+        },
+        {
+            "_id": "6",
+            "name": "篮球大师2",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://pixelblitz.store/cdn/L-h5games/H5_games/BasketballMaster2/index.html",
+            "gameUrl": "https://pixelblitz.store/cdn/L-h5games/H5_games/BasketballMaster2/index.html",
+            "icon": "resources/images/gameIcons/icon-basketball-master.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/basketball-master/1.jpg",
+                "resources/images/screenShoot/basketball-master/2.jpg",
+                "resources/images/screenShoot/basketball-master/3.jpg"
+            ],
+            "subTitle": "在《篮球大师2》中，玩家可以通过精准投篮和技巧挑战自己，成为篮球高手。",
+            "desc": "在《篮球大师2》中，玩家需要通过不同的投篮模式和挑战来提升自己的篮球技巧。游戏提供多种模式，包括单人挑战和多人对战，让玩家体验不同的乐趣。随着游戏的进行，玩家可以解锁新的球场和装备，进一步提升游戏体验。"
+        },
+        {
+            "_id": "7",
+            "name": "珠宝魔法圣诞",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://pixelblitz.store/cdn/L-h5games/H5_games/JewelMagicXmas/index.html",
+            "gameUrl": "https://pixelblitz.store/cdn/L-h5games/H5_games/JewelMagicXmas/index.html",
+            "icon": "resources/images/gameIcons/icon-jewel-magic-xmas.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/JewelMagicXmas/1.jpg",
+                "resources/images/screenShoot/JewelMagicXmas/2.jpg",
+                "resources/images/screenShoot/JewelMagicXmas/3.jpg"
+            ],
+            "subTitle": "在《珠宝魔法圣诞》中，玩家通过匹配宝石来完成各种节日主题的关卡。",
+            "desc": "在《珠宝魔法圣诞》中，玩家需要通过匹配相同的宝石来解锁新的关卡和挑战。游戏充满了节日气氛，精美的图形和音效让玩家沉浸在欢乐的圣诞氛围中。随着关卡的推进，难度逐渐增加，玩家需要运用策略和技巧来完成每个挑战。"
+        },
+
+
+
+
+        {
+            "_id": "8",
+            "name": "木材小子",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://pixelblitz.store/cdn/L-h5games/H5_games/TimberGuy/index.html",
+            "gameUrl": "https://pixelblitz.store/cdn/L-h5games/H5_games/TimberGuy/index.html",
+            "icon": "resources/images/gameIcons/icon-timber-guy-481.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/TimberGuy/1.jpg",
+                "resources/images/screenShoot/TimberGuy/2.jpg",
+                "resources/images/screenShoot/TimberGuy/3.jpg"
+            ],
+            "subTitle": "作为一个伐木工人的冒险等待着你，砍伐木材并清理道路以建立你的王国。",
+            "desc": "在《木材人》中，你将扮演一个在艰难地形中穿行的伐木工。你必须砍伐树木并收集资源来建立自己的村庄。展示你的技能和策略，扩展你的王国！"
+        },
+        {
+            "_id": "9",
+            "name": "摩托车竞速3",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/BikeRacing3/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/BikeRacing3/index.html",
+            "icon": "resources/images/gameIcons/icon-bike-racing.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/bike-racing/1.jpg",
+                "resources/images/screenShoot/bike-racing/2.jpg",
+                "resources/images/screenShoot/bike-racing/3.jpg"
+            ],
+            "subTitle": "在刺激的摩托车比赛中，与其他玩家竞争，快速穿越刺激的赛道。",
+            "desc": "摩托车竞速3》带来肾上腺素激增的乐趣，与来自全球的玩家竞争。选择你的摩托车，升级它，并掌握在各种环境中竞速的技术。你能否登上排行榜的巅峰？"
+        },
+        {
+            "_id": "10",
+            "name": "3D停车拼图",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/PuzzleParking3d/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/PuzzleParking3d/index.html",
+            "icon": "resources/images/gameIcons/icon-puzzle-parking.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/puzzle-parking/1.jpg",
+                "resources/images/screenShoot/puzzle-parking/2.jpg",
+                "resources/images/screenShoot/puzzle-parking/3.jpg"
+            ],
+            "subTitle": "在这款吸引人又富有挑战性的驾驶模拟游戏中，解决让人费脑的停车拼图。",
+            "desc": "在《3D停车拼图》中，玩家必须驾车穿越复杂的停车场景以完成每个关卡。在享受真实驾驶物理和精致环境的同时提升你的解决问题的能力。你能在最狭窄的地方停车而不留下刮痕吗？"
+        },
+        {
+            "_id": "11",
+            "name": "战舰",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/Battleship2/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/Battleship2/index.html",
+            "icon": "resources/images/gameIcons/icon-battleship-491.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/Battleship2/1.jpg",
+                "resources/images/screenShoot/Battleship2/2.jpg",
+                "resources/images/screenShoot/Battleship2/3.jpg",
+                "resources/images/screenShoot/Battleship2/4.jpg"
+            ],
+            "subTitle": "在这款经典游戏中，通过安置舰船和猜测敌人位置来进行战略海战。",
+            "desc": "《战舰》让玩家在尝试击沉对手舰队的过程中进行战略思考。每轮，玩家会获得命中或未命中的结果，考验他们的推理能力。你能否比对手更聪明，首先击沉他们的整个舰队？"
+        },
+        {
+            "_id": "12",
+            "name": "宝石宠物配对",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/JewelPetsMatch/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/JewelPetsMatch/index.html",
+            "icon": "resources/images/gameIcons/icon-jewel-pets-match.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/jewel-pets-match/1.jpg",
+                "resources/images/screenShoot/jewel-pets-match/2.jpg",
+                "resources/images/screenShoot/jewel-pets-match/3.jpg"
+            ],
+            "subTitle": "在这款有趣而生动的三消游戏中，配对彩色宝石并解锁可爱的宠物。",
+            "desc": "《宝石宠物配对》邀请玩家潜入一个丰富多彩的世界，通过配对宝石来解锁可爱的宠物。每次配对，你都会在充满挑战和惊喜的关卡中进步。你能否收集所有宠物，成为终极的宠物看护者？"
+        },
+        {
+            "_id": "13",
+            "name": "在线冲突加入3D",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/JoinClash3dOnline/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/JoinClash3dOnline/index.html",
+            "icon": "resources/images/gameIcons/icon-join-clash-3d-online.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/JoinClash3dOnline/1.jpg",
+                "resources/images/screenShoot/JoinClash3dOnline/2.jpg",
+                "resources/images/screenShoot/JoinClash3dOnline/3.jpg"
+            ],
+            "subTitle": "组建你的团队，在动态的3D环境中与其他玩家展开史诗般的战斗。",
+            "desc": "《在线冲突加入3D》提供了激动人心的多人体验，玩家可以组建团队与竞争者对抗。自定义你的角色并制定战略，克服你道路上的障碍。你准备好领导你的军队走向胜利了吗？"
+        },
+        {
+            "_id": "14",
+            "name": "球体爆破",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/BallBlast/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/BallBlast/index.html",
+            "icon": "resources/images/gameIcons/icon-ball-blast-510.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/BallBlast/1.jpg",
+                "resources/images/screenShoot/BallBlast/2.jpg",
+                "resources/images/screenShoot/BallBlast/3.jpg"
+            ],
+            "subTitle": "在这款快节奏的街机游戏中，射击球体以击破它们并获得积分。",
+            "desc": "在《球体爆破》中，玩家在射击和炸毁彩色球体以获取高分时体验到肾上腺素的迅猛提升。你击碎越多，每个关卡中等待的挑战就越多。你能接受挑战并创下新纪录吗？"
+        },
+        {
+            "_id": "15",
+            "name": "多米诺大战",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/DominoBattle/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/DominoBattle/index.html",
+            "icon": "resources/images/gameIcons/icon-domino-battle-512.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/DominoBattle/1.jpg",
+                "resources/images/screenShoot/DominoBattle/2.jpg",
+                "resources/images/screenShoot/DominoBattle/3.jpg"
+            ],
+            "subTitle": "在激动人心的多米诺比赛中竞争，展示你的战略游戏技巧。",
+            "desc": "《多米诺大战》将经典游戏提升到新的高度，玩家在激动人心的比赛中相互挑战。战略和技能至关重要，因为你要摆放自己的牌以击败对手。你能否主宰棋盘，成为冠军？"
+        },
+        {
+            "_id": "16",
+            "name": "海盗爆破",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/PiratePop/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/PiratePop/index.html",
+            "icon": "resources/images/gameIcons/icon-pirate-pop-517.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/PiratePop/1.jpg",
+                "resources/images/screenShoot/PiratePop/2.jpg",
+                "resources/images/screenShoot/PiratePop/3.jpg",
+                "resources/images/screenShoot/PiratePop/4.jpg"
+            ],
+            "subTitle": "在一个海盗主题的冒险中，爆破气泡，匹配颜色并拯救被困的海盗。",
+            "desc": "《海盗爆破》将爆破五彩气泡的乐趣与海盗主题结合在一起，玩家在各种关卡中探险。匹配颜色以清除道路，拯救你被困的海盗朋友。你能否成为海上的英雄？"
+        },
+        {
+            "_id": "17",
+            "name": "砖块破坏",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/BrickOut/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/BrickOut/index.html",
+            "icon": "resources/images/gameIcons/icon-brick-out-522.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/BrickOut/1.jpg",
+                "resources/images/screenShoot/BrickOut/2.jpg",
+                "resources/images/screenShoot/BrickOut/3.jpg",
+                "resources/images/screenShoot/BrickOut/4.jpg"
+            ],
+            "subTitle": "这是一款令人兴奋的砖块破坏游戏，你需要通过反弹球来击碎砖块并清理关卡。",
+            "desc": "《砖块破坏》是一款经典的街机风格游戏，玩家通过反弹球来击碎砖块，逐步挑战越来越困难的关卡。收集增益道具，制定策略以最大化你的得分。你能清除所有砖块，成为终极冠军吗？"
+        },
+        {
+            "_id": "18",
+            "name": "宝石圣诞故事",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/BrickOut/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/BrickOut/index.html",
+            "icon": "resources/images/gameIcons/icon-jewel-christmas-story.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/JewelChristmasStory/1.jpg",
+                "resources/images/screenShoot/JewelChristmasStory/2.jpg",
+                "resources/images/screenShoot/JewelChristmasStory/3.jpg"
+            ],
+            "subTitle": "在一个节日色彩斑斓的圣诞环境中，通过匹配宝石来庆祝节日季节。",
+            "desc": "《宝石圣诞故事》邀请玩家通过在令人愉快的节日主题拼图中匹配五彩宝石，享受圣诞的魔力。每个关卡都充满节日的欢乐和具有挑战性的游戏玩法。你能否传播节日的快乐，揭开圣诞的宝藏？"
+        },
+        {
+            "_id": "19",
+            "name": "秘密特工",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/SecretAgent/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/SecretAgent/index.html",
+            "icon": "resources/images/gameIcons/icon-secret-agent-537.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/SecretAgent/1.jpg",
+                "resources/images/screenShoot/SecretAgent/2.jpg",
+                "resources/images/screenShoot/SecretAgent/3.jpg"
+            ],
+            "subTitle": "作为一名秘密特工，踏上激动人心的间谍任务，运用隐秘和策略获得成功。",
+            "desc": "在《秘密特工》中，玩家将扮演一名隐秘的间谍，穿越危险的任务。运用狡诈的战术和高超的动作来击败敌人，实现目标。你准备好接受间谍的挑战吗？"
+        },
+        {
+            "_id": "20",
+            "name": "甜蜜饼干",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/SweetCookie/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/SweetCookie/index.html",
+            "icon": "resources/images/gameIcons/icon-sweet-cookie-540.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/SweetCookie/1.jpg",
+                "resources/images/screenShoot/SweetCookie/2.jpg",
+                "resources/images/screenShoot/SweetCookie/3.jpg"
+            ],
+            "subTitle": "通过匹配美味的饼干和制作可口的款待来满足你的甜食欲望。",
+            "desc": "《甜蜜饼干》提供了一种令人愉快的三消体验，专注于诱人的饼干创作。匹配相同颜色的饼干，逐步通过充满甜蜜挑战的关卡。你能否在这个甜美的世界中成为大师级烘焙师？"
+        },
+        {
+            "_id": "21",
+            "name": "方块大师",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/CubeMaster/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/CubeMaster/index.html",
+            "icon": "resources/images/gameIcons/icon-cube-master-553.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/CubeMaster/1.jpg",
+                "resources/images/screenShoot/CubeMaster/2.jpg",
+                "resources/images/screenShoot/CubeMaster/3.jpg"
+            ],
+            "subTitle": "解决方块拼图以完成关卡，成为终极方块大师。",
+            "desc": "方块大师挑战玩家解决各种引人入胜的方块拼图，这些拼图需要逻辑和创造力。随着你逐步通过关卡，难度增加，推动你的解决问题的能力到极限。你准备好成为终极方块大师吗？"
+        },
+        {
+            "_id": "22",
+            "name": "跳跃女孩",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/JumpingGirl/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/JumpingGirl/index.html",
+            "icon": "resources/images/gameIcons/icon-jumping-girl-554.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/JumpingGirl/1.jpg",
+                "resources/images/screenShoot/JumpingGirl/2.jpg",
+                "resources/images/screenShoot/JumpingGirl/3.jpg"
+            ],
+            "subTitle": "帮助女孩跳过障碍，达到新高度，在这款有趣的平台游戏中。",
+            "desc": "跳跃女孩邀请玩家引导一个充满活力的女孩穿越一系列充满障碍的挑战关卡。时机和精准是你穿越每个阶段的关键。你能帮助她实现梦想，征服每一次跳跃吗？"
+        },
+        {
+            "_id": "23",
+            "name": "塔防X",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/FireLineMergeDefense/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/FireLineMergeDefense/index.html",
+            "icon": "resources/images/gameIcons/icon-tower-defensex-565.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/FireLineMergeDefense/1.jpg",
+                "resources/images/screenShoot/FireLineMergeDefense/2.jpg",
+                "resources/images/screenShoot/FireLineMergeDefense/3.jpg"
+            ],
+            "subTitle": "战略性地放置防御设施，以保护你的领土免受一波波敌人的侵袭。",
+            "desc": "塔防X挑战玩家建立和升级防御设施，以抵御无情的敌人波。每个关卡都有各种塔和策略可供选择，呈现独特的挑战。你能否保护你的领土并获得胜利？"
+        },
+        {
+            "_id": "24",
+            "name": "熊猫比萨店",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/PandaPizzaParlor/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/PandaPizzaParlor/index.html",
+            "icon": "resources/images/gameIcons/icon-panda-pizza-parlor-453.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/PandaPizzaParlor/1.jpg",
+                "resources/images/screenShoot/PandaPizzaParlor/2.jpg",
+                "resources/images/screenShoot/PandaPizzaParlor/3.jpg"
+            ],
+            "subTitle": "管理你自己的比萨店，为饥饿的顾客提供美味的比萨。",
+            "desc": "熊猫比萨店邀请玩家经营一家繁忙的比萨店，在这里他们可以制作和提供美味的比萨。管理订单，自定义配料，并让顾客满意，以发展你的业务。你能否成为城里最好的比萨厨师？"
+        },
+        {
+            "_id": "25",
+            "name": "蜜蜂连接",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/BeeConnect/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/BeeConnect/index.html",
+            "icon": "resources/images/gameIcons/icon-bee-connect-469.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/BeeConnect/1.jpg",
+                "resources/images/screenShoot/BeeConnect/2.jpg",
+                "resources/images/screenShoot/BeeConnect/3.jpg"
+            ],
+            "subTitle": "在这款有趣而色彩丰富的拼图游戏中，连接匹配的蜜蜂。",
+            "desc": "蜜蜂连接挑战玩家在穿越各种障碍的关卡中连接匹配的蜜蜂。运用策略和快速思考来完成每个拼图并前进。你能否连接所有蜜蜂并获得高分？"
+        },
+        {
+            "_id": "26",
+            "name": "扫雷狂热",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/MinesweeperMania/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/MinesweeperMania/index.html",
+            "icon": "resources/images/gameIcons/icon-minesweeper-mania-477.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/MinesweeperMania/1.jpg",
+                "resources/images/screenShoot/MinesweeperMania/2.jpg",
+                "resources/images/screenShoot/MinesweeperMania/3.jpg"
+            ],
+            "subTitle": "在这款经典的扫雷游戏中测试你的逻辑技能，带有新意。",
+            "desc": "扫雷狂热为经典游戏提供了新颖的视角，挑战玩家在使用逻辑和推理的同时揭开隐藏的地雷。凭借各种难度级别，它非常适合初学者和专家。你能否在不触发任何地雷的情况下清除棋盘？"
+        },
+        {
+            "_id": "27",
+            "name": "健身堆叠",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/GymStack/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/GymStack/index.html",
+            "icon": "resources/images/gameIcons/icon-512x512bb.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/GymStack/1.jpg",
+                "resources/images/screenShoot/GymStack/2.jpg",
+                "resources/images/screenShoot/GymStack/3.jpg"
+            ],
+            "subTitle": "堆叠健身器材，在这款有趣的游戏中建立终极健身塔。",
+            "desc": "健身堆叠邀请玩家堆叠各种健身器材，以创建尽可能高的健身塔。平衡和精准是你在不同挑战中必不可少的。你能否建立终极健身堆叠并给朋友们留下深刻印象？"
+        },
+        {
+            "_id": "28",
+            "name": "征服城市",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/ConquerTheCity/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/ConquerTheCity/index.html",
+            "icon": "resources/images/gameIcons/icon-conquer-the-city-492.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/ConquerTheCity/1.jpg",
+                "resources/images/screenShoot/ConquerTheCity/2.jpg",
+                "resources/images/screenShoot/ConquerTheCity/3.jpg"
+            ],
+            "subTitle": "在这款激动人心的策略游戏中，战略性地征服领土并建立你的帝国。",
+            "desc": "征服城市挑战玩家扩展他们的领土并建立一个强大的帝国。运用策略和资源管理来智胜对手，主宰城市。你能否崛起并成为终极统治者？"
+        },
+        {
+            "_id": "29",
+            "name": "搞笑球",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/FunnyBall/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/FunnyBall/index.html",
+            "icon": "resources/images/gameIcons/icon-funny-ball-493.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/FunnyBall/1.jpg",
+                "resources/images/screenShoot/FunnyBall/2.jpg",
+                "resources/images/screenShoot/FunnyBall/3.jpg"
+            ],
+            "subTitle": "在这款有趣的冒险游戏中，控制一个搞笑的球穿越各种障碍。",
+            "desc": "搞笑球邀请玩家引导一个异想天开的球穿越一系列充满障碍和惊喜的挑战关卡。时机和技巧在你穿越每个阶段时至关重要。你能帮助搞笑球到达目的地吗？"
+        },
+        {
+            "_id": "30",
+            "name": "超级坦克",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/SuperTankers/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/SuperTankers/index.html",
+            "icon": "resources/images/gameIcons/icon-super-tankers-497.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/SuperTankers/1.jpg",
+                "resources/images/screenShoot/SuperTankers/2.jpg",
+                "resources/images/screenShoot/SuperTankers/3.jpg"
+            ],
+            "subTitle": "指挥你的坦克，在这款充满动作的游戏中穿越具有挑战性的水域。",
+            "desc": "超级坦克让玩家控制强大的坦克，在充满障碍的危险水域中航行。运用策略和技巧克服挑战并完成任务。你能否成为终极坦克指挥官？"
+        },
+        {
+            "_id": "31",
+            "name": "宝石拼图",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/JewelPuzzle/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/JewelPuzzle/index.html",
+            "icon": "resources/images/gameIcons/icon-jewel-puzzle-521.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/JewelPuzzle/1.jpg",
+                "resources/images/screenShoot/JewelPuzzle/2.jpg",
+                "resources/images/screenShoot/JewelPuzzle/3.jpg"
+            ],
+            "subTitle": "匹配五彩宝石以解决拼图并在这款上瘾的游戏中逐步前进。",
+            "desc": "宝石拼图邀请玩家沉浸在五彩宝石和挑战拼图的世界中。匹配相同颜色的宝石以清除关卡并获得奖励。你能否解决所有拼图，成为宝石大师？"
+        },
+        {
+            "_id": "32",
+            "name": "迷你高尔夫大师",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/MiniGolfMaster/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/MiniGolfMaster/index.html",
+            "icon": "resources/images/gameIcons/icon-mini-golf-master-548.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/MiniGolfMaster/1.jpg",
+                "resources/images/screenShoot/MiniGolfMaster/2.jpg",
+                "resources/images/screenShoot/MiniGolfMaster/3.jpg"
+            ],
+            "subTitle": "在创意迷你高尔夫球场中打球，成为草坪大师。",
+            "desc": "迷你高尔夫大师邀请玩家在充满障碍和挑战的创意迷你高尔夫球场中穿行。运用技巧和精准尽可能少的击球将球打入洞中。你能否征服所有球场，成为迷你高尔夫冠军？"
+        },
+        {
+            "_id": "33",
+            "name": "幻想独角兽创造者",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "http://pixelblitz.store/cdn/L-h5games/H5_games/FantasyUnicornCreator/index.html",
+            "gameUrl": "http://pixelblitz.store/cdn/L-h5games/H5_games/FantasyUnicornCreator/index.html",
+            "icon": "resources/images/gameIcons/icon-fantasy-unicorn-creator-558.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/FantasyUnicornCreator/1.jpg",
+                "resources/images/screenShoot/FantasyUnicornCreator/2.jpg",
+                "resources/images/screenShoot/FantasyUnicornCreator/3.jpg"
+            ],
+            "subTitle": "在这款有趣的游戏中，创造你自己的独特特征和颜色的魔法独角兽。",
+            "desc": "幻想独角兽创造者让玩家通过设计具有各种特征和颜色的魔法独角兽来释放他们的创造力。自定义你的独角兽外观并与朋友分享。你能否在幻想世界中创造出最迷人的独角兽？"
+        }
+    ],
+    "HotGameConfigs": [
+        {
+            "_id": "1",
+            "name": "丧尸围城",
+            "gameId": "1",
+            "sort": 3
+        },
+        {
+            "_id": "2",
+            "name": "块块左右消",
+            "gameId": "4",
+            "sort": 4
+        },
+        {
+            "_id": "3",
+            "name": "合成大骰子",
+            "gameId": "5",
+            "sort": 5
+        },
+        {
+            "_id": "4",
+            "name": "合成小院",
+            "gameId": "6",
+            "sort": 6
+        },
+        {
+            "_id": "5",
+            "name": "方块消除大师",
+            "gameId": "7",
+            "sort": 7
+        },
+        {
+            "_id": "6",
+            "name": "植物对战僵尸",
+            "gameId": "30",
+            "sort": 8
+        },
+        {
+            "_id": "7",
+            "name": "最强躲猫猫",
+            "gameId": "9",
+            "sort": 9
+        },
+        {
+            "_id": "8",
+            "name": "麻将挪对对",
+            "gameId": "10",
+            "sort": 10
+        },
+        {
+            "_id": "9",
+            "name": "疯狂披萨店",
+            "gameId": "11",
+            "sort": 11
+        },
+        {
+            "_id": "10",
+            "name": "疯狂鸡大逃杀",
+            "gameId": "15",
+            "sort": 12
+        },
+        {
+            "_id": "11",
+            "name": "挪车大师",
+            "gameId": "33",
+            "sort": 3
+        },
+        {
+            "_id": "12",
+            "name": "坦克突袭",
+            "gameId": "26",
+            "sort": 3
+        }
+    ],
+    "TopGameConfigs": [
+        {
+            "_id": "1",
+            "name": "恐龙猎手",
+            "gameId": "1",
+            "sort": 3
+        },
+        {
+            "_id": "11",
+            "name": "猎龙传说",
+            "gameId": "1",
+            "sort": 3
+        },
+        {
+            "_id": "13",
+            "name": "皮纳塔射手",
+            "gameId": "1",
+            "sort": 3
+        }
+
+
+    ],
+    "BannerShowGameConfigs": [
+        {
+            "_id": "1",
+            "name": "丧尸围城",
+            "gameId": "1",
+            "sort": 1
+        },
+        {
+            "_id": "2",
+            "name": "麻将挪对对",
+            "gameId": "10",
+            "sort": 2
+        },
+        {
+            "_id": "3",
+            "name": "挪车大师",
+            "gameId": "33",
+            "sort": 3
+        },
+        {
+            "_id": "4",
+            "name": "植物对战僵尸",
+            "gameId": "30",
+            "sort": 4
+        },
+        {
+            "_id": "5",
+            "name": "合成大骰子",
+            "gameId": "5",
+            "sort": 5
+        }
+    ]
+}

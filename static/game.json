@@ -1536,8 +1536,8 @@
             "sort": 1,
             "type": "射击",
             "screenMode": 0,
-            "gameUrl_cn": "https://www.uraygame.com/Pinata_Shooter/index.html",
-            "gameUrl": "https://www.uraygame.com/Pinata_Shooter/index.html",
+            "gameUrl_cn": "https://test1.tongyigs.com/game/banner2/web/index.html",
+            "gameUrl": "https://test1.tongyigs.com/game/banner2/web/index.html",
             "icon": "resources/images/gameIcons/icon_pinata.jpg",
             "screenShoots": [
                 "resources/images/screenShoot/pinata/1.jpg",
